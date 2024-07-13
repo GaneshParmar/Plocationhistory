@@ -1,0 +1,990 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 252342369,
+        "longitudeE7": 736731885,
+        "placeId": "ChIJS2VBEUE7aDkRm8jAcLMemnM",
+        "sourceInfo": {
+          "deviceTag": 1169445233
+        },
+        "locationConfidence": 20.415989,
+        "calibratedProbability": 6.712973
+      },
+      "duration": {
+        "startTimestamp": "2021-05-01T04:54:36.581Z",
+        "endTimestamp": "2021-05-01T09:38:08.987Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 252343800,
+      "centerLngE7": 736734850,
+      "visitConfidence": 60,
+      "otherCandidateLocations": [{
+        "latitudeE7": 252334641,
+        "longitudeE7": 736763894,
+        "placeId": "ChIJMdz870E7aDkR5yWMFlG_2sE",
+        "address": "near toll plaza, 6MMG+9HJ, Garhbor, Rajasthan 313334, India",
+        "name": "Green chilli midway",
+        "locationConfidence": 15.655942,
+        "calibratedProbability": 5.1478243
+      }, {
+        "latitudeE7": 252343922,
+        "longitudeE7": 736745224,
+        "placeId": "ChIJaW72kEE7aDkRL5o-cnTxY5E",
+        "locationConfidence": 14.87951,
+        "calibratedProbability": 4.8925257
+      }, {
+        "latitudeE7": 252328918,
+        "longitudeE7": 736689134,
+        "placeId": "ChIJoc5mjkY7aDkRm-EHnwLyI-g",
+        "address": "6MM9+5H3, RJ SH 16, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Jhilwara RSRDC Toll Plaza",
+        "locationConfidence": 13.934389,
+        "calibratedProbability": 4.581761
+      }, {
+        "latitudeE7": 252327256,
+        "longitudeE7": 736746617,
+        "placeId": "ChIJA5V9-tI7aDkRXmHFffSq900",
+        "address": "6MMF+3VV, NH 162 Ext, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Talgarh Restaurant",
+        "locationConfidence": 5.8061533,
+        "calibratedProbability": 1.909119
+      }, {
+        "latitudeE7": 252295147,
+        "longitudeE7": 736775796,
+        "placeId": "ChIJi4QzwKQ7aDkRdAzJ_1L4nO8",
+        "address": "6MHH+R24, Jhilwara Rd, Garhbor, Chadana Ki Bhagal, Rajasthan 313334, India",
+        "name": "Devnarayan Hotel and Village Camp",
+        "locationConfidence": 0.590104,
+        "calibratedProbability": 0.19403186
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 12,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 252340951,
+        "longitudeE7": 736717891,
+        "sourceInfo": {
+          "deviceTag": 1169445233
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 252340855,
+        "longitudeE7": 736740392,
+        "sourceInfo": {
+          "deviceTag": 1169445233
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-05-01T09:38:08.987Z",
+        "endTimestamp": "2021-05-01T22:49:17.683Z"
+      },
+      "distance": 226,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 34.54219400882721
+      }, {
+        "activityType": "STILL",
+        "probability": 26.368945837020874
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 19.004392623901367
+      }, {
+        "activityType": "WALKING",
+        "probability": 16.417980194091797
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.411003340035677
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.852690264582634
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.5130582489073277
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.3328600898385048
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.15778421657159925
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.1365826348774135
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.11951306369155645
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.07146295392885804
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.06898838328197598
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0015324414562201127
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.001008497110888129
+      }],
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 252340855,
+          "longitudeE7": 736740392,
+          "accuracyMetres": 160,
+          "sourceInfo": {
+            "deviceTag": 1169445233
+          }
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2021-05-01T22:49:17.683Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 252342369,
+        "longitudeE7": 736731885,
+        "placeId": "ChIJS2VBEUE7aDkRm8jAcLMemnM",
+        "sourceInfo": {
+          "deviceTag": 1169445233
+        },
+        "locationConfidence": 23.77755,
+        "calibratedProbability": 6.537742
+      },
+      "duration": {
+        "startTimestamp": "2021-05-01T22:49:17.683Z",
+        "endTimestamp": "2021-05-02T07:04:27.561Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 252342225,
+      "centerLngE7": 736740800,
+      "visitConfidence": 59,
+      "otherCandidateLocations": [{
+        "latitudeE7": 252328918,
+        "longitudeE7": 736689134,
+        "placeId": "ChIJoc5mjkY7aDkRm-EHnwLyI-g",
+        "address": "6MM9+5H3, RJ SH 16, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Jhilwara RSRDC Toll Plaza",
+        "locationConfidence": 21.422665,
+        "calibratedProbability": 5.890256
+      }, {
+        "latitudeE7": 252334641,
+        "longitudeE7": 736763894,
+        "placeId": "ChIJMdz870E7aDkR5yWMFlG_2sE",
+        "address": "near toll plaza, 6MMG+9HJ, Garhbor, Rajasthan 313334, India",
+        "name": "Green chilli midway",
+        "locationConfidence": 20.309057,
+        "calibratedProbability": 5.5840645
+      }, {
+        "latitudeE7": 252343922,
+        "longitudeE7": 736745224,
+        "placeId": "ChIJaW72kEE7aDkRL5o-cnTxY5E",
+        "locationConfidence": 19.586124,
+        "calibratedProbability": 5.385291
+      }, {
+        "latitudeE7": 252327256,
+        "longitudeE7": 736746617,
+        "placeId": "ChIJA5V9-tI7aDkRXmHFffSq900",
+        "address": "6MMF+3VV, NH 162 Ext, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Talgarh Restaurant",
+        "locationConfidence": 7.4580283,
+        "calibratedProbability": 2.0506177
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 16,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 252340855,
+        "longitudeE7": 736740392,
+        "sourceInfo": {
+          "deviceTag": 1169445233
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 252337672,
+        "longitudeE7": 736744071,
+        "sourceInfo": {
+          "deviceTag": 1169445233
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-05-02T07:04:27.561Z",
+        "endTimestamp": "2021-05-03T15:36:00.196Z"
+      },
+      "distance": 543,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 40.13487994670868
+      }, {
+        "activityType": "STILL",
+        "probability": 25.358694791793823
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 15.44676125049591
+      }, {
+        "activityType": "WALKING",
+        "probability": 15.287983417510986
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.7917098477482796
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.7551603019237518
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.4730300046503544
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.23917241487652063
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.20456016063690186
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.08838981157168746
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.08222100441344082
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.07905357633717358
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.05561534781008959
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0014317587556433864
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.0013362539903027937
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 252338676,
+          "lngE7": 736736984
+        }, {
+          "latE7": 252340087,
+          "lngE7": 736752471
+        }, {
+          "latE7": 252343368,
+          "lngE7": 736759490
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJQYCxdUE7aDkRqvxXtWZFpk4",
+          "duration": "46146s"
+        }, {
+          "placeId": "ChIJ9WiOzkE7aDkR-q5W_jQ3f0A",
+          "duration": "46146s"
+        }],
+        "distanceMeters": 321.7268094682737,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 252342061,
+          "longitudeE7": 736719924,
+          "accuracyMetres": 114,
+          "sourceInfo": {
+            "deviceTag": 1169445233
+          }
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2021-05-03T15:32:59.608Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 252334952,
+        "longitudeE7": 736750854,
+        "placeId": "ChIJaW72kEE7aDkRL5o-cnTxY5E",
+        "sourceInfo": {
+          "deviceTag": 1169445233
+        },
+        "locationConfidence": 33.622704,
+        "calibratedProbability": 6.151205
+      },
+      "duration": {
+        "startTimestamp": "2021-05-03T15:36:00.196Z",
+        "endTimestamp": "2021-05-04T21:20:49.584Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 252341440,
+      "centerLngE7": 736739600,
+      "visitConfidence": 59,
+      "otherCandidateLocations": [{
+        "latitudeE7": 252342968,
+        "longitudeE7": 736739349,
+        "placeId": "ChIJS2VBEUE7aDkRm8jAcLMemnM",
+        "locationConfidence": 25.278297,
+        "calibratedProbability": 4.624613
+      }, {
+        "latitudeE7": 252334641,
+        "longitudeE7": 736763894,
+        "placeId": "ChIJMdz870E7aDkR5yWMFlG_2sE",
+        "address": "near toll plaza, 6MMG+9HJ, Garhbor, Rajasthan 313334, India",
+        "name": "Green chilli midway",
+        "locationConfidence": 17.385658,
+        "calibratedProbability": 3.1806707
+      }, {
+        "latitudeE7": 252327256,
+        "longitudeE7": 736746617,
+        "placeId": "ChIJA5V9-tI7aDkRXmHFffSq900",
+        "address": "6MMF+3VV, NH 162 Ext, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Talgarh Restaurant",
+        "locationConfidence": 6.961151,
+        "calibratedProbability": 1.2735285
+      }, {
+        "latitudeE7": 252301695,
+        "longitudeE7": 736782817,
+        "placeId": "ChIJvQdhy2k7aDkR2m96Osaf7dQ",
+        "address": "6MJH+387, Chadana Ki Bhagal, Rajasthan 313334, India",
+        "name": "Saraswati Math",
+        "locationConfidence": 0.11935717,
+        "calibratedProbability": 0.02183615
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 26,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 252342369,
+        "longitudeE7": 736731885,
+        "placeId": "ChIJS2VBEUE7aDkRm8jAcLMemnM",
+        "sourceInfo": {
+          "deviceTag": 1169445233
+        },
+        "locationConfidence": 24.15086,
+        "calibratedProbability": 6.373125
+      },
+      "duration": {
+        "startTimestamp": "2021-05-04T21:20:49.584Z",
+        "endTimestamp": "2021-05-05T03:05:31.417Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 252340600,
+      "centerLngE7": 736738500,
+      "visitConfidence": 59,
+      "otherCandidateLocations": [{
+        "latitudeE7": 252343922,
+        "longitudeE7": 736745224,
+        "placeId": "ChIJaW72kEE7aDkRL5o-cnTxY5E",
+        "locationConfidence": 23.554382,
+        "calibratedProbability": 6.2157216
+      }, {
+        "latitudeE7": 252334641,
+        "longitudeE7": 736763894,
+        "placeId": "ChIJMdz870E7aDkR5yWMFlG_2sE",
+        "address": "near toll plaza, 6MMG+9HJ, Garhbor, Rajasthan 313334, India",
+        "name": "Green chilli midway",
+        "locationConfidence": 17.276194,
+        "calibratedProbability": 4.5589824
+      }, {
+        "latitudeE7": 252327256,
+        "longitudeE7": 736746617,
+        "placeId": "ChIJA5V9-tI7aDkRXmHFffSq900",
+        "address": "6MMF+3VV, NH 162 Ext, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Talgarh Restaurant",
+        "locationConfidence": 8.753892,
+        "calibratedProbability": 2.310048
+      }, {
+        "latitudeE7": 252328918,
+        "longitudeE7": 736689134,
+        "placeId": "ChIJoc5mjkY7aDkRm-EHnwLyI-g",
+        "address": "6MM9+5H3, RJ SH 16, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Jhilwara RSRDC Toll Plaza",
+        "locationConfidence": 1.6059706,
+        "calibratedProbability": 0.42379656
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 16,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 252329092,
+        "longitudeE7": 736795573,
+        "sourceInfo": {
+          "deviceTag": 1169445233
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 252342102,
+        "longitudeE7": 736751428,
+        "sourceInfo": {
+          "deviceTag": 1169445233
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-05-05T03:05:31.417Z",
+        "endTimestamp": "2021-05-06T02:48:20.439Z"
+      },
+      "distance": 2704,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "WALKING",
+        "probability": 39.97134268283844
+      }, {
+        "activityType": "STILL",
+        "probability": 30.612453818321228
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 18.169261515140533
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 6.493469327688217
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.6415659338235855
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.8012449368834496
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.5763630848377943
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.42501045390963554
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.39304643869400024
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.31654220074415207
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.31506873201578856
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.14782071812078357
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.1305850804783404
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.0036100707802688703
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0026073474145960063
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 252401970,
+          "lngE7": 736700333,
+          "accuracyMeters": 9,
+          "timestamp": "2021-05-05T07:04:57.634Z"
+        }, {
+          "latE7": 252341820,
+          "lngE7": 736718700,
+          "accuracyMeters": 4,
+          "timestamp": "2021-05-05T14:24:17Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 2080.6105455969896
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 252342369,
+        "longitudeE7": 736731885,
+        "placeId": "ChIJS2VBEUE7aDkRm8jAcLMemnM",
+        "sourceInfo": {
+          "deviceTag": 1169445233
+        },
+        "locationConfidence": 24.803009,
+        "calibratedProbability": 6.639989
+      },
+      "duration": {
+        "startTimestamp": "2021-05-06T02:48:20.439Z",
+        "endTimestamp": "2021-05-07T04:10:55.779Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 252339785,
+      "centerLngE7": 736747593,
+      "visitConfidence": 59,
+      "otherCandidateLocations": [{
+        "latitudeE7": 252343922,
+        "longitudeE7": 736745224,
+        "placeId": "ChIJaW72kEE7aDkRL5o-cnTxY5E",
+        "locationConfidence": 23.132597,
+        "calibratedProbability": 6.1928043
+      }, {
+        "latitudeE7": 252334641,
+        "longitudeE7": 736763894,
+        "placeId": "ChIJMdz870E7aDkR5yWMFlG_2sE",
+        "address": "near toll plaza, 6MMG+9HJ, Garhbor, Rajasthan 313334, India",
+        "name": "Green chilli midway",
+        "locationConfidence": 11.399132,
+        "calibratedProbability": 3.05165
+      }, {
+        "latitudeE7": 252328918,
+        "longitudeE7": 736689134,
+        "placeId": "ChIJoc5mjkY7aDkRm-EHnwLyI-g",
+        "address": "6MM9+5H3, RJ SH 16, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Jhilwara RSRDC Toll Plaza",
+        "locationConfidence": 10.802381,
+        "calibratedProbability": 2.8918943
+      }, {
+        "latitudeE7": 252327256,
+        "longitudeE7": 736746617,
+        "placeId": "ChIJA5V9-tI7aDkRXmHFffSq900",
+        "address": "6MMF+3VV, NH 162 Ext, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Talgarh Restaurant",
+        "locationConfidence": 6.2602057,
+        "calibratedProbability": 1.6759133
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 17,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 252334952,
+        "longitudeE7": 736750854,
+        "placeId": "ChIJaW72kEE7aDkRL5o-cnTxY5E",
+        "sourceInfo": {
+          "deviceTag": 1169445233
+        },
+        "locationConfidence": 29.429579,
+        "calibratedProbability": 4.425948
+      },
+      "duration": {
+        "startTimestamp": "2021-05-07T04:10:55.779Z",
+        "endTimestamp": "2021-05-07T07:28:11.357Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 252341156,
+      "centerLngE7": 736743211,
+      "visitConfidence": 56,
+      "otherCandidateLocations": [{
+        "latitudeE7": 252342968,
+        "longitudeE7": 736739349,
+        "placeId": "ChIJS2VBEUE7aDkRm8jAcLMemnM",
+        "locationConfidence": 28.794357,
+        "calibratedProbability": 4.3304167
+      }, {
+        "latitudeE7": 252334641,
+        "longitudeE7": 736763894,
+        "placeId": "ChIJMdz870E7aDkR5yWMFlG_2sE",
+        "address": "near toll plaza, 6MMG+9HJ, Garhbor, Rajasthan 313334, India",
+        "name": "Green chilli midway",
+        "locationConfidence": 19.607456,
+        "calibratedProbability": 2.948788
+      }, {
+        "latitudeE7": 252327256,
+        "longitudeE7": 736746617,
+        "placeId": "ChIJA5V9-tI7aDkRXmHFffSq900",
+        "address": "6MMF+3VV, NH 162 Ext, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Talgarh Restaurant",
+        "locationConfidence": 9.003802,
+        "calibratedProbability": 1.3540922
+      }, {
+        "latitudeE7": 252328918,
+        "longitudeE7": 736689134,
+        "placeId": "ChIJoc5mjkY7aDkRm-EHnwLyI-g",
+        "address": "6MM9+5H3, RJ SH 16, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Jhilwara RSRDC Toll Plaza",
+        "locationConfidence": 5.911748,
+        "calibratedProbability": 0.88907456
+      }, {
+        "latitudeE7": 252330537,
+        "longitudeE7": 736828163,
+        "placeId": "ChIJp7brUvs7aDkRvGMPi-K3Vas",
+        "address": "Jhilwara Rd, Garhbor, Rajasthan 313334, India",
+        "name": "YUMMY MARWAR-THE HANGOUT RESORT",
+        "locationConfidence": 1.1892294,
+        "calibratedProbability": 0.17884958
+      }, {
+        "latitudeE7": 252301695,
+        "longitudeE7": 736782817,
+        "placeId": "ChIJvQdhy2k7aDkR2m96Osaf7dQ",
+        "address": "6MJH+387, Chadana Ki Bhagal, Rajasthan 313334, India",
+        "name": "Saraswati Math",
+        "locationConfidence": 0.9289423,
+        "calibratedProbability": 0.1397047
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 22,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 252342102,
+        "longitudeE7": 736751428,
+        "sourceInfo": {
+          "deviceTag": 1169445233
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 251245325,
+        "longitudeE7": 735868332,
+        "sourceInfo": {
+          "deviceTag": 1169445233
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-05-07T07:28:11.357Z",
+        "endTimestamp": "2021-05-07T08:09:21.735Z"
+      },
+      "distance": 15089,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 49.06800389289856
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 39.28627371788025
+      }, {
+        "activityType": "WALKING",
+        "probability": 7.330764085054398
+      }, {
+        "activityType": "STILL",
+        "probability": 2.1880561485886574
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.1037247255444527
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.296442536637187
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.2188273472711444
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.2178038703277707
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.1446539885364473
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.06216016481630504
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.03797916288021952
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.022725034796167165
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.02242376795038581
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 1.1514047173477593E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 4.58103897926776E-5
+      }],
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 251245325,
+          "longitudeE7": 735868332,
+          "accuracyMetres": 160,
+          "sourceInfo": {
+            "deviceTag": 1169445233
+          }
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2021-05-07T08:09:21.735Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 251261266,
+        "longitudeE7": 735871788,
+        "placeId": "ChIJuV1Zlm0iaDkRS1lxO2WQklA",
+        "address": "Maharana Pratap Marg VOP Kelwara Rajasamand, Kumbhalgarh, Qila Kumbhalgarh, Rajasthan 313325, India",
+        "name": "Club Mahindra Kumbhalgarh",
+        "sourceInfo": {
+          "deviceTag": 1169445233
+        },
+        "locationConfidence": 67.91549,
+        "calibratedProbability": 47.31399
+      },
+      "duration": {
+        "startTimestamp": "2021-05-07T08:09:21.735Z",
+        "endTimestamp": "2021-05-08T02:26:46.994Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 251266233,
+      "centerLngE7": 735873200,
+      "visitConfidence": 80,
+      "otherCandidateLocations": [{
+        "latitudeE7": 251265912,
+        "longitudeE7": 735879643,
+        "placeId": "ChIJ4b6n5x4jaDkR1NIWSodStIM",
+        "address": "The Kumbha Residency, Near Lakhela Talao, Near Kelwara, Kumbhalgarh, Kumbhalgarh, Qila Kumbhalgarh, Rajasthan 313325, India",
+        "name": "Trulyy The Kumbha Residency A Luxury Resort",
+        "locationConfidence": 13.280985,
+        "calibratedProbability": 9.252329
+      }, {
+        "latitudeE7": 251261266,
+        "longitudeE7": 735871788,
+        "placeId": "ChIJR7FW3YgjaDkRKQz1Od1B6HU",
+        "address": "Clab, mahindra circal fort, road, Kumbhalgarh, Qila Kumbhalgarh, Rajasthan 313325, India",
+        "name": "Mahadev spc. Dal bati\u0026restaurant",
+        "locationConfidence": 2.2847579,
+        "calibratedProbability": 1.591699
+      }, {
+        "latitudeE7": 251282487,
+        "longitudeE7": 735878099,
+        "placeId": "ChIJNYZ1bNgjaDkRBF-mcTPhSFQ",
+        "address": "Bid, Fort Road, Kunthwas Ki Bhagal, Kumbhalgarh, Qila Kumbhalgarh, Rajasthan 313325, India",
+        "name": "Shahpura Kumbhal Villas",
+        "locationConfidence": 1.9616017,
+        "calibratedProbability": 1.3665692
+      }, {
+        "latitudeE7": 251265693,
+        "longitudeE7": 735872884,
+        "placeId": "ChIJm5XKuG0iaDkRjRpZLTpCVm4",
+        "address": "Club Mahindra Kumbhalgarh, Mahindra Holidays \u0026 Resort India Ltd, Maharana Pratap Marg, Kelwara, Kumbhalgarh, Rajsamand, Qila Kumbhalgarh, Rajasthan 313325, India",
+        "name": "Svaastha Spa – the Harmony Spa",
+        "locationConfidence": 1.3129259,
+        "calibratedProbability": 0.9146628
+      }, {
+        "latitudeE7": 251242828,
+        "longitudeE7": 735872211,
+        "placeId": "ChIJ2UrvdHIiaDkR4Ym4sCBHm8Y",
+        "address": "Club Mahindra circle Road, Qila Kumbhalgarh, Rajasthan 313325, India",
+        "name": "Radhe Radhe Restaurant",
+        "locationConfidence": 1.1948527,
+        "calibratedProbability": 0.83240587
+      }, {
+        "latitudeE7": 251241347,
+        "longitudeE7": 735873526,
+        "placeId": "ChIJvbPMlEsjaDkRiKztTEM58xA",
+        "address": "Krishna Resort and Restaurants , Club Mahindra Circle, Kelwara, Qila Kumbhalgarh, Rajasthan 313325, India",
+        "name": "Krishna Restaurants And Resort",
+        "locationConfidence": 0.81333137,
+        "calibratedProbability": 0.5666153
+      }, {
+        "latitudeE7": 251239716,
+        "longitudeE7": 735876029,
+        "placeId": "ChIJJ4olgyAjaDkRCIwYyD49MFg",
+        "address": "near club Mahindra circle, Kumbhalgarh, Qila Kumbhalgarh, Rajasthan 313325, India",
+        "name": "Shreeji Da Dhaba",
+        "locationConfidence": 0.5080073,
+        "calibratedProbability": 0.35390827
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 54,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 251265376,
+        "longitudeE7": 735877214,
+        "sourceInfo": {
+          "deviceTag": 1169445233
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 251269002,
+        "longitudeE7": 735873402,
+        "sourceInfo": {
+          "deviceTag": 1169445233
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-05-08T02:26:46.994Z",
+        "endTimestamp": "2021-05-08T15:56:24.938Z"
+      },
+      "distance": 22030,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 53.7619948387146
+      }, {
+        "activityType": "STILL",
+        "probability": 17.439556121826172
+      }, {
+        "activityType": "WALKING",
+        "probability": 11.637556552886963
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 9.138880670070648
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 4.475098475813866
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.069389097392559
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.7292332127690315
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.6466226652264595
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.4271312151104212
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.34353979863226414
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.2445907797664404
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.04950808943249285
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.03570204717107117
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 9.435052561457269E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.5160748009511735E-4
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 251922733,
+          "lngE7": 736709706,
+          "accuracyMeters": 16,
+          "timestamp": "2021-05-08T05:05:00.615Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 21975.88494155145
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 251261266,
+        "longitudeE7": 735871788,
+        "placeId": "ChIJuV1Zlm0iaDkRS1lxO2WQklA",
+        "address": "Maharana Pratap Marg VOP Kelwara Rajasamand, Kumbhalgarh, Qila Kumbhalgarh, Rajasthan 313325, India",
+        "name": "Club Mahindra Kumbhalgarh",
+        "sourceInfo": {
+          "deviceTag": 1169445233
+        },
+        "locationConfidence": 50.662647,
+        "calibratedProbability": 19.997227
+      },
+      "duration": {
+        "startTimestamp": "2021-05-08T15:56:24.938Z",
+        "endTimestamp": "2021-05-08T20:58:54.406Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 251320850,
+      "centerLngE7": 735860700,
+      "visitConfidence": 63,
+      "otherCandidateLocations": [{
+        "latitudeE7": 251265912,
+        "longitudeE7": 735879643,
+        "placeId": "ChIJ4b6n5x4jaDkR1NIWSodStIM",
+        "address": "The Kumbha Residency, Near Lakhela Talao, Near Kelwara, Kumbhalgarh, Kumbhalgarh, Qila Kumbhalgarh, Rajasthan 313325, India",
+        "name": "Trulyy The Kumbha Residency A Luxury Resort",
+        "locationConfidence": 12.4255905,
+        "calibratedProbability": 4.904547
+      }, {
+        "latitudeE7": 251300743,
+        "longitudeE7": 735864910,
+        "placeId": "ChIJe1CHeWwiaDkRD6G3YpeK6Ng",
+        "address": "Fort Road, Kumbhalgarh, Qila Kumbhalgarh, Rajasthan 313325, India",
+        "name": "Tiger Valley Resort Kumbhalgarh",
+        "locationConfidence": 5.7547135,
+        "calibratedProbability": 2.2714627
+      }, {
+        "latitudeE7": 251282487,
+        "longitudeE7": 735878099,
+        "placeId": "ChIJNYZ1bNgjaDkRBF-mcTPhSFQ",
+        "address": "Bid, Fort Road, Kunthwas Ki Bhagal, Kumbhalgarh, Qila Kumbhalgarh, Rajasthan 313325, India",
+        "name": "Shahpura Kumbhal Villas",
+        "locationConfidence": 3.0925186,
+        "calibratedProbability": 1.2206585
+      }, {
+        "latitudeE7": 251265693,
+        "longitudeE7": 735872884,
+        "placeId": "ChIJm5XKuG0iaDkRjRpZLTpCVm4",
+        "address": "Club Mahindra Kumbhalgarh, Mahindra Holidays \u0026 Resort India Ltd, Maharana Pratap Marg, Kelwara, Kumbhalgarh, Rajsamand, Qila Kumbhalgarh, Rajasthan 313325, India",
+        "name": "Svaastha Spa – the Harmony Spa",
+        "locationConfidence": 2.1713934,
+        "calibratedProbability": 0.85707814
+      }, {
+        "latitudeE7": 251261266,
+        "longitudeE7": 735871788,
+        "placeId": "ChIJR7FW3YgjaDkRKQz1Od1B6HU",
+        "address": "Clab, mahindra circal fort, road, Kumbhalgarh, Qila Kumbhalgarh, Rajasthan 313325, India",
+        "name": "Mahadev spc. Dal bati\u0026restaurant",
+        "locationConfidence": 1.836404,
+        "calibratedProbability": 0.7248533
+      }, {
+        "latitudeE7": 251306432,
+        "longitudeE7": 735860258,
+        "placeId": "ChIJswgx9EUjaDkRFpqmvm2TciI",
+        "address": "Near, museam Fort road, Dist, Kumbhalgarh, Qila Kumbhalgarh, Rajasthan 313325, India",
+        "name": "Dollar Villa Resort",
+        "locationConfidence": 1.5845382,
+        "calibratedProbability": 0.6254385
+      }, {
+        "latitudeE7": 251317470,
+        "longitudeE7": 735867163,
+        "placeId": "ChIJOeYkdN8jaDkRB861MzR6Rkc",
+        "address": "4HJP+MMW, Fort Road, Post, Kelwara, Kumbhalgarh, Rajasthan 313325, India",
+        "name": "The Rock Valley Resort",
+        "locationConfidence": 1.5740746,
+        "calibratedProbability": 0.6213084
+      }, {
+        "latitudeE7": 251300271,
+        "longitudeE7": 735853459,
+        "placeId": "ChIJOx_HgUAjaDkRMBVHpNE2MbM",
+        "address": "Kumbhalgarh Fort Rd, Qila Kumbhalgarh, Rajasthan 313325, India",
+        "name": "Ganga Govrdhan Museum",
+        "locationConfidence": 1.4774907,
+        "calibratedProbability": 0.5831854
+      }, {
+        "latitudeE7": 251319600,
+        "longitudeE7": 735865540,
+        "placeId": "ChIJmeQj6UQjaDkR-2MTU0lz-cA",
+        "address": "4HJP+QMH, Fort Road, Bide Ki Bhagal, Kumbhalgarh, Qila Kumbhalgarh, Rajasthan 313325, India",
+        "name": "Hotel ELET PRIMA",
+        "locationConfidence": 1.2880309,
+        "calibratedProbability": 0.50840306
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 41,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

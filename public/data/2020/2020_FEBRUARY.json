@@ -1,0 +1,76 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 191689091,
+        "longitudeE7": 728760223,
+        "placeId": "ChIJ5dlanpi35zsRbifxqOKRcZ8",
+        "address": "1, Film City Road, Shivdarshan Nagar, Goregaon, Mumbai, Mumbai Suburban, Maharashtra 400065, India",
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        },
+        "locationConfidence": 59.161613,
+        "calibratedProbability": 47.120792
+      },
+      "duration": {
+        "startTimestamp": "2020-02-29T10:14:32.159Z",
+        "endTimestamp": "2020-03-01T05:49:59.782Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 191690222,
+      "centerLngE7": 728760233,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 191695485,
+        "longitudeE7": 728753209,
+        "placeId": "ChIJdYm4vZi35zsRnUVG4HrkrE0",
+        "address": "Shop No,2\u00263, Pav Bakery, 5, Film City Rd, nr. Maruti Service Centre, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "My Kitchen Goregaon",
+        "locationConfidence": 29.573484,
+        "calibratedProbability": 23.554564
+      }, {
+        "latitudeE7": 191675424,
+        "longitudeE7": 728767083,
+        "placeId": "ChIJC1wNYpi35zsRdnW5RC6Yk4U",
+        "address": "Film City Rd, Shree Krishna Nagar, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar Extension",
+        "locationConfidence": 3.2071877,
+        "calibratedProbability": 2.5544472
+      }, {
+        "latitudeE7": 191691427,
+        "longitudeE7": 728759338,
+        "placeId": "ChIJKVJ5kJi35zsRAIr9Oz3rrl8",
+        "address": "1, Film City Rd, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Money Value Financial Hub",
+        "locationConfidence": 2.6059186,
+        "calibratedProbability": 2.075551
+      }, {
+        "latitudeE7": 191676179,
+        "longitudeE7": 728780222,
+        "placeId": "ChIJ82A8B4635zsRK6dTUvfgAlk",
+        "address": "Film City Rd, Film City Complex, Aarey Colony, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Dadasaheb Phalke Chitranagari",
+        "locationConfidence": 1.6508715,
+        "calibratedProbability": 1.3148792
+      }, {
+        "latitudeE7": 191691507,
+        "longitudeE7": 728759337,
+        "placeId": "ChIJx7l8kJi35zsR7jOQPyQ06OA",
+        "locationConfidence": 1.0242085,
+        "calibratedProbability": 0.8157573
+      }, {
+        "latitudeE7": 191692669,
+        "longitudeE7": 728754744,
+        "placeId": "ChIJA5BLnpi35zsR49emV4yKw_s",
+        "address": "4, Shram Saflya Rahiwasi Mandal, Gen A. K. Vaidya Marg, Santosh Nagar, Film City Rd, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "RadheShyam Tobacco \u0026 General Store",
+        "locationConfidence": 0.60367393,
+        "calibratedProbability": 0.48081166
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 47,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}
