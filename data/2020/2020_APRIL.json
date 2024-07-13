@@ -1,0 +1,4348 @@
+{
+  "timelineObjects": [{
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 191691823,
+        "longitudeE7": 728761015
+      },
+      "endLocation": {
+        "latitudeE7": 191691823,
+        "longitudeE7": 728761015
+      },
+      "duration": {
+        "startTimestamp": "2020-04-01T08:16:00.116Z",
+        "endTimestamp": "2020-04-01T08:43:15.314Z"
+      },
+      "distance": 5709,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 29.3947696685791
+      }, {
+        "activityType": "WALKING",
+        "probability": 26.07671618461609
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 24.656347930431366
+      }, {
+        "activityType": "STILL",
+        "probability": 7.696746289730072
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 3.4572381526231766
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 3.264891356229782
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.759961783885956
+      }, {
+        "activityType": "RUNNING",
+        "probability": 1.73758864402771
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.6279505789279938
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.24541406892240047
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.07386935758404434
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.006349848990794271
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0015362460544565693
+      }, {
+        "activityType": "SKIING",
+        "probability": 3.307329507151735E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 2.87000807475124E-4
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 191648666,
+          "lngE7": 728493081,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-01T08:22:26.717Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 5709.524669614649
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 191691823,
+          "longitudeE7": 728761015,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2020-04-01T08:44:42.177Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 191695485,
+        "longitudeE7": 728753209,
+        "placeId": "ChIJdYm4vZi35zsRnUVG4HrkrE0",
+        "address": "Shop No,2\u00263, Pav Bakery, 5, Film City Rd, nr. Maruti Service Centre, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "My Kitchen Hub",
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        },
+        "locationConfidence": 42.447857,
+        "calibratedProbability": 30.776772
+      },
+      "duration": {
+        "startTimestamp": "2020-04-01T08:43:15.314Z",
+        "endTimestamp": "2020-04-02T14:30:41.994Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 191690332,
+      "centerLngE7": 728760052,
+      "visitConfidence": 91,
+      "otherCandidateLocations": [{
+        "latitudeE7": 191689091,
+        "longitudeE7": 728760223,
+        "placeId": "ChIJ5dlanpi35zsRbifxqOKRcZ8",
+        "address": "1, Film City Rd, near My Kitchen Goregaon, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "locationConfidence": 42.307144,
+        "calibratedProbability": 30.674747
+      }, {
+        "latitudeE7": 191675424,
+        "longitudeE7": 728767083,
+        "placeId": "ChIJC1wNYpi35zsRdnW5RC6Yk4U",
+        "address": "Film City Rd, Shree Krishna Nagar, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar Extension",
+        "locationConfidence": 8.300247,
+        "calibratedProbability": 6.018085
+      }, {
+        "latitudeE7": 191691427,
+        "longitudeE7": 728759338,
+        "placeId": "ChIJKVJ5kJi35zsRAIr9Oz3rrl8",
+        "address": "1, Film City Rd, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Money Value Financial Hub",
+        "locationConfidence": 1.5594497,
+        "calibratedProbability": 1.1306772
+      }, {
+        "latitudeE7": 191676179,
+        "longitudeE7": 728780222,
+        "placeId": "ChIJ82A8B4635zsRK6dTUvfgAlk",
+        "address": "Film City Rd, Film City Complex, Aarey Colony, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Dadasaheb Phalke Chitranagari",
+        "locationConfidence": 1.478641,
+        "calibratedProbability": 1.072087
+      }, {
+        "latitudeE7": 191726208,
+        "longitudeE7": 728739090,
+        "placeId": "ChIJD1xh6qG35zsR62v9Vpet6DI",
+        "address": "M-WING, Krishna Vatika Marg, near SVC CO-OPERATIVE BANK LTD., Azad Nagar, Gokuldham Colony, Goregaon, Mumbai, Maharashtra 400063, India",
+        "locationConfidence": 1.4317392,
+        "calibratedProbability": 1.0380809
+      }, {
+        "latitudeE7": 191704374,
+        "longitudeE7": 728768289,
+        "placeId": "ChIJvXXLx5i35zsRxuvTLOyBGPI",
+        "address": "Krishna Nagar, 242, Swami Vivekananda Rd, Jai Bhim Nagar, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Vita, Sangali",
+        "locationConfidence": 0.49090832,
+        "calibratedProbability": 0.35593253
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 191705850,
+          "lngE7": 728761167,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-02T08:38:37Z"
+        }, {
+          "latE7": 191705850,
+          "lngE7": 728761167,
+          "accuracyMeters": 17,
+          "timestamp": "2020-04-02T08:40:19.194Z"
+        }, {
+          "latE7": 191705850,
+          "lngE7": 728761167,
+          "accuracyMeters": 17,
+          "timestamp": "2020-04-02T08:40:38.494Z"
+        }, {
+          "latE7": 191705850,
+          "lngE7": 728761167,
+          "accuracyMeters": 17,
+          "timestamp": "2020-04-02T08:41:18.725Z"
+        }, {
+          "latE7": 191711633,
+          "lngE7": 728797183,
+          "accuracyMeters": 10,
+          "timestamp": "2020-04-02T09:21:19.179Z"
+        }, {
+          "latE7": 191693116,
+          "lngE7": 728759327,
+          "accuracyMeters": 8,
+          "timestamp": "2020-04-02T09:25:12Z"
+        }, {
+          "latE7": 191702050,
+          "lngE7": 728753900,
+          "accuracyMeters": 78,
+          "timestamp": "2020-04-02T10:19:56.466Z"
+        }, {
+          "latE7": 191726567,
+          "lngE7": 728762800,
+          "accuracyMeters": 90,
+          "timestamp": "2020-04-02T10:20:56.623Z"
+        }, {
+          "latE7": 191688317,
+          "lngE7": 728758283,
+          "accuracyMeters": 12,
+          "timestamp": "2020-04-02T10:23:54Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 3319.889489181829
+      },
+      "locationConfidence": 34,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 191689675,
+        "longitudeE7": 728760131
+      },
+      "endLocation": {
+        "latitudeE7": 191702202,
+        "longitudeE7": 728724297
+      },
+      "duration": {
+        "startTimestamp": "2020-04-02T14:30:41.994Z",
+        "endTimestamp": "2020-04-02T16:22:07.549Z"
+      },
+      "distance": 5549,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 29.3266624212265
+      }, {
+        "activityType": "STILL",
+        "probability": 27.018269896507263
+      }, {
+        "activityType": "WALKING",
+        "probability": 20.194123685359955
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 18.791106343269348
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.3942409083247185
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.6828485056757927
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.6675872951745987
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.5964793264865875
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.14527359744533896
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.09616217575967312
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.07588178850710392
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.009515837155049667
+      }, {
+        "activityType": "SKIING",
+        "probability": 8.665054338052869E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 8.406763299717568E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 1.355774770672724E-4
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 191687850,
+          "lngE7": 728757095
+        }, {
+          "latE7": 191724052,
+          "lngE7": 728743057
+        }, {
+          "latE7": 191785659,
+          "lngE7": 728708267
+        }, {
+          "latE7": 191758460,
+          "lngE7": 728745117
+        }, {
+          "latE7": 191785545,
+          "lngE7": 728760604
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 3254.3917386857297,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 1.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 191785793,
+          "lngE7": 728707962,
+          "accuracyMeters": 22,
+          "timestamp": "2020-04-02T14:40:27.783Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 191711582,
+          "longitudeE7": 728730143,
+          "accuracyMetres": 72
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2020-04-02T16:24:56.779Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 191689091,
+        "longitudeE7": 728760223,
+        "placeId": "ChIJ5dlanpi35zsRbifxqOKRcZ8",
+        "address": "1, Film City Road, Shivdarshan Nagar, Goregaon, Mumbai, Mumbai Suburban, Maharashtra 400065, India",
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        },
+        "locationConfidence": 89.52061,
+        "calibratedProbability": 47.509007
+      },
+      "duration": {
+        "startTimestamp": "2020-04-02T16:22:07.549Z",
+        "endTimestamp": "2020-04-03T17:44:06.863Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 191689469,
+      "centerLngE7": 728759292,
+      "visitConfidence": 62,
+      "otherCandidateLocations": [{
+        "latitudeE7": 191726208,
+        "longitudeE7": 728739090,
+        "placeId": "ChIJD1xh6qG35zsR62v9Vpet6DI",
+        "address": "M-WING, Krishna Vatika Marg, near SVC CO-OPERATIVE BANK LTD., Azad Nagar, Gokuldham Colony, Goregaon, Mumbai, Maharashtra 400063, India",
+        "locationConfidence": 2.4539905,
+        "calibratedProbability": 1.3023442
+      }, {
+        "latitudeE7": 191689630,
+        "longitudeE7": 728755880,
+        "placeId": "ChIJN_NSm5i35zsRhz1vPuwqZXo",
+        "address": "Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar (Dindoshi)",
+        "locationConfidence": 1.4255377,
+        "calibratedProbability": 0.7565395
+      }, {
+        "latitudeE7": 191672470,
+        "longitudeE7": 728766910,
+        "placeId": "ChIJz6b5QZi35zsRipVztLjpW1c",
+        "address": "Mali Nagar, Aarey Colony, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar Extension",
+        "locationConfidence": 1.2877665,
+        "calibratedProbability": 0.6834237
+      }, {
+        "latitudeE7": 191695485,
+        "longitudeE7": 728753209,
+        "placeId": "ChIJdYm4vZi35zsRnUVG4HrkrE0",
+        "address": "Shop No,2\u00263, Pav Bakery, 5, Film City Rd, nr. Maruti Service Centre, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "My Kitchen Goregaon",
+        "locationConfidence": 1.089567,
+        "calibratedProbability": 0.5782383
+      }, {
+        "latitudeE7": 191676179,
+        "longitudeE7": 728780222,
+        "placeId": "ChIJ82A8B4635zsRK6dTUvfgAlk",
+        "address": "Film City Rd, Film City Complex, Aarey Colony, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Dadasaheb Phalke Chitranagari",
+        "locationConfidence": 1.0388093,
+        "calibratedProbability": 0.55130094
+      }, {
+        "latitudeE7": 191704374,
+        "longitudeE7": 728768289,
+        "placeId": "ChIJvXXLx5i35zsRxuvTLOyBGPI",
+        "address": "Krishna Nagar, 242, Swami Vivekananda Rd, Jai Bhim Nagar, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Vita, Sangali",
+        "locationConfidence": 0.8351311,
+        "calibratedProbability": 0.44320798
+      }, {
+        "latitudeE7": 191700983,
+        "longitudeE7": 728762862,
+        "placeId": "ChIJYwX8DGa35zsRoc91mecJOhM",
+        "address": "190, Jai Bhim Nagar, zopadepatti, fosbe, Mumbai, Maharashtra 400065, India",
+        "name": "Laxmi petrol pump",
+        "locationConfidence": 0.56918144,
+        "calibratedProbability": 0.30206725
+      }, {
+        "latitudeE7": 191675424,
+        "longitudeE7": 728767083,
+        "placeId": "ChIJC1wNYpi35zsRdnW5RC6Yk4U",
+        "address": "Film City Rd, Shree Krishna Nagar, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar Extension",
+        "locationConfidence": 0.52744645,
+        "calibratedProbability": 0.2799183
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 74,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 191687524,
+        "longitudeE7": 728753631
+      },
+      "endLocation": {
+        "latitudeE7": 191692175,
+        "longitudeE7": 728764708
+      },
+      "duration": {
+        "startTimestamp": "2020-04-03T17:44:06.863Z",
+        "endTimestamp": "2020-04-03T18:12:03.514Z"
+      },
+      "distance": 2394,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 34.2442512512207
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 25.377357006072998
+      }, {
+        "activityType": "WALKING",
+        "probability": 25.186339020729065
+      }, {
+        "activityType": "STILL",
+        "probability": 10.330966860055923
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.163161337375641
+      }, {
+        "activityType": "RUNNING",
+        "probability": 1.0993496514856815
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 1.0406885296106339
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.2307318150997162
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.1615682733245194
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.12002377770841122
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.036454416112974286
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0063147308537736535
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.0018629430996952578
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 7.676062523387372E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 1.5747997395010316E-4
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 191689052,
+          "lngE7": 728756256
+        }, {
+          "latE7": 191720733,
+          "lngE7": 728744049
+        }, {
+          "latE7": 191785659,
+          "lngE7": 728708267
+        }, {
+          "latE7": 191720962,
+          "lngE7": 728744659
+        }, {
+          "latE7": 191693801,
+          "lngE7": 728764114
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 3482.4931095298957,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 1.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 191785774,
+          "lngE7": 728707962,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-03T17:53:10.936Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 191773386,
+          "longitudeE7": 728714928,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2020-04-03T18:10:00.925Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 191695485,
+        "longitudeE7": 728753209,
+        "placeId": "ChIJdYm4vZi35zsRnUVG4HrkrE0",
+        "address": "Shop No,2\u00263, Pav Bakery, 5, Film City Rd, nr. Maruti Service Centre, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "My Kitchen Hub",
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        },
+        "locationConfidence": 51.28888,
+        "calibratedProbability": 40.451664
+      },
+      "duration": {
+        "startTimestamp": "2020-04-03T18:12:03.514Z",
+        "endTimestamp": "2020-04-04T04:39:16.951Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 191690348,
+      "centerLngE7": 728761424,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 191689091,
+        "longitudeE7": 728760223,
+        "placeId": "ChIJ5dlanpi35zsRbifxqOKRcZ8",
+        "address": "1, Film City Rd, near My Kitchen Goregaon, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "locationConfidence": 31.292843,
+        "calibratedProbability": 24.68074
+      }, {
+        "latitudeE7": 191675424,
+        "longitudeE7": 728767083,
+        "placeId": "ChIJC1wNYpi35zsRdnW5RC6Yk4U",
+        "address": "Film City Rd, Shree Krishna Nagar, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar Extension",
+        "locationConfidence": 10.148765,
+        "calibratedProbability": 8.004355
+      }, {
+        "latitudeE7": 191726208,
+        "longitudeE7": 728739090,
+        "placeId": "ChIJD1xh6qG35zsR62v9Vpet6DI",
+        "address": "M-WING, Krishna Vatika Marg, near SVC CO-OPERATIVE BANK LTD., Azad Nagar, Gokuldham Colony, Goregaon, Mumbai, Maharashtra 400063, India",
+        "locationConfidence": 1.8987613,
+        "calibratedProbability": 1.4975576
+      }, {
+        "latitudeE7": 191676179,
+        "longitudeE7": 728780222,
+        "placeId": "ChIJ82A8B4635zsRK6dTUvfgAlk",
+        "address": "Film City Rd, Film City Complex, Aarey Colony, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Dadasaheb Phalke Chitranagari",
+        "locationConfidence": 1.7698646,
+        "calibratedProbability": 1.3958964
+      }, {
+        "latitudeE7": 191691427,
+        "longitudeE7": 728759338,
+        "placeId": "ChIJKVJ5kJi35zsRAIr9Oz3rrl8",
+        "address": "1, Film City Rd, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Money Value Financial Hub",
+        "locationConfidence": 0.68532443,
+        "calibratedProbability": 0.54051703
+      }, {
+        "latitudeE7": 191692669,
+        "longitudeE7": 728754744,
+        "placeId": "ChIJA5BLnpi35zsR49emV4yKw_s",
+        "address": "4, Shram Saflya Rahiwasi Mandal, Gen A. K. Vaidya Marg, Santosh Nagar, Film City Rd, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "RadheShyam Tobacco \u0026 General Store",
+        "locationConfidence": 0.56719947,
+        "calibratedProbability": 0.44735157
+      }, {
+        "latitudeE7": 191684948,
+        "longitudeE7": 728781927,
+        "placeId": "ChIJud5cIai35zsR987BRtAZ2pw",
+        "address": "Swami Vivekananda Rd, Laxmi Nagar, Dindoshi, Goregaon, Mumbai, Maharashtra 400063, India",
+        "name": "Omkar Ananta",
+        "locationConfidence": 0.54188216,
+        "calibratedProbability": 0.42738375
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 191692175,
+          "lngE7": 728764708,
+          "accuracyMeters": 500,
+          "timestamp": "2020-04-03T18:12:03.514Z"
+        }, {
+          "latE7": 191692175,
+          "lngE7": 728764708,
+          "accuracyMeters": 500,
+          "timestamp": "2020-04-03T18:18:03.192Z"
+        }, {
+          "latE7": 191692175,
+          "lngE7": 728764708,
+          "accuracyMeters": 500,
+          "timestamp": "2020-04-03T18:23:26.358Z"
+        }, {
+          "latE7": 191692175,
+          "lngE7": 728764708,
+          "accuracyMeters": 500,
+          "timestamp": "2020-04-03T18:23:47.937Z"
+        }, {
+          "latE7": 191696121,
+          "lngE7": 728768400,
+          "accuracyMeters": 500,
+          "timestamp": "2020-04-03T18:25:14.349Z"
+        }, {
+          "latE7": 191696121,
+          "lngE7": 728768400,
+          "accuracyMeters": 500,
+          "timestamp": "2020-04-03T18:25:53.976Z"
+        }, {
+          "latE7": 191696121,
+          "lngE7": 728768400,
+          "accuracyMeters": 500,
+          "timestamp": "2020-04-03T18:38:52.935Z"
+        }, {
+          "latE7": 191696121,
+          "lngE7": 728768400,
+          "accuracyMeters": 500,
+          "timestamp": "2020-04-03T18:39:10.552Z"
+        }, {
+          "latE7": 191696121,
+          "lngE7": 728768400,
+          "accuracyMeters": 500,
+          "timestamp": "2020-04-03T18:39:31.760Z"
+        }, {
+          "latE7": 191696121,
+          "lngE7": 728768400,
+          "accuracyMeters": 500,
+          "timestamp": "2020-04-03T18:39:48.142Z"
+        }, {
+          "latE7": 191696121,
+          "lngE7": 728768400,
+          "accuracyMeters": 500,
+          "timestamp": "2020-04-03T18:40:09.598Z"
+        }, {
+          "latE7": 191696121,
+          "lngE7": 728768400,
+          "accuracyMeters": 500,
+          "timestamp": "2020-04-03T18:42:10.088Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 58.55673188821471
+      },
+      "locationConfidence": 41,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 191689091,
+        "longitudeE7": 728760223,
+        "placeId": "ChIJ5dlanpi35zsRbifxqOKRcZ8",
+        "address": "1, Film City Road, Shivdarshan Nagar, Goregaon, Mumbai, Mumbai Suburban, Maharashtra 400065, India",
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        },
+        "locationConfidence": 60.187283,
+        "calibratedProbability": 46.557514
+      },
+      "duration": {
+        "startTimestamp": "2020-04-04T04:39:16.951Z",
+        "endTimestamp": "2020-04-04T05:09:17.803Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 191692286,
+      "centerLngE7": 728764057,
+      "visitConfidence": 89,
+      "otherCandidateLocations": [{
+        "latitudeE7": 191676179,
+        "longitudeE7": 728780222,
+        "placeId": "ChIJ82A8B4635zsRK6dTUvfgAlk",
+        "address": "Film City Rd, Film City Complex, Aarey Colony, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Dadasaheb Phalke Chitranagari",
+        "locationConfidence": 8.615069,
+        "calibratedProbability": 6.6641355
+      }, {
+        "latitudeE7": 191695485,
+        "longitudeE7": 728753209,
+        "placeId": "ChIJdYm4vZi35zsRnUVG4HrkrE0",
+        "address": "Shop No,2\u00263, Pav Bakery, 5, Film City Rd, nr. Maruti Service Centre, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "My Kitchen Goregaon",
+        "locationConfidence": 5.2851095,
+        "calibratedProbability": 4.088265
+      }, {
+        "latitudeE7": 191726208,
+        "longitudeE7": 728739090,
+        "placeId": "ChIJD1xh6qG35zsR62v9Vpet6DI",
+        "address": "M-WING, Krishna Vatika Marg, near SVC CO-OPERATIVE BANK LTD., Azad Nagar, Gokuldham Colony, Goregaon, Mumbai, Maharashtra 400063, India",
+        "locationConfidence": 3.6710927,
+        "calibratedProbability": 2.839752
+      }, {
+        "latitudeE7": 191675424,
+        "longitudeE7": 728767083,
+        "placeId": "ChIJC1wNYpi35zsRdnW5RC6Yk4U",
+        "address": "Film City Rd, Shree Krishna Nagar, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar Extension",
+        "locationConfidence": 3.3100932,
+        "calibratedProbability": 2.5605028
+      }, {
+        "latitudeE7": 191684948,
+        "longitudeE7": 728781927,
+        "placeId": "ChIJud5cIai35zsR987BRtAZ2pw",
+        "address": "Swami Vivekananda Rd, Laxmi Nagar, Dindoshi, Goregaon, Mumbai, Maharashtra 400063, India",
+        "name": "Omkar Ananta",
+        "locationConfidence": 3.0128095,
+        "calibratedProbability": 2.330541
+      }, {
+        "latitudeE7": 191697678,
+        "longitudeE7": 728751714,
+        "placeId": "ChIJ479rbMe35zsRhP2Oc8v2MWE",
+        "address": "Santosh nagar, Film City Rd, near Jyoti complex, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Smart Sahakari Bhandar",
+        "locationConfidence": 2.27627,
+        "calibratedProbability": 1.760795
+      }, {
+        "latitudeE7": 191704374,
+        "longitudeE7": 728768289,
+        "placeId": "ChIJvXXLx5i35zsRxuvTLOyBGPI",
+        "address": "Krishna Nagar, 242, Swami Vivekananda Rd, Jai Bhim Nagar, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Vita, Sangali",
+        "locationConfidence": 2.1345491,
+        "calibratedProbability": 1.6511678
+      }, {
+        "latitudeE7": 191684062,
+        "longitudeE7": 728784463,
+        "placeId": "ChIJud5cIai35zsR987BRtAZ2pw",
+        "address": "Swami Vivekananda Rd, Laxmi Nagar, Dindoshi, Goregaon, Mumbai, Maharashtra 400063, India",
+        "name": "Omkar Ananta",
+        "locationConfidence": 2.0614982,
+        "calibratedProbability": 1.5946597
+      }, {
+        "latitudeE7": 191704333,
+        "longitudeE7": 728773416,
+        "placeId": "ChIJVVVVVbm35zsRgDWr6TwtZ5k",
+        "address": "Shop Number 1, Shri Ganesh, Navjeevan Hospital Society, near Mamta Nursing Home, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Jai Amaj Ma Electronics",
+        "locationConfidence": 1.6968336,
+        "calibratedProbability": 1.3125756
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 48,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 191695485,
+        "longitudeE7": 728753209,
+        "placeId": "ChIJdYm4vZi35zsRnUVG4HrkrE0",
+        "address": "Shop No,2\u00263, Pav Bakery, 5, Film City Rd, nr. Maruti Service Centre, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "My Kitchen Hub",
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        },
+        "locationConfidence": 41.819817,
+        "calibratedProbability": 23.325764
+      },
+      "duration": {
+        "startTimestamp": "2020-04-04T05:09:17.803Z",
+        "endTimestamp": "2020-04-04T06:51:51.311Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 191690343,
+      "centerLngE7": 728762007,
+      "visitConfidence": 83,
+      "otherCandidateLocations": [{
+        "latitudeE7": 191689091,
+        "longitudeE7": 728760223,
+        "placeId": "ChIJ5dlanpi35zsRbifxqOKRcZ8",
+        "address": "1, Film City Rd, near My Kitchen Goregaon, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "locationConfidence": 35.20255,
+        "calibratedProbability": 19.634863
+      }, {
+        "latitudeE7": 191675424,
+        "longitudeE7": 728767083,
+        "placeId": "ChIJC1wNYpi35zsRdnW5RC6Yk4U",
+        "address": "Film City Rd, Shree Krishna Nagar, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar Extension",
+        "locationConfidence": 13.504002,
+        "calibratedProbability": 7.532103
+      }, {
+        "latitudeE7": 191676179,
+        "longitudeE7": 728780222,
+        "placeId": "ChIJ82A8B4635zsRK6dTUvfgAlk",
+        "address": "Film City Rd, Film City Complex, Aarey Colony, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Dadasaheb Phalke Chitranagari",
+        "locationConfidence": 2.5355234,
+        "calibratedProbability": 1.4142344
+      }, {
+        "latitudeE7": 191726208,
+        "longitudeE7": 728739090,
+        "placeId": "ChIJD1xh6qG35zsR62v9Vpet6DI",
+        "address": "M-WING, Krishna Vatika Marg, near SVC CO-OPERATIVE BANK LTD., Azad Nagar, Gokuldham Colony, Goregaon, Mumbai, Maharashtra 400063, India",
+        "locationConfidence": 1.5232784,
+        "calibratedProbability": 0.84963626
+      }, {
+        "latitudeE7": 191691427,
+        "longitudeE7": 728759338,
+        "placeId": "ChIJKVJ5kJi35zsRAIr9Oz3rrl8",
+        "address": "1, Film City Rd, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Money Value Financial Hub",
+        "locationConfidence": 1.2132438,
+        "calibratedProbability": 0.6767089
+      }, {
+        "latitudeE7": 191692669,
+        "longitudeE7": 728754744,
+        "placeId": "ChIJA5BLnpi35zsR49emV4yKw_s",
+        "address": "4, Shram Saflya Rahiwasi Mandal, Gen A. K. Vaidya Marg, Santosh Nagar, Film City Rd, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "RadheShyam Tobacco \u0026 General Store",
+        "locationConfidence": 0.7492563,
+        "calibratedProbability": 0.41791135
+      }, {
+        "latitudeE7": 191697678,
+        "longitudeE7": 728751714,
+        "placeId": "ChIJ479rbMe35zsRhP2Oc8v2MWE",
+        "address": "Santosh nagar, Film City Rd, near Jyoti complex, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Smart Sahakari Bhandar",
+        "locationConfidence": 0.6719064,
+        "calibratedProbability": 0.37476805
+      }, {
+        "latitudeE7": 191684948,
+        "longitudeE7": 728781927,
+        "placeId": "ChIJud5cIai35zsR987BRtAZ2pw",
+        "address": "Swami Vivekananda Rd, Laxmi Nagar, Dindoshi, Goregaon, Mumbai, Maharashtra 400063, India",
+        "name": "Omkar Ananta",
+        "locationConfidence": 0.6050573,
+        "calibratedProbability": 0.33748174
+      }, {
+        "latitudeE7": 191661982,
+        "longitudeE7": 728775967,
+        "placeId": "ChIJVVVVhZm35zsRQAGNCOmj040",
+        "address": "General Arun Kumar Vaidya Marg, On, Film City Rd, IGIDR, Nagri Niwara Cooperative Housing Society, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Indira Gandhi Institute of Development Research",
+        "locationConfidence": 0.5389308,
+        "calibratedProbability": 0.30059844
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 34,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 191689091,
+        "longitudeE7": 728760223,
+        "placeId": "ChIJ5dlanpi35zsRbifxqOKRcZ8",
+        "address": "1, Film City Road, Shivdarshan Nagar, Goregaon, Mumbai, Mumbai Suburban, Maharashtra 400065, India",
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        },
+        "locationConfidence": 43.198273,
+        "calibratedProbability": 28.913742
+      },
+      "duration": {
+        "startTimestamp": "2020-04-04T06:51:51.311Z",
+        "endTimestamp": "2020-04-04T07:10:28.856Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 191689895,
+      "centerLngE7": 728760977,
+      "visitConfidence": 89,
+      "otherCandidateLocations": [{
+        "latitudeE7": 191695485,
+        "longitudeE7": 728753209,
+        "placeId": "ChIJdYm4vZi35zsRnUVG4HrkrE0",
+        "address": "Shop No,2\u00263, Pav Bakery, 5, Film City Rd, nr. Maruti Service Centre, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "My Kitchen Goregaon",
+        "locationConfidence": 35.08023,
+        "calibratedProbability": 23.480124
+      }, {
+        "latitudeE7": 191675424,
+        "longitudeE7": 728767083,
+        "placeId": "ChIJC1wNYpi35zsRdnW5RC6Yk4U",
+        "address": "Film City Rd, Shree Krishna Nagar, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar Extension",
+        "locationConfidence": 10.27136,
+        "calibratedProbability": 6.874892
+      }, {
+        "latitudeE7": 191676179,
+        "longitudeE7": 728780222,
+        "placeId": "ChIJ82A8B4635zsRK6dTUvfgAlk",
+        "address": "Film City Rd, Film City Complex, Aarey Colony, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Dadasaheb Phalke Chitranagari",
+        "locationConfidence": 4.4154987,
+        "calibratedProbability": 2.9554098
+      }, {
+        "latitudeE7": 191726208,
+        "longitudeE7": 728739090,
+        "placeId": "ChIJD1xh6qG35zsR62v9Vpet6DI",
+        "address": "M-WING, Krishna Vatika Marg, near SVC CO-OPERATIVE BANK LTD., Azad Nagar, Gokuldham Colony, Goregaon, Mumbai, Maharashtra 400063, India",
+        "locationConfidence": 2.0347807,
+        "calibratedProbability": 1.3619324
+      }, {
+        "latitudeE7": 191691427,
+        "longitudeE7": 728759338,
+        "placeId": "ChIJKVJ5kJi35zsRAIr9Oz3rrl8",
+        "address": "1, Film City Rd, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Money Value Financial Hub",
+        "locationConfidence": 1.3104193,
+        "calibratedProbability": 0.8770982
+      }, {
+        "latitudeE7": 191661982,
+        "longitudeE7": 728775967,
+        "placeId": "ChIJVVVVhZm35zsRQAGNCOmj040",
+        "address": "General Arun Kumar Vaidya Marg, On, Film City Rd, IGIDR, Nagri Niwara Cooperative Housing Society, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Indira Gandhi Institute of Development Research",
+        "locationConfidence": 0.80901366,
+        "calibratedProbability": 0.5414942
+      }, {
+        "latitudeE7": 191691507,
+        "longitudeE7": 728759337,
+        "placeId": "ChIJx7l8kJi35zsR7jOQPyQ06OA",
+        "locationConfidence": 0.75185,
+        "calibratedProbability": 0.503233
+      }, {
+        "latitudeE7": 191692669,
+        "longitudeE7": 728754744,
+        "placeId": "ChIJA5BLnpi35zsR49emV4yKw_s",
+        "address": "4, Shram Saflya Rahiwasi Mandal, Gen A. K. Vaidya Marg, Santosh Nagar, Film City Rd, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "RadheShyam Tobacco \u0026 General Store",
+        "locationConfidence": 0.6499742,
+        "calibratedProbability": 0.43504488
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 35,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 191783666,
+        "longitudeE7": 728706129,
+        "placeId": "ChIJZTtYOAq35zsRIsT_Z-7UUD4",
+        "address": "Pimpripada Rd, Malad, Malad East, Mumbai, Maharashtra 400097, India",
+        "name": "Pimpripada Vegetable market",
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        },
+        "locationConfidence": 31.880243,
+        "calibratedProbability": 9.270276,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2020-04-04T07:10:28.856Z",
+        "endTimestamp": "2020-04-04T12:21:20.155Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 191785700,
+      "centerLngE7": 728707900,
+      "visitConfidence": 63,
+      "otherCandidateLocations": [{
+        "latitudeE7": 191784980,
+        "longitudeE7": 728708540,
+        "placeId": "ChIJS87DRwq35zsR2EI0Ap2UoQI",
+        "address": "SAI RAM RESIDENCY SAI SAINI, C-1, Pimpripada Rd, मालाड, मालाड ईस्ट, मुंबई, महाराष्ट्र 400097, भारत",
+        "locationConfidence": 20.570398,
+        "calibratedProbability": 5.9815497
+      }, {
+        "latitudeE7": 191785842,
+        "longitudeE7": 728707279,
+        "placeId": "ChIJNzApySu35zsRV8YRhZng1po",
+        "locationConfidence": 9.170567,
+        "calibratedProbability": 2.6666572,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 191786490,
+        "longitudeE7": 728709790,
+        "placeId": "ChIJO3aSSAq35zsRmtlhzF8-sEQ",
+        "address": "SAI RAM RESIDENCY SAI SAINI, B-2, Pimpripada Rd, मालाड, मालाड ईस्ट, मुंबई, महाराष्ट्र 400097, भारत",
+        "locationConfidence": 7.942199,
+        "calibratedProbability": 2.309467
+      }, {
+        "latitudeE7": 191787700,
+        "longitudeE7": 728710090,
+        "placeId": "ChIJK_IeSQq35zsRhMpVXN-ullI",
+        "address": "SAI RAM RESIDENCY SAI SAINI, B-1, Pimpripada Rd, मालाड, मालाड ईस्ट, मुंबई, महाराष्ट्र 400097, भारत",
+        "locationConfidence": 5.9038076,
+        "calibratedProbability": 1.7167348,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 191785643,
+        "longitudeE7": 728708483,
+        "placeId": "ChIJR9ZfSAq35zsREUZHxqu_feQ",
+        "address": "Shop Number 6, Sahyadri Apartment, Pimpripada Rd, Malad, Malad East, Mumbai, Maharashtra 400097, India",
+        "name": "Chavanda Jewellers",
+        "locationConfidence": 3.5752664,
+        "calibratedProbability": 1.0396315
+      }, {
+        "latitudeE7": 191785370,
+        "longitudeE7": 728708670,
+        "placeId": "ChIJi-7bRwq35zsRPn2aTYkxoQk",
+        "address": "SAI RAM RESIDENCY SAI SAINI, Pimpripada Rd, मालाड, मालाड ईस्ट, मुंबई, महाराष्ट्र 400097, भारत",
+        "name": "Krishna Novelty",
+        "locationConfidence": 2.7251213,
+        "calibratedProbability": 0.7924226
+      }, {
+        "latitudeE7": 191784980,
+        "longitudeE7": 728708540,
+        "placeId": "ChIJveGxAOi25zsRM5DYktebeTk",
+        "locationConfidence": 2.7077384,
+        "calibratedProbability": 0.78736794
+      }, {
+        "latitudeE7": 191785265,
+        "longitudeE7": 728708372,
+        "placeId": "ChIJ3QvnRwq35zsRdhHZqB6P548",
+        "locationConfidence": 2.2355328,
+        "calibratedProbability": 0.6500579
+      }, {
+        "latitudeE7": 191785307,
+        "longitudeE7": 728706743,
+        "placeId": "ChIJ6VhOP4q35zsRk6VDz2zxg-c",
+        "address": "Valentine Apartments, C-1, Pimpripada Rd, Malad, Malad East, Mumbai, Maharashtra 400097, India",
+        "name": "Seagull Restaurant",
+        "locationConfidence": 1.9395963,
+        "calibratedProbability": 0.56400424,
+        "isCurrentLocation": true
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 191689642,
+          "lngE7": 728760205,
+          "accuracyMeters": 37,
+          "timestamp": "2020-04-04T07:10:49.843Z"
+        }, {
+          "latE7": 191785270,
+          "lngE7": 728760129,
+          "accuracyMeters": 11,
+          "timestamp": "2020-04-04T07:16:26.513Z"
+        }, {
+          "latE7": 191785780,
+          "lngE7": 728707929,
+          "accuracyMeters": 18,
+          "timestamp": "2020-04-04T09:25:15.455Z"
+        }, {
+          "latE7": 191684867,
+          "lngE7": 728762650,
+          "accuracyMeters": 7,
+          "timestamp": "2020-04-04T10:38:50Z"
+        }, {
+          "latE7": 191758574,
+          "lngE7": 728759351,
+          "accuracyMeters": 12,
+          "timestamp": "2020-04-04T10:54:09.188Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 12652.310912312934
+      },
+      "locationConfidence": 25,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 191695485,
+        "longitudeE7": 728753209,
+        "placeId": "ChIJdYm4vZi35zsRnUVG4HrkrE0",
+        "address": "Shop No,2\u00263, Pav Bakery, 5, Film City Rd, nr. Maruti Service Centre, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "My Kitchen Hub",
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        },
+        "locationConfidence": 41.862488,
+        "calibratedProbability": 19.360489
+      },
+      "duration": {
+        "startTimestamp": "2020-04-04T12:21:20.155Z",
+        "endTimestamp": "2020-04-04T17:11:47.053Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 191690158,
+      "centerLngE7": 728760536,
+      "visitConfidence": 77,
+      "otherCandidateLocations": [{
+        "latitudeE7": 191689091,
+        "longitudeE7": 728760223,
+        "placeId": "ChIJ5dlanpi35zsRbifxqOKRcZ8",
+        "address": "1, Film City Rd, near My Kitchen Goregaon, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "locationConfidence": 39.699913,
+        "calibratedProbability": 18.360346
+      }, {
+        "latitudeE7": 191675424,
+        "longitudeE7": 728767083,
+        "placeId": "ChIJC1wNYpi35zsRdnW5RC6Yk4U",
+        "address": "Film City Rd, Shree Krishna Nagar, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar Extension",
+        "locationConfidence": 10.833728,
+        "calibratedProbability": 5.0103636
+      }, {
+        "latitudeE7": 191726208,
+        "longitudeE7": 728739090,
+        "placeId": "ChIJD1xh6qG35zsR62v9Vpet6DI",
+        "address": "M-WING, Krishna Vatika Marg, near SVC CO-OPERATIVE BANK LTD., Azad Nagar, Gokuldham Colony, Goregaon, Mumbai, Maharashtra 400063, India",
+        "locationConfidence": 1.9141558,
+        "calibratedProbability": 0.88525546
+      }, {
+        "latitudeE7": 191691427,
+        "longitudeE7": 728759338,
+        "placeId": "ChIJKVJ5kJi35zsRAIr9Oz3rrl8",
+        "address": "1, Film City Rd, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Money Value Financial Hub",
+        "locationConfidence": 1.6714705,
+        "calibratedProbability": 0.7730188
+      }, {
+        "latitudeE7": 191676179,
+        "longitudeE7": 728780222,
+        "placeId": "ChIJ82A8B4635zsRK6dTUvfgAlk",
+        "address": "Film City Rd, Film City Complex, Aarey Colony, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Dadasaheb Phalke Chitranagari",
+        "locationConfidence": 1.6378608,
+        "calibratedProbability": 0.75747496
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 34,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 191689675,
+        "longitudeE7": 728759558
+      },
+      "endLocation": {
+        "latitudeE7": 191785779,
+        "longitudeE7": 728707925
+      },
+      "duration": {
+        "startTimestamp": "2020-04-04T17:11:47.053Z",
+        "endTimestamp": "2020-04-04T17:43:33.533Z"
+      },
+      "distance": 3324,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 37.8554105758667
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 35.851481556892395
+      }, {
+        "activityType": "WALKING",
+        "probability": 19.52434927225113
+      }, {
+        "activityType": "STILL",
+        "probability": 2.8984099626541138
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.3827295042574406
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 1.1101148091256618
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.7402176037430763
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.23986720480024815
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.23280854802578688
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0966452353168279
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.060098624089732766
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.00587422946409788
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.0012863570191257168
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 5.429485554486746E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 1.6020367183955386E-4
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 191688117,
+          "lngE7": 728756866
+        }, {
+          "latE7": 191746559,
+          "lngE7": 728740386
+        }, {
+          "latE7": 191785659,
+          "lngE7": 728708267
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1491.5076838137943,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 191785752,
+          "longitudeE7": 728707913,
+          "accuracyMetres": 76
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2020-04-04T17:44:38.963Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 191689091,
+        "longitudeE7": 728760223,
+        "placeId": "ChIJ5dlanpi35zsRbifxqOKRcZ8",
+        "address": "1, Film City Road, Shivdarshan Nagar, Goregaon, Mumbai, Mumbai Suburban, Maharashtra 400065, India",
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        },
+        "locationConfidence": 75.01911,
+        "calibratedProbability": 47.96338
+      },
+      "duration": {
+        "startTimestamp": "2020-04-04T17:43:33.533Z",
+        "endTimestamp": "2020-04-06T16:58:25.376Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 191690777,
+      "centerLngE7": 728761777,
+      "visitConfidence": 81,
+      "otherCandidateLocations": [{
+        "latitudeE7": 191695485,
+        "longitudeE7": 728753209,
+        "placeId": "ChIJdYm4vZi35zsRnUVG4HrkrE0",
+        "address": "Shop No,2\u00263, Pav Bakery, 5, Film City Rd, nr. Maruti Service Centre, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "My Kitchen Goregaon",
+        "locationConfidence": 9.495241,
+        "calibratedProbability": 6.070771
+      }, {
+        "latitudeE7": 191675424,
+        "longitudeE7": 728767083,
+        "placeId": "ChIJC1wNYpi35zsRdnW5RC6Yk4U",
+        "address": "Film City Rd, Shree Krishna Nagar, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar Extension",
+        "locationConfidence": 3.5805635,
+        "calibratedProbability": 2.2892292
+      }, {
+        "latitudeE7": 191676179,
+        "longitudeE7": 728780222,
+        "placeId": "ChIJ82A8B4635zsRK6dTUvfgAlk",
+        "address": "Film City Rd, Film City Complex, Aarey Colony, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Dadasaheb Phalke Chitranagari",
+        "locationConfidence": 3.5412407,
+        "calibratedProbability": 2.2640882
+      }, {
+        "latitudeE7": 191726208,
+        "longitudeE7": 728739090,
+        "placeId": "ChIJD1xh6qG35zsR62v9Vpet6DI",
+        "address": "M-WING, Krishna Vatika Marg, near SVC CO-OPERATIVE BANK LTD., Azad Nagar, Gokuldham Colony, Goregaon, Mumbai, Maharashtra 400063, India",
+        "locationConfidence": 2.5169573,
+        "calibratedProbability": 1.6092137
+      }, {
+        "latitudeE7": 191684948,
+        "longitudeE7": 728781927,
+        "placeId": "ChIJud5cIai35zsR987BRtAZ2pw",
+        "address": "Swami Vivekananda Rd, Laxmi Nagar, Dindoshi, Goregaon, Mumbai, Maharashtra 400063, India",
+        "name": "Omkar Ananta",
+        "locationConfidence": 1.3678575,
+        "calibratedProbability": 0.87453806
+      }, {
+        "latitudeE7": 191700983,
+        "longitudeE7": 728762862,
+        "placeId": "ChIJYwX8DGa35zsRoc91mecJOhM",
+        "address": "190, Jai Bhim Nagar, zopadepatti, fosbe, Mumbai, Maharashtra 400065, India",
+        "name": "Laxmi petrol pump",
+        "locationConfidence": 0.923376,
+        "calibratedProbability": 0.5903594
+      }, {
+        "latitudeE7": 191686928,
+        "longitudeE7": 728769949,
+        "placeId": "ChIJYfcfup635zsRyKmrQnuwzn8",
+        "address": "5VFH+2XF, Muncipal Colony, Sector B, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Shiva Temple",
+        "locationConfidence": 0.91101664,
+        "calibratedProbability": 0.5824574
+      }, {
+        "latitudeE7": 191684062,
+        "longitudeE7": 728784463,
+        "placeId": "ChIJud5cIai35zsR987BRtAZ2pw",
+        "address": "Swami Vivekananda Rd, Laxmi Nagar, Dindoshi, Goregaon, Mumbai, Maharashtra 400063, India",
+        "name": "Omkar Ananta",
+        "locationConfidence": 0.7787064,
+        "calibratedProbability": 0.49786502
+      }, {
+        "latitudeE7": 191700983,
+        "longitudeE7": 728762862,
+        "placeId": "ChIJ____u5i35zsRRdOt00EVvyw",
+        "address": "5VCG+2GM, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Shiv Sena Shakha",
+        "locationConfidence": 0.5322616,
+        "calibratedProbability": 0.34030086
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 60,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 191695485,
+        "longitudeE7": 728753209,
+        "placeId": "ChIJdYm4vZi35zsRnUVG4HrkrE0",
+        "address": "Shop No,2\u00263, Pav Bakery, 5, Film City Rd, nr. Maruti Service Centre, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "My Kitchen Hub",
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        },
+        "locationConfidence": 41.51918,
+        "calibratedProbability": 30.37848
+      },
+      "duration": {
+        "startTimestamp": "2020-04-06T16:58:25.376Z",
+        "endTimestamp": "2020-04-06T17:29:47.628Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 191690324,
+      "centerLngE7": 728760923,
+      "visitConfidence": 91,
+      "otherCandidateLocations": [{
+        "latitudeE7": 191689091,
+        "longitudeE7": 728760223,
+        "placeId": "ChIJ5dlanpi35zsRbifxqOKRcZ8",
+        "address": "1, Film City Rd, near My Kitchen Goregaon, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "locationConfidence": 35.29746,
+        "calibratedProbability": 25.826212
+      }, {
+        "latitudeE7": 191675424,
+        "longitudeE7": 728767083,
+        "placeId": "ChIJC1wNYpi35zsRdnW5RC6Yk4U",
+        "address": "Film City Rd, Shree Krishna Nagar, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar Extension",
+        "locationConfidence": 12.34291,
+        "calibratedProbability": 9.030979
+      }, {
+        "latitudeE7": 191676179,
+        "longitudeE7": 728780222,
+        "placeId": "ChIJ82A8B4635zsRK6dTUvfgAlk",
+        "address": "Film City Rd, Film City Complex, Aarey Colony, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Dadasaheb Phalke Chitranagari",
+        "locationConfidence": 3.7334752,
+        "calibratedProbability": 2.7316847
+      }, {
+        "latitudeE7": 191726208,
+        "longitudeE7": 728739090,
+        "placeId": "ChIJD1xh6qG35zsR62v9Vpet6DI",
+        "address": "M-WING, Krishna Vatika Marg, near SVC CO-OPERATIVE BANK LTD., Azad Nagar, Gokuldham Colony, Goregaon, Mumbai, Maharashtra 400063, India",
+        "locationConfidence": 1.7516186,
+        "calibratedProbability": 1.2816128
+      }, {
+        "latitudeE7": 191691427,
+        "longitudeE7": 728759338,
+        "placeId": "ChIJKVJ5kJi35zsRAIr9Oz3rrl8",
+        "address": "1, Film City Rd, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Money Value Financial Hub",
+        "locationConfidence": 1.1757765,
+        "calibratedProbability": 0.8602844
+      }, {
+        "latitudeE7": 191691507,
+        "longitudeE7": 728759337,
+        "placeId": "ChIJx7l8kJi35zsR7jOQPyQ06OA",
+        "locationConfidence": 1.1441394,
+        "calibratedProbability": 0.8371364
+      }, {
+        "latitudeE7": 191661982,
+        "longitudeE7": 728775967,
+        "placeId": "ChIJVVVVhZm35zsRQAGNCOmj040",
+        "address": "General Arun Kumar Vaidya Marg, On, Film City Rd, IGIDR, Nagri Niwara Cooperative Housing Society, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Indira Gandhi Institute of Development Research",
+        "locationConfidence": 0.7832991,
+        "calibratedProbability": 0.5731191
+      }, {
+        "latitudeE7": 191704374,
+        "longitudeE7": 728768289,
+        "placeId": "ChIJvXXLx5i35zsRxuvTLOyBGPI",
+        "address": "Krishna Nagar, 242, Swami Vivekananda Rd, Jai Bhim Nagar, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Vita, Sangali",
+        "locationConfidence": 0.5713396,
+        "calibratedProbability": 0.41803402
+      }, {
+        "latitudeE7": 191692669,
+        "longitudeE7": 728754744,
+        "placeId": "ChIJA5BLnpi35zsR49emV4yKw_s",
+        "address": "4, Shram Saflya Rahiwasi Mandal, Gen A. K. Vaidya Marg, Santosh Nagar, Film City Rd, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "RadheShyam Tobacco \u0026 General Store",
+        "locationConfidence": 0.514536,
+        "calibratedProbability": 0.37647232
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 34,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 191783666,
+        "longitudeE7": 728706129,
+        "placeId": "ChIJZTtYOAq35zsRIsT_Z-7UUD4",
+        "address": "Pimpripada Rd, Malad, Malad East, Mumbai, Maharashtra 400097, India",
+        "name": "Pimpripada Vegetable market",
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        },
+        "locationConfidence": 25.894165,
+        "calibratedProbability": 9.886725,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2020-04-06T17:29:47.628Z",
+        "endTimestamp": "2020-04-07T14:45:44Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 191785700,
+      "centerLngE7": 728707900,
+      "visitConfidence": 73,
+      "otherCandidateLocations": [{
+        "latitudeE7": 191784980,
+        "longitudeE7": 728708540,
+        "placeId": "ChIJS87DRwq35zsR2EI0Ap2UoQI",
+        "address": "SAI RAM RESIDENCY SAI SAINI, C-1, Pimpripada Rd, मालाड, मालाड ईस्ट, मुंबई, महाराष्ट्र 400097, भारत",
+        "locationConfidence": 25.331661,
+        "calibratedProbability": 9.671954
+      }, {
+        "latitudeE7": 191786490,
+        "longitudeE7": 728709790,
+        "placeId": "ChIJO3aSSAq35zsRmtlhzF8-sEQ",
+        "address": "SAI RAM RESIDENCY SAI SAINI, B-2, Pimpripada Rd, मालाड, मालाड ईस्ट, मुंबई, महाराष्ट्र 400097, भारत",
+        "locationConfidence": 11.550266,
+        "calibratedProbability": 4.41004
+      }, {
+        "latitudeE7": 191787700,
+        "longitudeE7": 728710090,
+        "placeId": "ChIJK_IeSQq35zsRhMpVXN-ullI",
+        "address": "SAI RAM RESIDENCY SAI SAINI, B-1, Pimpripada Rd, मालाड, मालाड ईस्ट, मुंबई, महाराष्ट्र 400097, भारत",
+        "locationConfidence": 7.961912,
+        "calibratedProbability": 3.0399604,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 191785842,
+        "longitudeE7": 728707279,
+        "placeId": "ChIJNzApySu35zsRV8YRhZng1po",
+        "locationConfidence": 7.931579,
+        "calibratedProbability": 3.0283787,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 191784980,
+        "longitudeE7": 728708540,
+        "placeId": "ChIJveGxAOi25zsRM5DYktebeTk",
+        "locationConfidence": 3.4706113,
+        "calibratedProbability": 1.325124
+      }, {
+        "latitudeE7": 191785186,
+        "longitudeE7": 728737181,
+        "placeId": "ChIJmQG07aC35zsRwVqJqqKxly8",
+        "address": "Goregaon Railway Station, Aarey Rd, near Udipi Restaurant, Ganesh Nagar Cooperative Housing Society, Churi Wadi, Goregaon, Mumbai, Maharashtra 400063, India",
+        "name": "Gagal Home - Service Apartment Goregaon East",
+        "locationConfidence": 3.0579164,
+        "calibratedProbability": 1.1675518,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 191782006,
+        "longitudeE7": 728706759,
+        "placeId": "ChIJ1XG0OAq35zsRgQyYhoBaE6g",
+        "locationConfidence": 2.287678,
+        "calibratedProbability": 0.8734649,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 191785307,
+        "longitudeE7": 728706743,
+        "placeId": "ChIJ6VhOP4q35zsRk6VDz2zxg-c",
+        "address": "Valentine Apartments, C-1, Pimpripada Rd, Malad, Malad East, Mumbai, Maharashtra 400097, India",
+        "name": "Seagull Restaurant",
+        "locationConfidence": 2.2550426,
+        "calibratedProbability": 0.86100423,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 191764650,
+        "longitudeE7": 728689850,
+        "placeId": "ChIJdQST_gm35zsRZZWdwc09kB0",
+        "address": "General Arun Kumar Vaidya Marg, Malad, Mira Nagar, Gokuldham Colony, Goregaon, Mumbai, Maharashtra 400097, India",
+        "name": "JP Decks",
+        "locationConfidence": 1.387281,
+        "calibratedProbability": 0.5296817
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T06:20:47.280Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T06:22:04.978Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T06:25:59.076Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T06:26:24.728Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T06:28:26.238Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T06:28:58.228Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T06:29:26.610Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T06:29:47.810Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T06:30:09.354Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T06:30:33.116Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T06:30:59.169Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T06:31:52.267Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T06:32:33.112Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T06:34:34.165Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T06:35:14.864Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T06:35:47.180Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T06:37:01.529Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T06:37:22.248Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T06:39:11.660Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 26,
+          "timestamp": "2020-04-07T06:39:36.626Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T06:41:36.291Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T06:46:32.145Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T06:47:31.547Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T06:49:36.292Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T06:50:51.852Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T06:52:42.491Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T06:53:57.334Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T06:54:34.272Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T06:56:45.026Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T06:58:07.521Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 77,
+          "timestamp": "2020-04-07T06:59:30.982Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 77,
+          "timestamp": "2020-04-07T07:00:16.610Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T07:31:36.241Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T07:31:48.549Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T07:32:49.135Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T07:33:47.871Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T07:38:47.938Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T07:39:46.265Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T07:42:35.845Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T07:42:57.146Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T07:43:53.774Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T07:49:00.629Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T07:51:10.316Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T07:52:04.152Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T07:53:27.086Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 23,
+          "timestamp": "2020-04-07T07:53:48.185Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T07:55:04.353Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T07:55:28.360Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T07:57:33.251Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T07:59:36.639Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:01:06.779Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:01:37.231Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:03:43.840Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:04:43.567Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:05:43.370Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:10:48.848Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:11:20.948Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:15:40.174Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:16:20.617Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:16:42.199Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:20:37.897Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:21:02.176Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:21:43.938Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:25:45.225Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:27:47.508Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:28:53.351Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:29:49.343Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:30:32.312Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:31:08.947Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:32:47.392Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:33:11.569Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:35:19.211Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:36:11.534Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:37:03.905Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:37:43.546Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:38:57.627Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:39:16.980Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:42:41.757Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:43:08.441Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:47:04.751Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:47:38.541Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:52:39.286Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:57:39.001Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T08:59:09.356Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T09:04:34.704Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 31,
+          "timestamp": "2020-04-07T09:16:06.702Z"
+        }, {
+          "latE7": 191785779,
+          "lngE7": 728707925,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T09:18:08.004Z"
+        }, {
+          "latE7": 191684783,
+          "lngE7": 728754067,
+          "accuracyMeters": 10,
+          "timestamp": "2020-04-07T09:48:42Z"
+        }, {
+          "latE7": 191692956,
+          "lngE7": 728759749,
+          "accuracyMeters": 44,
+          "timestamp": "2020-04-07T13:45:45.959Z"
+        }, {
+          "latE7": 191691750,
+          "lngE7": 728765233,
+          "accuracyMeters": 14,
+          "timestamp": "2020-04-07T13:51:08Z"
+        }, {
+          "latE7": 191699050,
+          "lngE7": 728762817,
+          "accuracyMeters": 9,
+          "timestamp": "2020-04-07T13:51:59Z"
+        }, {
+          "latE7": 191699050,
+          "lngE7": 728762817,
+          "accuracyMeters": 23,
+          "timestamp": "2020-04-07T13:52:07.424Z"
+        }, {
+          "latE7": 191701083,
+          "lngE7": 728748850,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T13:57:18Z"
+        }, {
+          "latE7": 191688833,
+          "lngE7": 728757800,
+          "accuracyMeters": 12,
+          "timestamp": "2020-04-07T14:07:37Z"
+        }, {
+          "latE7": 191688750,
+          "lngE7": 728750700,
+          "accuracyMeters": 12,
+          "timestamp": "2020-04-07T14:12:57Z"
+        }, {
+          "latE7": 191644253,
+          "lngE7": 728491768,
+          "accuracyMeters": 17,
+          "timestamp": "2020-04-07T14:38:11.558Z"
+        }, {
+          "latE7": 191644253,
+          "lngE7": 728491768,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T14:39:02.454Z"
+        }, {
+          "latE7": 191644253,
+          "lngE7": 728491768,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T14:40:21.749Z"
+        }, {
+          "latE7": 191644253,
+          "lngE7": 728491768,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T14:42:08.212Z"
+        }, {
+          "latE7": 191644253,
+          "lngE7": 728491768,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-07T14:42:40.634Z"
+        }, {
+          "latE7": 191633983,
+          "lngE7": 728513367,
+          "accuracyMeters": 12,
+          "timestamp": "2020-04-07T14:43:28Z"
+        }, {
+          "latE7": 191644253,
+          "lngE7": 728491768,
+          "accuracyMeters": 28,
+          "timestamp": "2020-04-07T14:45:22.986Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 11791.43189184379
+      },
+      "locationConfidence": 18,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 191689091,
+        "longitudeE7": 728760223,
+        "placeId": "ChIJ5dlanpi35zsRbifxqOKRcZ8",
+        "address": "1, Film City Road, Shivdarshan Nagar, Goregaon, Mumbai, Mumbai Suburban, Maharashtra 400065, India",
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        },
+        "locationConfidence": 54.617725,
+        "calibratedProbability": 36.708412
+      },
+      "duration": {
+        "startTimestamp": "2020-04-07T14:45:44Z",
+        "endTimestamp": "2020-04-07T22:26:18.189Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 191690133,
+      "centerLngE7": 728761540,
+      "visitConfidence": 87,
+      "otherCandidateLocations": [{
+        "latitudeE7": 191695485,
+        "longitudeE7": 728753209,
+        "placeId": "ChIJdYm4vZi35zsRnUVG4HrkrE0",
+        "address": "Shop No,2\u00263, Pav Bakery, 5, Film City Rd, nr. Maruti Service Centre, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "My Kitchen Goregaon",
+        "locationConfidence": 33.87742,
+        "calibratedProbability": 22.768913
+      }, {
+        "latitudeE7": 191675424,
+        "longitudeE7": 728767083,
+        "placeId": "ChIJC1wNYpi35zsRdnW5RC6Yk4U",
+        "address": "Film City Rd, Shree Krishna Nagar, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar Extension",
+        "locationConfidence": 4.7879333,
+        "calibratedProbability": 3.2179558
+      }, {
+        "latitudeE7": 191676179,
+        "longitudeE7": 728780222,
+        "placeId": "ChIJ82A8B4635zsRK6dTUvfgAlk",
+        "address": "Film City Rd, Film City Complex, Aarey Colony, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Dadasaheb Phalke Chitranagari",
+        "locationConfidence": 2.0398817,
+        "calibratedProbability": 1.3709985
+      }, {
+        "latitudeE7": 191726208,
+        "longitudeE7": 728739090,
+        "placeId": "ChIJD1xh6qG35zsR62v9Vpet6DI",
+        "address": "M-WING, Krishna Vatika Marg, near SVC CO-OPERATIVE BANK LTD., Azad Nagar, Gokuldham Colony, Goregaon, Mumbai, Maharashtra 400063, India",
+        "locationConfidence": 1.6535614,
+        "calibratedProbability": 1.1113536
+      }, {
+        "latitudeE7": 191672470,
+        "longitudeE7": 728766910,
+        "placeId": "ChIJz6b5QZi35zsRipVztLjpW1c",
+        "address": "Mali Nagar, Aarey Colony, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar Extension",
+        "locationConfidence": 0.62001926,
+        "calibratedProbability": 0.4167131
+      }, {
+        "latitudeE7": 191704374,
+        "longitudeE7": 728768289,
+        "placeId": "ChIJvXXLx5i35zsRxuvTLOyBGPI",
+        "address": "Krishna Nagar, 242, Swami Vivekananda Rd, Jai Bhim Nagar, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Vita, Sangali",
+        "locationConfidence": 0.5421498,
+        "calibratedProbability": 0.36437726
+      }, {
+        "latitudeE7": 191700983,
+        "longitudeE7": 728762862,
+        "placeId": "ChIJYwX8DGa35zsRoc91mecJOhM",
+        "address": "190, Jai Bhim Nagar, zopadepatti, fosbe, Mumbai, Maharashtra 400065, India",
+        "name": "Laxmi petrol pump",
+        "locationConfidence": 0.49294806,
+        "calibratedProbability": 0.33130893
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 44,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 191695485,
+        "longitudeE7": 728753209,
+        "placeId": "ChIJdYm4vZi35zsRnUVG4HrkrE0",
+        "address": "Shop No,2\u00263, Pav Bakery, 5, Film City Rd, nr. Maruti Service Centre, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "My Kitchen Hub",
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        },
+        "locationConfidence": 50.42711,
+        "calibratedProbability": 36.938435
+      },
+      "duration": {
+        "startTimestamp": "2020-04-07T22:26:18.189Z",
+        "endTimestamp": "2020-04-08T04:11:33.835Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 191691510,
+      "centerLngE7": 728763077,
+      "visitConfidence": 90,
+      "otherCandidateLocations": [{
+        "latitudeE7": 191689091,
+        "longitudeE7": 728760223,
+        "placeId": "ChIJ5dlanpi35zsRbifxqOKRcZ8",
+        "address": "1, Film City Rd, near My Kitchen Goregaon, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "locationConfidence": 32.121384,
+        "calibratedProbability": 23.529282
+      }, {
+        "latitudeE7": 191675424,
+        "longitudeE7": 728767083,
+        "placeId": "ChIJC1wNYpi35zsRdnW5RC6Yk4U",
+        "address": "Film City Rd, Shree Krishna Nagar, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar Extension",
+        "locationConfidence": 10.75827,
+        "calibratedProbability": 7.880556
+      }, {
+        "latitudeE7": 191676179,
+        "longitudeE7": 728780222,
+        "placeId": "ChIJ82A8B4635zsRK6dTUvfgAlk",
+        "address": "Film City Rd, Film City Complex, Aarey Colony, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Dadasaheb Phalke Chitranagari",
+        "locationConfidence": 1.6689695,
+        "calibratedProbability": 1.2225393
+      }, {
+        "latitudeE7": 191726208,
+        "longitudeE7": 728739090,
+        "placeId": "ChIJD1xh6qG35zsR62v9Vpet6DI",
+        "address": "M-WING, Krishna Vatika Marg, near SVC CO-OPERATIVE BANK LTD., Azad Nagar, Gokuldham Colony, Goregaon, Mumbai, Maharashtra 400063, India",
+        "locationConfidence": 1.6182749,
+        "calibratedProbability": 1.1854049
+      }, {
+        "latitudeE7": 191704333,
+        "longitudeE7": 728773416,
+        "placeId": "ChIJVVVVVbm35zsRgDWr6TwtZ5k",
+        "address": "Shop Number 1, Shri Ganesh, Navjeevan Hospital Society, near Mamta Nursing Home, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Jai Amaj Ma Electronics",
+        "locationConfidence": 0.7847698,
+        "calibratedProbability": 0.5748528
+      }, {
+        "latitudeE7": 191684948,
+        "longitudeE7": 728781927,
+        "placeId": "ChIJud5cIai35zsR987BRtAZ2pw",
+        "address": "Swami Vivekananda Rd, Laxmi Nagar, Dindoshi, Goregaon, Mumbai, Maharashtra 400063, India",
+        "name": "Omkar Ananta",
+        "locationConfidence": 0.57085675,
+        "calibratedProbability": 0.4181591
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 191690317,
+          "lngE7": 728764217,
+          "accuracyMeters": 13,
+          "timestamp": "2020-04-08T00:48:45Z"
+        }, {
+          "latE7": 191686401,
+          "lngE7": 728756418,
+          "accuracyMeters": 12,
+          "timestamp": "2020-04-08T03:34:08Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 371.0695907845084
+      },
+      "locationConfidence": 41,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 191689091,
+        "longitudeE7": 728760223,
+        "placeId": "ChIJ5dlanpi35zsRbifxqOKRcZ8",
+        "address": "1, Film City Road, Shivdarshan Nagar, Goregaon, Mumbai, Mumbai Suburban, Maharashtra 400065, India",
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        },
+        "locationConfidence": 64.15075,
+        "calibratedProbability": 40.22382
+      },
+      "duration": {
+        "startTimestamp": "2020-04-08T04:11:33.835Z",
+        "endTimestamp": "2020-04-08T11:45:41.429Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 191689581,
+      "centerLngE7": 728759911,
+      "visitConfidence": 83,
+      "otherCandidateLocations": [{
+        "latitudeE7": 191695485,
+        "longitudeE7": 728753209,
+        "placeId": "ChIJdYm4vZi35zsRnUVG4HrkrE0",
+        "address": "Shop No,2\u00263, Pav Bakery, 5, Film City Rd, nr. Maruti Service Centre, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "My Kitchen Goregaon",
+        "locationConfidence": 21.720535,
+        "calibratedProbability": 13.619217
+      }, {
+        "latitudeE7": 191676179,
+        "longitudeE7": 728780222,
+        "placeId": "ChIJ82A8B4635zsRK6dTUvfgAlk",
+        "address": "Film City Rd, Film City Complex, Aarey Colony, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Dadasaheb Phalke Chitranagari",
+        "locationConfidence": 4.4296527,
+        "calibratedProbability": 2.7774823
+      }, {
+        "latitudeE7": 191675424,
+        "longitudeE7": 728767083,
+        "placeId": "ChIJC1wNYpi35zsRdnW5RC6Yk4U",
+        "address": "Film City Rd, Shree Krishna Nagar, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar Extension",
+        "locationConfidence": 2.6878817,
+        "calibratedProbability": 1.6853564
+      }, {
+        "latitudeE7": 191690220,
+        "longitudeE7": 728755380,
+        "placeId": "ChIJ65-8hJi35zsRUuCwfBKomfU",
+        "address": "Ram Nagar JJC, Aarey Colony, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar",
+        "locationConfidence": 1.9633173,
+        "calibratedProbability": 1.2310398
+      }, {
+        "latitudeE7": 191726208,
+        "longitudeE7": 728739090,
+        "placeId": "ChIJD1xh6qG35zsR62v9Vpet6DI",
+        "address": "M-WING, Krishna Vatika Marg, near SVC CO-OPERATIVE BANK LTD., Azad Nagar, Gokuldham Colony, Goregaon, Mumbai, Maharashtra 400063, India",
+        "locationConfidence": 1.9170723,
+        "calibratedProbability": 1.2020433
+      }, {
+        "latitudeE7": 191672470,
+        "longitudeE7": 728766910,
+        "placeId": "ChIJz6b5QZi35zsRipVztLjpW1c",
+        "address": "Mali Nagar, Aarey Colony, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar Extension",
+        "locationConfidence": 0.7403718,
+        "calibratedProbability": 0.46422815
+      }, {
+        "latitudeE7": 191661982,
+        "longitudeE7": 728775967,
+        "placeId": "ChIJVVVVhZm35zsRQAGNCOmj040",
+        "address": "General Arun Kumar Vaidya Marg, On, Film City Rd, IGIDR, Nagri Niwara Cooperative Housing Society, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Indira Gandhi Institute of Development Research",
+        "locationConfidence": 0.6105837,
+        "calibratedProbability": 0.38284838
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 51,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 191683439,
+        "longitudeE7": 728764001,
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 191684555,
+        "longitudeE7": 728759941,
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-04-08T11:45:41.429Z",
+        "endTimestamp": "2020-04-08T12:02:16.732Z"
+      },
+      "distance": 2234,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 63.51896524429321
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 17.454148828983307
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 8.436410129070282
+      }, {
+        "activityType": "STILL",
+        "probability": 4.384789243340492
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.110939845442772
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 1.8609333783388138
+      }, {
+        "activityType": "RUNNING",
+        "probability": 1.6347888857126236
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.17013342585414648
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.1634871936403215
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.13956355396658182
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.10428664973005652
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.011366051330696791
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.007370543607976288
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0015652456568204798
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.0012543494449346326
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 191681919,
+          "lngE7": 728761596
+        }, {
+          "latE7": 191672077,
+          "lngE7": 728764190
+        }, {
+          "latE7": 191692562,
+          "lngE7": 728742446
+        }, {
+          "latE7": 191699428,
+          "lngE7": 728749313
+        }, {
+          "latE7": 191701030,
+          "lngE7": 728718719
+        }, {
+          "latE7": 191684474,
+          "lngE7": 728759765
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 3490.121986979191,
+        "travelMode": "WALK",
+        "confidence": 0.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 191695290,
+          "lngE7": 728733902,
+          "accuracyMeters": 50,
+          "timestamp": "2020-04-08T11:48:09.815Z"
+        }, {
+          "latE7": 191702175,
+          "lngE7": 728718796,
+          "accuracyMeters": 24,
+          "timestamp": "2020-04-08T11:49:10.888Z"
+        }, {
+          "latE7": 191702194,
+          "lngE7": 728718796,
+          "accuracyMeters": 60,
+          "timestamp": "2020-04-08T11:50:46.678Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 191695485,
+        "longitudeE7": 728753209,
+        "placeId": "ChIJdYm4vZi35zsRnUVG4HrkrE0",
+        "address": "Shop No,2\u00263, Pav Bakery, 5, Film City Rd, nr. Maruti Service Centre, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "My Kitchen Hub",
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        },
+        "locationConfidence": 43.791176,
+        "calibratedProbability": 33.47163
+      },
+      "duration": {
+        "startTimestamp": "2020-04-10T06:11:24.078Z",
+        "endTimestamp": "2020-04-10T20:41:16Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 191690033,
+      "centerLngE7": 728760858,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 191689091,
+        "longitudeE7": 728760223,
+        "placeId": "ChIJ5dlanpi35zsRbifxqOKRcZ8",
+        "address": "1, Film City Rd, near My Kitchen Goregaon, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "locationConfidence": 36.534725,
+        "calibratedProbability": 27.92519
+      }, {
+        "latitudeE7": 191675424,
+        "longitudeE7": 728767083,
+        "placeId": "ChIJC1wNYpi35zsRdnW5RC6Yk4U",
+        "address": "Film City Rd, Shree Krishna Nagar, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar Extension",
+        "locationConfidence": 10.988873,
+        "calibratedProbability": 8.399306
+      }, {
+        "latitudeE7": 191676179,
+        "longitudeE7": 728780222,
+        "placeId": "ChIJ82A8B4635zsRK6dTUvfgAlk",
+        "address": "Film City Rd, Film City Complex, Aarey Colony, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Dadasaheb Phalke Chitranagari",
+        "locationConfidence": 2.2921195,
+        "calibratedProbability": 1.7519735
+      }, {
+        "latitudeE7": 191691427,
+        "longitudeE7": 728759338,
+        "placeId": "ChIJKVJ5kJi35zsRAIr9Oz3rrl8",
+        "address": "1, Film City Rd, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Money Value Financial Hub",
+        "locationConfidence": 1.5519632,
+        "calibratedProbability": 1.1862377
+      }, {
+        "latitudeE7": 191726208,
+        "longitudeE7": 728739090,
+        "placeId": "ChIJD1xh6qG35zsR62v9Vpet6DI",
+        "address": "M-WING, Krishna Vatika Marg, near SVC CO-OPERATIVE BANK LTD., Azad Nagar, Gokuldham Colony, Goregaon, Mumbai, Maharashtra 400063, India",
+        "locationConfidence": 1.2367145,
+        "calibratedProbability": 0.9452784
+      }, {
+        "latitudeE7": 191691507,
+        "longitudeE7": 728759337,
+        "placeId": "ChIJx7l8kJi35zsR7jOQPyQ06OA",
+        "locationConfidence": 0.945868,
+        "calibratedProbability": 0.7229709
+      }, {
+        "latitudeE7": 191697678,
+        "longitudeE7": 728751714,
+        "placeId": "ChIJ479rbMe35zsRhP2Oc8v2MWE",
+        "address": "Santosh nagar, Film City Rd, near Jyoti complex, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Smart Sahakari Bhandar",
+        "locationConfidence": 0.5470971,
+        "calibratedProbability": 0.41817176
+      }, {
+        "latitudeE7": 191661982,
+        "longitudeE7": 728775967,
+        "placeId": "ChIJVVVVhZm35zsRQAGNCOmj040",
+        "address": "General Arun Kumar Vaidya Marg, On, Film City Rd, IGIDR, Nagri Niwara Cooperative Housing Society, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Indira Gandhi Institute of Development Research",
+        "locationConfidence": 0.54227734,
+        "calibratedProbability": 0.41448778
+      }, {
+        "latitudeE7": 191692669,
+        "longitudeE7": 728754744,
+        "placeId": "ChIJA5BLnpi35zsR49emV4yKw_s",
+        "address": "4, Shram Saflya Rahiwasi Mandal, Gen A. K. Vaidya Marg, Santosh Nagar, Film City Rd, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "RadheShyam Tobacco \u0026 General Store",
+        "locationConfidence": 0.5248837,
+        "calibratedProbability": 0.40119302
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 191690061,
+          "lngE7": 728756670,
+          "accuracyMeters": 29,
+          "timestamp": "2020-04-10T11:15:46.362Z"
+        }, {
+          "latE7": 191664483,
+          "lngE7": 728790500,
+          "accuracyMeters": 43,
+          "timestamp": "2020-04-10T12:05:35.730Z"
+        }, {
+          "latE7": 191664483,
+          "lngE7": 728790500,
+          "accuracyMeters": 74,
+          "timestamp": "2020-04-10T12:05:56.374Z"
+        }, {
+          "latE7": 191675508,
+          "lngE7": 728767415,
+          "accuracyMeters": 51,
+          "timestamp": "2020-04-10T17:23:34.751Z"
+        }, {
+          "latE7": 191688526,
+          "lngE7": 728761439,
+          "accuracyMeters": 8,
+          "timestamp": "2020-04-10T19:08:39Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 2502.909938164254
+      },
+      "locationConfidence": 36,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 191689091,
+        "longitudeE7": 728760223,
+        "placeId": "ChIJ5dlanpi35zsRbifxqOKRcZ8",
+        "address": "1, Film City Road, Shivdarshan Nagar, Goregaon, Mumbai, Mumbai Suburban, Maharashtra 400065, India",
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        },
+        "locationConfidence": 47.47059,
+        "calibratedProbability": 32.264046
+      },
+      "duration": {
+        "startTimestamp": "2020-04-10T20:41:16Z",
+        "endTimestamp": "2020-04-11T14:20:18.893Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 191690040,
+      "centerLngE7": 728759534,
+      "visitConfidence": 88,
+      "otherCandidateLocations": [{
+        "latitudeE7": 191695485,
+        "longitudeE7": 728753209,
+        "placeId": "ChIJdYm4vZi35zsRnUVG4HrkrE0",
+        "address": "Shop No,2\u00263, Pav Bakery, 5, Film City Rd, nr. Maruti Service Centre, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "My Kitchen Goregaon",
+        "locationConfidence": 43.072777,
+        "calibratedProbability": 29.275011
+      }, {
+        "latitudeE7": 191675424,
+        "longitudeE7": 728767083,
+        "placeId": "ChIJC1wNYpi35zsRdnW5RC6Yk4U",
+        "address": "Film City Rd, Shree Krishna Nagar, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar Extension",
+        "locationConfidence": 3.0158284,
+        "calibratedProbability": 2.0497496
+      }, {
+        "latitudeE7": 191676179,
+        "longitudeE7": 728780222,
+        "placeId": "ChIJ82A8B4635zsRK6dTUvfgAlk",
+        "address": "Film City Rd, Film City Complex, Aarey Colony, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Dadasaheb Phalke Chitranagari",
+        "locationConfidence": 1.9368266,
+        "calibratedProbability": 1.3163911
+      }, {
+        "latitudeE7": 191726208,
+        "longitudeE7": 728739090,
+        "placeId": "ChIJD1xh6qG35zsR62v9Vpet6DI",
+        "address": "M-WING, Krishna Vatika Marg, near SVC CO-OPERATIVE BANK LTD., Azad Nagar, Gokuldham Colony, Goregaon, Mumbai, Maharashtra 400063, India",
+        "locationConfidence": 1.5757788,
+        "calibratedProbability": 1.071
+      }, {
+        "latitudeE7": 191672470,
+        "longitudeE7": 728766910,
+        "placeId": "ChIJz6b5QZi35zsRipVztLjpW1c",
+        "address": "Mali Nagar, Aarey Colony, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar Extension",
+        "locationConfidence": 0.5853341,
+        "calibratedProbability": 0.39783046
+      }, {
+        "latitudeE7": 191700983,
+        "longitudeE7": 728762862,
+        "placeId": "ChIJYwX8DGa35zsRoc91mecJOhM",
+        "address": "190, Jai Bhim Nagar, zopadepatti, fosbe, Mumbai, Maharashtra 400065, India",
+        "name": "Laxmi petrol pump",
+        "locationConfidence": 0.5725055,
+        "calibratedProbability": 0.3891113
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 39,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 191695485,
+        "longitudeE7": 728753209,
+        "placeId": "ChIJdYm4vZi35zsRnUVG4HrkrE0",
+        "address": "Shop No,2\u00263, Pav Bakery, 5, Film City Rd, nr. Maruti Service Centre, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "My Kitchen Hub",
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        },
+        "locationConfidence": 42.828556,
+        "calibratedProbability": 33.34704
+      },
+      "duration": {
+        "startTimestamp": "2020-04-11T14:20:18.893Z",
+        "endTimestamp": "2020-04-12T11:14:37.119Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 191690451,
+      "centerLngE7": 728760949,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 191689091,
+        "longitudeE7": 728760223,
+        "placeId": "ChIJ5dlanpi35zsRbifxqOKRcZ8",
+        "address": "1, Film City Rd, near My Kitchen Goregaon, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "locationConfidence": 41.91062,
+        "calibratedProbability": 32.63232
+      }, {
+        "latitudeE7": 191675424,
+        "longitudeE7": 728767083,
+        "placeId": "ChIJC1wNYpi35zsRdnW5RC6Yk4U",
+        "address": "Film City Rd, Shree Krishna Nagar, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar Extension",
+        "locationConfidence": 7.648902,
+        "calibratedProbability": 5.9555645
+      }, {
+        "latitudeE7": 191676179,
+        "longitudeE7": 728780222,
+        "placeId": "ChIJ82A8B4635zsRK6dTUvfgAlk",
+        "address": "Film City Rd, Film City Complex, Aarey Colony, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Dadasaheb Phalke Chitranagari",
+        "locationConfidence": 1.9815958,
+        "calibratedProbability": 1.542904
+      }, {
+        "latitudeE7": 191726208,
+        "longitudeE7": 728739090,
+        "placeId": "ChIJD1xh6qG35zsR62v9Vpet6DI",
+        "address": "M-WING, Krishna Vatika Marg, near SVC CO-OPERATIVE BANK LTD., Azad Nagar, Gokuldham Colony, Goregaon, Mumbai, Maharashtra 400063, India",
+        "locationConfidence": 1.7204261,
+        "calibratedProbability": 1.3395529
+      }, {
+        "latitudeE7": 191691427,
+        "longitudeE7": 728759338,
+        "placeId": "ChIJKVJ5kJi35zsRAIr9Oz3rrl8",
+        "address": "1, Film City Rd, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Money Value Financial Hub",
+        "locationConfidence": 1.12659,
+        "calibratedProbability": 0.87718207
+      }, {
+        "latitudeE7": 191704374,
+        "longitudeE7": 728768289,
+        "placeId": "ChIJvXXLx5i35zsRxuvTLOyBGPI",
+        "address": "Krishna Nagar, 242, Swami Vivekananda Rd, Jai Bhim Nagar, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Vita, Sangali",
+        "locationConfidence": 0.7066795,
+        "calibratedProbability": 0.55023265
+      }, {
+        "latitudeE7": 191684948,
+        "longitudeE7": 728781927,
+        "placeId": "ChIJud5cIai35zsR987BRtAZ2pw",
+        "address": "Swami Vivekananda Rd, Laxmi Nagar, Dindoshi, Goregaon, Mumbai, Maharashtra 400063, India",
+        "name": "Omkar Ananta",
+        "locationConfidence": 0.47299492,
+        "calibratedProbability": 0.36828187
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 191785449,
+          "lngE7": 728760175,
+          "accuracyMeters": 11,
+          "timestamp": "2020-04-12T06:25:54.742Z"
+        }, {
+          "latE7": 191785449,
+          "lngE7": 728760175,
+          "accuracyMeters": 11,
+          "timestamp": "2020-04-12T06:26:14.143Z"
+        }, {
+          "latE7": 191689642,
+          "lngE7": 728761677,
+          "accuracyMeters": 41,
+          "timestamp": "2020-04-12T07:26:26.693Z"
+        }, {
+          "latE7": 191785449,
+          "lngE7": 728760175,
+          "accuracyMeters": 11,
+          "timestamp": "2020-04-12T07:34:16.484Z"
+        }, {
+          "latE7": 191785449,
+          "lngE7": 728760175,
+          "accuracyMeters": 11,
+          "timestamp": "2020-04-12T07:50:34.399Z"
+        }, {
+          "latE7": 191785449,
+          "lngE7": 728760175,
+          "accuracyMeters": 11,
+          "timestamp": "2020-04-12T07:51:37.347Z"
+        }, {
+          "latE7": 191785449,
+          "lngE7": 728760175,
+          "accuracyMeters": 11,
+          "timestamp": "2020-04-12T08:31:07.308Z"
+        }, {
+          "latE7": 191785449,
+          "lngE7": 728760175,
+          "accuracyMeters": 11,
+          "timestamp": "2020-04-12T08:31:33.336Z"
+        }, {
+          "latE7": 191785937,
+          "lngE7": 728707658,
+          "accuracyMeters": 29,
+          "timestamp": "2020-04-12T09:20:36.114Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 25012.76328227954
+      },
+      "locationConfidence": 35,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 191689091,
+        "longitudeE7": 728760223,
+        "placeId": "ChIJ5dlanpi35zsRbifxqOKRcZ8",
+        "address": "1, Film City Road, Shivdarshan Nagar, Goregaon, Mumbai, Mumbai Suburban, Maharashtra 400065, India",
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        },
+        "locationConfidence": 91.935844,
+        "calibratedProbability": 59.770023
+      },
+      "duration": {
+        "startTimestamp": "2020-04-12T11:14:37.119Z",
+        "endTimestamp": "2020-04-13T19:20:43.614Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 191689629,
+      "centerLngE7": 728760507,
+      "visitConfidence": 68,
+      "otherCandidateLocations": [{
+        "latitudeE7": 191726208,
+        "longitudeE7": 728739090,
+        "placeId": "ChIJD1xh6qG35zsR62v9Vpet6DI",
+        "address": "M-WING, Krishna Vatika Marg, near SVC CO-OPERATIVE BANK LTD., Azad Nagar, Gokuldham Colony, Goregaon, Mumbai, Maharashtra 400063, India",
+        "locationConfidence": 2.2321694,
+        "calibratedProbability": 1.4511948
+      }, {
+        "latitudeE7": 191689630,
+        "longitudeE7": 728755880,
+        "placeId": "ChIJN_NSm5i35zsRhz1vPuwqZXo",
+        "address": "Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar (Dindoshi)",
+        "locationConfidence": 1.1312488,
+        "calibratedProbability": 0.735456
+      }, {
+        "latitudeE7": 191672470,
+        "longitudeE7": 728766910,
+        "placeId": "ChIJz6b5QZi35zsRipVztLjpW1c",
+        "address": "Mali Nagar, Aarey Colony, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar Extension",
+        "locationConfidence": 1.0304701,
+        "calibratedProbability": 0.669937
+      }, {
+        "latitudeE7": 191676179,
+        "longitudeE7": 728780222,
+        "placeId": "ChIJ82A8B4635zsRK6dTUvfgAlk",
+        "address": "Film City Rd, Film City Complex, Aarey Colony, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Dadasaheb Phalke Chitranagari",
+        "locationConfidence": 0.96845543,
+        "calibratedProbability": 0.62961954
+      }, {
+        "latitudeE7": 191704374,
+        "longitudeE7": 728768289,
+        "placeId": "ChIJvXXLx5i35zsRxuvTLOyBGPI",
+        "address": "Krishna Nagar, 242, Swami Vivekananda Rd, Jai Bhim Nagar, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Vita, Sangali",
+        "locationConfidence": 0.8022249,
+        "calibratedProbability": 0.52154845
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 77,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 191695485,
+        "longitudeE7": 728753209,
+        "placeId": "ChIJdYm4vZi35zsRnUVG4HrkrE0",
+        "address": "Shop No,2\u00263, Pav Bakery, 5, Film City Rd, nr. Maruti Service Centre, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "My Kitchen Hub",
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        },
+        "locationConfidence": 48.891502,
+        "calibratedProbability": 39.756466
+      },
+      "duration": {
+        "startTimestamp": "2020-04-13T19:20:43.614Z",
+        "endTimestamp": "2020-04-14T20:20:09Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 191690021,
+      "centerLngE7": 728761547,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 191689091,
+        "longitudeE7": 728760223,
+        "placeId": "ChIJ5dlanpi35zsRbifxqOKRcZ8",
+        "address": "1, Film City Rd, near My Kitchen Goregaon, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "locationConfidence": 35.611843,
+        "calibratedProbability": 28.95802
+      }, {
+        "latitudeE7": 191675424,
+        "longitudeE7": 728767083,
+        "placeId": "ChIJC1wNYpi35zsRdnW5RC6Yk4U",
+        "address": "Film City Rd, Shree Krishna Nagar, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar Extension",
+        "locationConfidence": 9.509413,
+        "calibratedProbability": 7.7326455
+      }, {
+        "latitudeE7": 191676179,
+        "longitudeE7": 728780222,
+        "placeId": "ChIJ82A8B4635zsRK6dTUvfgAlk",
+        "address": "Film City Rd, Film City Complex, Aarey Colony, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Dadasaheb Phalke Chitranagari",
+        "locationConfidence": 1.7408086,
+        "calibratedProbability": 1.4155507
+      }, {
+        "latitudeE7": 191726208,
+        "longitudeE7": 728739090,
+        "placeId": "ChIJD1xh6qG35zsR62v9Vpet6DI",
+        "address": "M-WING, Krishna Vatika Marg, near SVC CO-OPERATIVE BANK LTD., Azad Nagar, Gokuldham Colony, Goregaon, Mumbai, Maharashtra 400063, India",
+        "locationConfidence": 1.607615,
+        "calibratedProbability": 1.3072433
+      }, {
+        "latitudeE7": 191684948,
+        "longitudeE7": 728781927,
+        "placeId": "ChIJud5cIai35zsR987BRtAZ2pw",
+        "address": "Swami Vivekananda Rd, Laxmi Nagar, Dindoshi, Goregaon, Mumbai, Maharashtra 400063, India",
+        "name": "Omkar Ananta",
+        "locationConfidence": 0.48926097,
+        "calibratedProbability": 0.39784598
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 191693800,
+          "lngE7": 728753150,
+          "accuracyMeters": 12,
+          "timestamp": "2020-04-14T16:42:58Z"
+        }, {
+          "latE7": 191683117,
+          "lngE7": 728766667,
+          "accuracyMeters": 93,
+          "timestamp": "2020-04-14T17:27:04.544Z"
+        }, {
+          "latE7": 191649750,
+          "lngE7": 728798567,
+          "accuracyMeters": 17,
+          "timestamp": "2020-04-14T17:28:41Z"
+        }, {
+          "latE7": 191649750,
+          "lngE7": 728798567,
+          "accuracyMeters": 64,
+          "timestamp": "2020-04-14T17:29:10.860Z"
+        }, {
+          "latE7": 191697233,
+          "lngE7": 728823283,
+          "accuracyMeters": 14,
+          "timestamp": "2020-04-14T17:32:04Z"
+        }, {
+          "latE7": 191708850,
+          "lngE7": 728776950,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-14T17:47:58Z"
+        }, {
+          "latE7": 191710850,
+          "lngE7": 728796817,
+          "accuracyMeters": 15,
+          "timestamp": "2020-04-14T17:50:21Z"
+        }, {
+          "latE7": 191727050,
+          "lngE7": 728732367,
+          "accuracyMeters": 13,
+          "timestamp": "2020-04-14T17:53:14Z"
+        }, {
+          "latE7": 191675167,
+          "lngE7": 728751350,
+          "accuracyMeters": 13,
+          "timestamp": "2020-04-14T17:56:01Z"
+        }, {
+          "latE7": 191687467,
+          "lngE7": 728752533,
+          "accuracyMeters": 10,
+          "timestamp": "2020-04-14T18:11:04Z"
+        }, {
+          "latE7": 191702533,
+          "lngE7": 728747017,
+          "accuracyMeters": 31,
+          "timestamp": "2020-04-14T18:18:33.681Z"
+        }, {
+          "latE7": 191694167,
+          "lngE7": 728763850,
+          "accuracyMeters": 13,
+          "timestamp": "2020-04-14T18:43:13Z"
+        }, {
+          "latE7": 191684750,
+          "lngE7": 728772150,
+          "accuracyMeters": 13,
+          "timestamp": "2020-04-14T18:48:10Z"
+        }, {
+          "latE7": 191688183,
+          "lngE7": 728765150,
+          "accuracyMeters": 7,
+          "timestamp": "2020-04-14T19:57:40Z"
+        }, {
+          "latE7": 191688183,
+          "lngE7": 728765150,
+          "accuracyMeters": 7,
+          "timestamp": "2020-04-14T19:58:31.939Z"
+        }, {
+          "latE7": 191689767,
+          "lngE7": 728758933,
+          "accuracyMeters": 9,
+          "timestamp": "2020-04-14T20:09:13Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 7466.160118190182
+      },
+      "locationConfidence": 40,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 191689091,
+        "longitudeE7": 728760223,
+        "placeId": "ChIJ5dlanpi35zsRbifxqOKRcZ8",
+        "address": "1, Film City Road, Shivdarshan Nagar, Goregaon, Mumbai, Mumbai Suburban, Maharashtra 400065, India",
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        },
+        "locationConfidence": 62.349125,
+        "calibratedProbability": 40.825397
+      },
+      "duration": {
+        "startTimestamp": "2020-04-14T20:20:09Z",
+        "endTimestamp": "2020-04-15T11:42:22.776Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 191689417,
+      "centerLngE7": 728760139,
+      "visitConfidence": 85,
+      "otherCandidateLocations": [{
+        "latitudeE7": 191695485,
+        "longitudeE7": 728753209,
+        "placeId": "ChIJdYm4vZi35zsRnUVG4HrkrE0",
+        "address": "Shop No,2\u00263, Pav Bakery, 5, Film City Rd, nr. Maruti Service Centre, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "My Kitchen Goregaon",
+        "locationConfidence": 27.52259,
+        "calibratedProbability": 18.021435
+      }, {
+        "latitudeE7": 191675424,
+        "longitudeE7": 728767083,
+        "placeId": "ChIJC1wNYpi35zsRdnW5RC6Yk4U",
+        "address": "Film City Rd, Shree Krishna Nagar, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar Extension",
+        "locationConfidence": 5.393268,
+        "calibratedProbability": 3.531442
+      }, {
+        "latitudeE7": 191676179,
+        "longitudeE7": 728780222,
+        "placeId": "ChIJ82A8B4635zsRK6dTUvfgAlk",
+        "address": "Film City Rd, Film City Complex, Aarey Colony, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Dadasaheb Phalke Chitranagari",
+        "locationConfidence": 1.28773,
+        "calibratedProbability": 0.8431889
+      }, {
+        "latitudeE7": 191691427,
+        "longitudeE7": 728759338,
+        "placeId": "ChIJKVJ5kJi35zsRAIr9Oz3rrl8",
+        "address": "1, Film City Rd, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Money Value Financial Hub",
+        "locationConfidence": 0.79623187,
+        "calibratedProbability": 0.5213623
+      }, {
+        "latitudeE7": 191690220,
+        "longitudeE7": 728755380,
+        "placeId": "ChIJ65-8hJi35zsRUuCwfBKomfU",
+        "address": "Ram Nagar JJC, Aarey Colony, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar",
+        "locationConfidence": 0.7585249,
+        "calibratedProbability": 0.49667224
+      }, {
+        "latitudeE7": 191689630,
+        "longitudeE7": 728755880,
+        "placeId": "ChIJN_NSm5i35zsRhz1vPuwqZXo",
+        "address": "Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar (Dindoshi)",
+        "locationConfidence": 0.5473969,
+        "calibratedProbability": 0.3584284
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 50,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 191689635,
+        "longitudeE7": 728761610,
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 191689519,
+        "longitudeE7": 728760311,
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-04-15T11:42:22.776Z",
+        "endTimestamp": "2020-04-15T12:01:04.733Z"
+      },
+      "distance": 2500,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 62.189292907714844
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 18.04133504629135
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 7.757585495710373
+      }, {
+        "activityType": "STILL",
+        "probability": 4.599744081497192
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 2.6668427512049675
+      }, {
+        "activityType": "RUNNING",
+        "probability": 2.2903112694621086
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.5280080027878284
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.4159622825682163
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.28701743576675653
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.13328456552699208
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.07784786284901202
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.007370932144112885
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.0028891028705402277
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0019490462364046834
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 5.585869530477794E-4
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 191692867,
+          "lngE7": 728761215
+        }, {
+          "latE7": 191695308,
+          "lngE7": 728752593
+        }, {
+          "latE7": 191707382,
+          "lngE7": 728722152
+        }, {
+          "latE7": 191673107,
+          "lngE7": 728767318
+        }, {
+          "latE7": 191673107,
+          "lngE7": 728767318
+        }, {
+          "latE7": 191687850,
+          "lngE7": 728757476
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 4088.9418330561184,
+        "travelMode": "WALK",
+        "confidence": 0.9624017500294998
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 191700363,
+          "lngE7": 728723602,
+          "accuracyMeters": 60,
+          "timestamp": "2020-04-15T11:44:48.981Z"
+        }, {
+          "latE7": 191671333,
+          "lngE7": 728766403,
+          "accuracyMeters": 98,
+          "timestamp": "2020-04-15T11:46:11.354Z"
+        }, {
+          "latE7": 191702633,
+          "lngE7": 728717194,
+          "accuracyMeters": 87,
+          "timestamp": "2020-04-15T11:53:42.033Z"
+        }, {
+          "latE7": 191700363,
+          "lngE7": 728723602,
+          "accuracyMeters": 60,
+          "timestamp": "2020-04-15T11:55:49.668Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 191689091,
+        "longitudeE7": 728760223,
+        "placeId": "ChIJ5dlanpi35zsRbifxqOKRcZ8",
+        "address": "1, Film City Road, Shivdarshan Nagar, Goregaon, Mumbai, Mumbai Suburban, Maharashtra 400065, India",
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        },
+        "locationConfidence": 57.48906,
+        "calibratedProbability": 34.097404
+      },
+      "duration": {
+        "startTimestamp": "2020-04-15T12:01:04.733Z",
+        "endTimestamp": "2020-04-15T12:38:07.297Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 191690358,
+      "centerLngE7": 728761542,
+      "visitConfidence": 83,
+      "otherCandidateLocations": [{
+        "latitudeE7": 191695485,
+        "longitudeE7": 728753209,
+        "placeId": "ChIJdYm4vZi35zsRnUVG4HrkrE0",
+        "address": "Shop No,2\u00263, Pav Bakery, 5, Film City Rd, nr. Maruti Service Centre, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "My Kitchen Goregaon",
+        "locationConfidence": 29.222673,
+        "calibratedProbability": 17.332294
+      }, {
+        "latitudeE7": 191675424,
+        "longitudeE7": 728767083,
+        "placeId": "ChIJC1wNYpi35zsRdnW5RC6Yk4U",
+        "address": "Film City Rd, Shree Krishna Nagar, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar Extension",
+        "locationConfidence": 6.6322103,
+        "calibratedProbability": 3.933638
+      }, {
+        "latitudeE7": 191676179,
+        "longitudeE7": 728780222,
+        "placeId": "ChIJ82A8B4635zsRK6dTUvfgAlk",
+        "address": "Film City Rd, Film City Complex, Aarey Colony, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Dadasaheb Phalke Chitranagari",
+        "locationConfidence": 2.9653287,
+        "calibratedProbability": 1.7587696
+      }, {
+        "latitudeE7": 191691427,
+        "longitudeE7": 728759338,
+        "placeId": "ChIJKVJ5kJi35zsRAIr9Oz3rrl8",
+        "address": "1, Film City Rd, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Money Value Financial Hub",
+        "locationConfidence": 1.1453128,
+        "calibratedProbability": 0.67929786
+      }, {
+        "latitudeE7": 191661982,
+        "longitudeE7": 728775967,
+        "placeId": "ChIJVVVVhZm35zsRQAGNCOmj040",
+        "address": "General Arun Kumar Vaidya Marg, On, Film City Rd, IGIDR, Nagri Niwara Cooperative Housing Society, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Indira Gandhi Institute of Development Research",
+        "locationConfidence": 0.53789085,
+        "calibratedProbability": 0.3190291
+      }, {
+        "latitudeE7": 191691507,
+        "longitudeE7": 728759337,
+        "placeId": "ChIJx7l8kJi35zsR7jOQPyQ06OA",
+        "locationConfidence": 0.52458346,
+        "calibratedProbability": 0.31113634
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 46,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 191695778,
+        "longitudeE7": 728769219,
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 191725814,
+        "longitudeE7": 728774222,
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-04-15T12:38:07.297Z",
+        "endTimestamp": "2020-04-15T12:45:06.640Z"
+      },
+      "distance": 375,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 69.50956583023071
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 14.080901443958282
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 8.234036713838577
+      }, {
+        "activityType": "CYCLING",
+        "probability": 3.1544484198093414
+      }, {
+        "activityType": "STILL",
+        "probability": 2.818121947348118
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.942501425743103
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.9026052430272102
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.12557082809507847
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.07768700597807765
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.07152236066758633
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.05827487329952419
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.013484973169397563
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.009249969298252836
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.0013740597751166206
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 6.573186055902625E-4
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 191695766,
+          "lngE7": 728769226
+        }, {
+          "latE7": 191701374,
+          "lngE7": 728775482
+        }, {
+          "latE7": 191719665,
+          "lngE7": 728772659
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 310.83554784640177,
+        "travelMode": "WALK",
+        "confidence": 0.9999991763035728
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 191733320,
+        "longitudeE7": 728778390,
+        "placeId": "ChIJQ5ZACKC35zsRHPfmIUPwquE",
+        "address": "C 184, Dindoshi BMC Colony, Off Film City Road,, Near Satellite Garden Tower, Goregaon East, Sector G, C Ward, Muncipal Colony, Sector B, Goregaon, Mumbai, Maharashtra 400063, India",
+        "name": "Corola Corporate Catering",
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        },
+        "locationConfidence": 66.16755,
+        "calibratedProbability": 51.354767
+      },
+      "duration": {
+        "startTimestamp": "2020-04-15T12:45:06.640Z",
+        "endTimestamp": "2020-04-15T13:40:28.101Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 191733700,
+      "centerLngE7": 728777336,
+      "visitConfidence": 91,
+      "otherCandidateLocations": [{
+        "latitudeE7": 191737213,
+        "longitudeE7": 728739548,
+        "placeId": "ChIJH2OENaC35zsRCdSvp9MV5BU",
+        "address": "261, Film City Rd, Azad Nagar, Gokuldham Colony, Goregaon, Mumbai, Maharashtra 400063, India",
+        "name": "Satellite Towers",
+        "locationConfidence": 13.650472,
+        "calibratedProbability": 10.594571
+      }, {
+        "latitudeE7": 191734050,
+        "longitudeE7": 728774390,
+        "placeId": "ChIJMXBjDZ-35zsR9hzYf2SjkwI",
+        "address": "B.M.C colini sectar B goreganv purve, सेक्टर G, C वॉर्ड, म्युनिसिपल कॉलनी, सेक्टर B, गोरेगाव, मुंबई, महाराष्ट्र 400065, भारत",
+        "name": "Municipal Colony Sector B",
+        "locationConfidence": 5.252372,
+        "calibratedProbability": 4.076535
+      }, {
+        "latitudeE7": 191747129,
+        "longitudeE7": 728796986,
+        "placeId": "ChIJIwa2YJ635zsREUXKxc2NeHM",
+        "address": "Nagri Niwara Cooperative Housing Society, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Alankar Shopping Complex",
+        "locationConfidence": 3.6689818,
+        "calibratedProbability": 2.847615
+      }, {
+        "latitudeE7": 191733109,
+        "longitudeE7": 728772380,
+        "placeId": "ChIJceLatZm35zsRLZcbxoiT5U4",
+        "address": "C.S Properties, Bward, GEN, AKV MARG, near New A-1 Sweets, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "C.S Parmar Properties",
+        "locationConfidence": 2.934976,
+        "calibratedProbability": 2.2779295
+      }, {
+        "latitudeE7": 191735060,
+        "longitudeE7": 728769850,
+        "placeId": "ChIJPSNvDp-35zsRlbKEysha8zU",
+        "address": "Azad Nagar, Gokuldham Colony, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Municipal Colony Sector B",
+        "locationConfidence": 2.0651903,
+        "calibratedProbability": 1.6028608
+      }, {
+        "latitudeE7": 191733622,
+        "longitudeE7": 728771974,
+        "placeId": "ChIJceLatZm35zsRLZcbxoiT5U4",
+        "address": "C.S Properties, Bward, GEN, AKV MARG, near New A-1 Sweets, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "C.S Parmar Properties",
+        "locationConfidence": 1.9691315,
+        "calibratedProbability": 1.5283065
+      }, {
+        "latitudeE7": 191726890,
+        "longitudeE7": 728771000,
+        "placeId": "ChIJF431PZ-35zsR4YYz7uJhrQo",
+        "address": "B- 106, BMC Colony, Santosh Nagar, Swami Vivekananda Rd, Muncipal Colony, Sector A, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Sai Clinic",
+        "locationConfidence": 1.1295047,
+        "calibratedProbability": 0.876645
+      }, {
+        "latitudeE7": 191729640,
+        "longitudeE7": 728776440,
+        "placeId": "ChIJIREaGZ-35zsRdKo07j_aJqA",
+        "address": "C-38, BMC Colony, Jai Bhim Nagar, Muncipal Colony, Sector B, Goregaon, East, Mumbai, Maharashtra 400065, India",
+        "name": "Viraj Accessories \u0026 Bill Payment Center",
+        "locationConfidence": 1.1276385,
+        "calibratedProbability": 0.8751966
+      }, {
+        "latitudeE7": 191763900,
+        "longitudeE7": 728811124,
+        "placeId": "ChIJN7MUFJ635zsR5jq7Sl3qT5M",
+        "address": "Malad, Plot 5, Nagri Niwara Cooperative Housing Society, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Infinity It Park, Dindoshi",
+        "locationConfidence": 0.6085068,
+        "calibratedProbability": 0.47228175
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 53,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 191727117,
+        "longitudeE7": 728770927,
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 191715329,
+        "longitudeE7": 728772390,
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-04-15T13:40:28.101Z",
+        "endTimestamp": "2020-04-15T13:42:26.817Z"
+      },
+      "distance": 135,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 71.92630171775818
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 17.380815744400024
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 4.942855983972549
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 2.48364694416523
+      }, {
+        "activityType": "STILL",
+        "probability": 1.3760232366621494
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.2290246784687042
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.36232625134289265
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.11647338978946209
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.08327100076712668
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.05698800669051707
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.03619891940616071
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.002810402111208532
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.0013703466720471624
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.001100519330066163
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 7.881959390942939E-4
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 191727027,
+          "lngE7": 728770904
+        }, {
+          "latE7": 191724777,
+          "lngE7": 728772964
+        }, {
+          "latE7": 191715373,
+          "lngE7": 728771972
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 153.91229934457536,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 191689091,
+        "longitudeE7": 728760223,
+        "placeId": "ChIJ5dlanpi35zsRbifxqOKRcZ8",
+        "address": "1, Film City Road, Shivdarshan Nagar, Goregaon, Mumbai, Mumbai Suburban, Maharashtra 400065, India",
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        },
+        "locationConfidence": 74.87002,
+        "calibratedProbability": 61.696373
+      },
+      "duration": {
+        "startTimestamp": "2020-04-15T13:42:26.817Z",
+        "endTimestamp": "2020-04-16T09:53:51.181Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 191688885,
+      "centerLngE7": 728760095,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 191695485,
+        "longitudeE7": 728753209,
+        "placeId": "ChIJdYm4vZi35zsRnUVG4HrkrE0",
+        "address": "Shop No,2\u00263, Pav Bakery, 5, Film City Rd, nr. Maruti Service Centre, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "My Kitchen Goregaon",
+        "locationConfidence": 16.139147,
+        "calibratedProbability": 13.299406
+      }, {
+        "latitudeE7": 191675424,
+        "longitudeE7": 728767083,
+        "placeId": "ChIJC1wNYpi35zsRdnW5RC6Yk4U",
+        "address": "Film City Rd, Shree Krishna Nagar, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar Extension",
+        "locationConfidence": 3.079346,
+        "calibratedProbability": 2.537524
+      }, {
+        "latitudeE7": 191704333,
+        "longitudeE7": 728773416,
+        "placeId": "ChIJVVVVVbm35zsRgDWr6TwtZ5k",
+        "address": "Shop Number 1, Shri Ganesh, Navjeevan Hospital Society, near Mamta Nursing Home, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Jai Amaj Ma Electronics",
+        "locationConfidence": 1.4499873,
+        "calibratedProbability": 1.1948569
+      }, {
+        "latitudeE7": 191704374,
+        "longitudeE7": 728768289,
+        "placeId": "ChIJvXXLx5i35zsRxuvTLOyBGPI",
+        "address": "Krishna Nagar, 242, Swami Vivekananda Rd, Jai Bhim Nagar, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Vita, Sangali",
+        "locationConfidence": 1.1791501,
+        "calibratedProbability": 0.97167444
+      }, {
+        "latitudeE7": 191684948,
+        "longitudeE7": 728781927,
+        "placeId": "ChIJud5cIai35zsR987BRtAZ2pw",
+        "address": "Swami Vivekananda Rd, Laxmi Nagar, Dindoshi, Goregaon, Mumbai, Maharashtra 400063, India",
+        "name": "Omkar Ananta",
+        "locationConfidence": 0.7444729,
+        "calibratedProbability": 0.61348027
+      }, {
+        "latitudeE7": 191707078,
+        "longitudeE7": 728772486,
+        "placeId": "ChIJ696tz5i35zsRhnhp1tOKeTo",
+        "address": "5VCG+7WP, Swami Vivekananda Rd, Jai Bhim Nagar, Muncipal Colony, Sector B, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Pawan Hans Western Regeion",
+        "locationConfidence": 0.51407295,
+        "calibratedProbability": 0.42362
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 60,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 191688229,
+        "longitudeE7": 728761015,
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 191785932,
+        "longitudeE7": 728707737,
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-04-16T09:53:51.181Z",
+        "endTimestamp": "2020-04-16T09:59:04.345Z"
+      },
+      "distance": 1222,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 39.78413939476013
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 32.249754667282104
+      }, {
+        "activityType": "WALKING",
+        "probability": 20.786133408546448
+      }, {
+        "activityType": "STILL",
+        "probability": 3.29635888338089
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.698807254433632
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 1.210345048457384
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.4415001254528761
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.33569177612662315
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.10080942884087563
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.07061869837343693
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.021866164752282202
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.003126543015241623
+      }, {
+        "activityType": "SKIING",
+        "probability": 3.9972101149032824E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 3.0848341339151375E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 1.455804977013031E-4
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 191686458,
+          "lngE7": 728758010
+        }, {
+          "latE7": 191720733,
+          "lngE7": 728744049
+        }, {
+          "latE7": 191785717,
+          "lngE7": 728708343
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1514.3772784388314,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 1.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 191785926,
+          "longitudeE7": 728707737,
+          "accuracyMetres": 76
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2020-04-16T10:00:04.845Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 191783666,
+        "longitudeE7": 728706129,
+        "placeId": "ChIJZTtYOAq35zsRIsT_Z-7UUD4",
+        "address": "Pimpripada Rd, Malad, Malad East, Mumbai, Maharashtra 400097, India",
+        "name": "Pimpripada Vegetable market",
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        },
+        "locationConfidence": 31.483343,
+        "calibratedProbability": 10.670915,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2020-04-16T09:59:04.345Z",
+        "endTimestamp": "2020-04-17T04:06:24.863Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 191785900,
+      "centerLngE7": 728707700,
+      "visitConfidence": 69,
+      "otherCandidateLocations": [{
+        "latitudeE7": 191784980,
+        "longitudeE7": 728708540,
+        "placeId": "ChIJS87DRwq35zsR2EI0Ap2UoQI",
+        "address": "SAI RAM RESIDENCY SAI SAINI, C-1, Pimpripada Rd, मालाड, मालाड ईस्ट, मुंबई, महाराष्ट्र 400097, भारत",
+        "locationConfidence": 22.010191,
+        "calibratedProbability": 7.4600997
+      }, {
+        "latitudeE7": 191786490,
+        "longitudeE7": 728709790,
+        "placeId": "ChIJO3aSSAq35zsRmtlhzF8-sEQ",
+        "address": "SAI RAM RESIDENCY SAI SAINI, B-2, Pimpripada Rd, मालाड, मालाड ईस्ट, मुंबई, महाराष्ट्र 400097, भारत",
+        "locationConfidence": 14.713088,
+        "calibratedProbability": 4.986831
+      }, {
+        "latitudeE7": 191787700,
+        "longitudeE7": 728710090,
+        "placeId": "ChIJK_IeSQq35zsRhMpVXN-ullI",
+        "address": "SAI RAM RESIDENCY SAI SAINI, B-1, Pimpripada Rd, मालाड, मालाड ईस्ट, मुंबई, महाराष्ट्र 400097, भारत",
+        "locationConfidence": 10.434286,
+        "calibratedProbability": 3.5365806,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 191785186,
+        "longitudeE7": 728737181,
+        "placeId": "ChIJmQG07aC35zsRwVqJqqKxly8",
+        "address": "Goregaon Railway Station, Aarey Rd, near Udipi Restaurant, Ganesh Nagar Cooperative Housing Society, Churi Wadi, Goregaon, Mumbai, Maharashtra 400063, India",
+        "name": "Gagal Home - Service Apartment Goregaon East",
+        "locationConfidence": 3.2732391,
+        "calibratedProbability": 1.1094265,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 191784980,
+        "longitudeE7": 728708540,
+        "placeId": "ChIJveGxAOi25zsRM5DYktebeTk",
+        "locationConfidence": 3.1504261,
+        "calibratedProbability": 1.0678005
+      }, {
+        "latitudeE7": 191785307,
+        "longitudeE7": 728706743,
+        "placeId": "ChIJ6VhOP4q35zsRk6VDz2zxg-c",
+        "address": "Valentine Apartments, C-1, Pimpripada Rd, Malad, Malad East, Mumbai, Maharashtra 400097, India",
+        "name": "Seagull Restaurant",
+        "locationConfidence": 2.8276026,
+        "calibratedProbability": 0.9583832,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 191782006,
+        "longitudeE7": 728706759,
+        "placeId": "ChIJ1XG0OAq35zsRgQyYhoBaE6g",
+        "locationConfidence": 2.2800498,
+        "calibratedProbability": 0.7727965,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 191785370,
+        "longitudeE7": 728708670,
+        "placeId": "ChIJi-7bRwq35zsRPn2aTYkxoQk",
+        "address": "SAI RAM RESIDENCY SAI SAINI, Pimpripada Rd, मालाड, मालाड ईस्ट, मुंबई, महाराष्ट्र 400097, भारत",
+        "name": "Krishna Novelty",
+        "locationConfidence": 2.062928,
+        "calibratedProbability": 0.6992056
+      }, {
+        "latitudeE7": 191784980,
+        "longitudeE7": 728708540,
+        "placeId": "ChIJveGxAOi25zsR6RUU2zXrgmc",
+        "address": "No - 1, Pimpripada Rd, Malad, Malad East, Mumbai, Maharashtra 400097, India",
+        "name": "Gujarat Samachar",
+        "locationConfidence": 1.1498196,
+        "calibratedProbability": 0.38971806
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 191688229,
+          "lngE7": 728761015,
+          "accuracyMeters": 100,
+          "timestamp": "2020-04-16T15:20:29.996Z"
+        }, {
+          "latE7": 191759734,
+          "lngE7": 728758954,
+          "accuracyMeters": 12,
+          "timestamp": "2020-04-16T16:23:51.453Z"
+        }, {
+          "latE7": 191785925,
+          "lngE7": 728707737,
+          "accuracyMeters": 14,
+          "timestamp": "2020-04-16T17:06:24.107Z"
+        }, {
+          "latE7": 191785449,
+          "lngE7": 728759751,
+          "accuracyMeters": 11,
+          "timestamp": "2020-04-16T17:30:40.737Z"
+        }, {
+          "latE7": 191785449,
+          "lngE7": 728759751,
+          "accuracyMeters": 11,
+          "timestamp": "2020-04-16T17:33:44.885Z"
+        }, {
+          "latE7": 191785449,
+          "lngE7": 728759751,
+          "accuracyMeters": 11,
+          "timestamp": "2020-04-16T17:34:45.984Z"
+        }, {
+          "latE7": 191785449,
+          "lngE7": 728759751,
+          "accuracyMeters": 11,
+          "timestamp": "2020-04-16T17:35:47.462Z"
+        }, {
+          "latE7": 191785449,
+          "lngE7": 728759751,
+          "accuracyMeters": 11,
+          "timestamp": "2020-04-16T17:49:44.196Z"
+        }, {
+          "latE7": 191785449,
+          "lngE7": 728759751,
+          "accuracyMeters": 11,
+          "timestamp": "2020-04-16T17:50:45.242Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 8296.45479993294
+      },
+      "locationConfidence": 24,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 191689091,
+        "longitudeE7": 728760223,
+        "placeId": "ChIJ5dlanpi35zsRbifxqOKRcZ8",
+        "address": "1, Film City Road, Shivdarshan Nagar, Goregaon, Mumbai, Mumbai Suburban, Maharashtra 400065, India",
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        },
+        "locationConfidence": 59.93373,
+        "calibratedProbability": 37.107796
+      },
+      "duration": {
+        "startTimestamp": "2020-04-17T04:06:24.863Z",
+        "endTimestamp": "2020-04-19T06:01:48.222Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 191689300,
+      "centerLngE7": 728760825,
+      "visitConfidence": 84,
+      "otherCandidateLocations": [{
+        "latitudeE7": 191695485,
+        "longitudeE7": 728753209,
+        "placeId": "ChIJdYm4vZi35zsRnUVG4HrkrE0",
+        "address": "Shop No,2\u00263, Pav Bakery, 5, Film City Rd, nr. Maruti Service Centre, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "My Kitchen Goregaon",
+        "locationConfidence": 29.185135,
+        "calibratedProbability": 18.069891
+      }, {
+        "latitudeE7": 191675424,
+        "longitudeE7": 728767083,
+        "placeId": "ChIJC1wNYpi35zsRdnW5RC6Yk4U",
+        "address": "Film City Rd, Shree Krishna Nagar, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar Extension",
+        "locationConfidence": 7.653473,
+        "calibratedProbability": 4.7386255
+      }, {
+        "latitudeE7": 191691427,
+        "longitudeE7": 728759338,
+        "placeId": "ChIJKVJ5kJi35zsRAIr9Oz3rrl8",
+        "address": "1, Film City Rd, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Money Value Financial Hub",
+        "locationConfidence": 0.9540601,
+        "calibratedProbability": 0.59070355
+      }, {
+        "latitudeE7": 191691507,
+        "longitudeE7": 728759337,
+        "placeId": "ChIJx7l8kJi35zsR7jOQPyQ06OA",
+        "locationConfidence": 0.5427013,
+        "calibratedProbability": 0.33601195
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 48,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 191688582,
+        "longitudeE7": 728764708,
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 191689413,
+        "longitudeE7": 728760166,
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-04-19T06:01:48.222Z",
+        "endTimestamp": "2020-04-19T06:34:48.519Z"
+      },
+      "distance": 3545,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 37.99075782299042
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 27.433142066001892
+      }, {
+        "activityType": "WALKING",
+        "probability": 21.41127437353134
+      }, {
+        "activityType": "STILL",
+        "probability": 7.747890055179596
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.9053719714283943
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 1.1856901459395885
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.9461222216486931
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.13542703818529844
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.10068871779367328
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.07219822728075087
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.05936944507993758
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.006722224497934803
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.004255061867297627
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 8.748447726247832E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 2.199634536736994E-4
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 191688766,
+          "lngE7": 728767852
+        }, {
+          "latE7": 191724052,
+          "lngE7": 728743057
+        }, {
+          "latE7": 191785755,
+          "lngE7": 728708343
+        }, {
+          "latE7": 191758460,
+          "lngE7": 728745117
+        }, {
+          "latE7": 191785678,
+          "lngE7": 728760528
+        }, {
+          "latE7": 191724319,
+          "lngE7": 728744277
+        }, {
+          "latE7": 191687660,
+          "lngE7": 728757171
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 5639.77880584821,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 1.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 191785965,
+          "lngE7": 728707733,
+          "accuracyMeters": 16,
+          "timestamp": "2020-04-19T06:13:48.910Z"
+        }, {
+          "latE7": 191785450,
+          "lngE7": 728760147,
+          "accuracyMeters": 11,
+          "timestamp": "2020-04-19T06:26:58.381Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 191688229,
+          "longitudeE7": 728761015,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2020-04-19T06:36:51.658Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 191689091,
+        "longitudeE7": 728760223,
+        "placeId": "ChIJ5dlanpi35zsRbifxqOKRcZ8",
+        "address": "1, Film City Road, Shivdarshan Nagar, Goregaon, Mumbai, Mumbai Suburban, Maharashtra 400065, India",
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        },
+        "locationConfidence": 57.36356,
+        "calibratedProbability": 42.984978
+      },
+      "duration": {
+        "startTimestamp": "2020-04-19T17:28:35.491Z",
+        "endTimestamp": "2020-04-21T11:28:43.230Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 191689465,
+      "centerLngE7": 728761256,
+      "visitConfidence": 91,
+      "otherCandidateLocations": [{
+        "latitudeE7": 191695485,
+        "longitudeE7": 728753209,
+        "placeId": "ChIJdYm4vZi35zsRnUVG4HrkrE0",
+        "address": "Shop No,2\u00263, Pav Bakery, 5, Film City Rd, nr. Maruti Service Centre, Jai Bhim Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "My Kitchen Goregaon",
+        "locationConfidence": 32.58862,
+        "calibratedProbability": 24.420052
+      }, {
+        "latitudeE7": 191675424,
+        "longitudeE7": 728767083,
+        "placeId": "ChIJC1wNYpi35zsRdnW5RC6Yk4U",
+        "address": "Film City Rd, Shree Krishna Nagar, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar Extension",
+        "locationConfidence": 6.417364,
+        "calibratedProbability": 4.8088064
+      }, {
+        "latitudeE7": 191691427,
+        "longitudeE7": 728759338,
+        "placeId": "ChIJKVJ5kJi35zsRAIr9Oz3rrl8",
+        "address": "1, Film City Rd, Shivdarshan Nagar, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Money Value Financial Hub",
+        "locationConfidence": 0.60321325,
+        "calibratedProbability": 0.45201358
+      }, {
+        "latitudeE7": 191672470,
+        "longitudeE7": 728766910,
+        "placeId": "ChIJz6b5QZi35zsRipVztLjpW1c",
+        "address": "Mali Nagar, Aarey Colony, Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar Extension",
+        "locationConfidence": 0.57450646,
+        "calibratedProbability": 0.43050236
+      }, {
+        "latitudeE7": 191691507,
+        "longitudeE7": 728759337,
+        "placeId": "ChIJx7l8kJi35zsR7jOQPyQ06OA",
+        "locationConfidence": 0.47587284,
+        "calibratedProbability": 0.35659194
+      }, {
+        "latitudeE7": 191689630,
+        "longitudeE7": 728755880,
+        "placeId": "ChIJN_NSm5i35zsRhz1vPuwqZXo",
+        "address": "Goregaon, Mumbai, Maharashtra 400065, India",
+        "name": "Santosh Nagar (Dindoshi)",
+        "locationConfidence": 0.45951468,
+        "calibratedProbability": 0.34433407
+      }, {
+        "latitudeE7": 191700983,
+        "longitudeE7": 728762862,
+        "placeId": "ChIJYwX8DGa35zsRoc91mecJOhM",
+        "address": "190, Jai Bhim Nagar, zopadepatti, fosbe, Mumbai, Maharashtra 400065, India",
+        "name": "Laxmi petrol pump",
+        "locationConfidence": 0.45001853,
+        "calibratedProbability": 0.3372182
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 46,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 191687524,
+        "longitudeE7": 728753631,
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 191785959,
+        "longitudeE7": 728707720,
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-04-21T11:28:43.230Z",
+        "endTimestamp": "2020-04-21T11:39:33.981Z"
+      },
+      "distance": 1196,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 36.701175570487976
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 35.645294189453125
+      }, {
+        "activityType": "WALKING",
+        "probability": 20.316047966480255
+      }, {
+        "activityType": "CYCLING",
+        "probability": 3.5631276667118073
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 1.7617147415876389
+      }, {
+        "activityType": "STILL",
+        "probability": 1.278014201670885
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.4285714589059353
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.09555178112350404
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.08125847671180964
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.06897514685988426
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.04847444361075759
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.005748998955823481
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.004844671639148146
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 7.008593001955887E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 5.022080586059019E-4
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 191689052,
+          "lngE7": 728756256
+        }, {
+          "latE7": 191720733,
+          "lngE7": 728744049
+        }, {
+          "latE7": 191785755,
+          "lngE7": 728708343
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1480.5693204243555,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 191785959,
+          "longitudeE7": 728707720,
+          "accuracyMetres": 76
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2020-04-21T11:41:08.346Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 191785278,
+        "longitudeE7": 728708649,
+        "placeId": "ChIJS87DRwq35zsR2EI0Ap2UoQI",
+        "address": "Valentine Apartments, C-1, Pimpripada Road, Malad East, Mumbai, Maharashtra 400097, India",
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        },
+        "locationConfidence": 82.53093,
+        "calibratedProbability": 53.00574
+      },
+      "duration": {
+        "startTimestamp": "2020-04-21T11:39:33.981Z",
+        "endTimestamp": "2020-04-21T15:19:51.901Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 191785900,
+      "centerLngE7": 728707700,
+      "visitConfidence": 75,
+      "otherCandidateLocations": [{
+        "latitudeE7": 191783666,
+        "longitudeE7": 728706129,
+        "placeId": "ChIJZTtYOAq35zsRIsT_Z-7UUD4",
+        "address": "Pimpripada Rd, Malad, Malad East, Mumbai, Maharashtra 400097, India",
+        "name": "Pimpripada Vegetable market",
+        "locationConfidence": 10.940247,
+        "calibratedProbability": 7.0264072,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 191785307,
+        "longitudeE7": 728706743,
+        "placeId": "ChIJ6VhOP4q35zsRk6VDz2zxg-c",
+        "address": "Valentine Apartments, C-1, Pimpripada Rd, Malad, Malad East, Mumbai, Maharashtra 400097, India",
+        "name": "Seagull Restaurant",
+        "locationConfidence": 0.93948376,
+        "calibratedProbability": 0.60338634,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 191785186,
+        "longitudeE7": 728737181,
+        "placeId": "ChIJmQG07aC35zsRwVqJqqKxly8",
+        "address": "Goregaon Railway Station, Aarey Rd, near Udipi Restaurant, Ganesh Nagar Cooperative Housing Society, Churi Wadi, Goregaon, Mumbai, Maharashtra 400063, India",
+        "name": "Gagal Home - Service Apartment Goregaon East",
+        "locationConfidence": 0.9171121,
+        "calibratedProbability": 0.5890181,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 191784980,
+        "longitudeE7": 728708540,
+        "placeId": "ChIJveGxAOi25zsRM5DYktebeTk",
+        "locationConfidence": 0.746629,
+        "calibratedProbability": 0.4795248
+      }, {
+        "latitudeE7": 191785370,
+        "longitudeE7": 728708670,
+        "placeId": "ChIJi-7bRwq35zsRPn2aTYkxoQk",
+        "address": "SAI RAM RESIDENCY SAI SAINI, Pimpripada Rd, मालाड, मालाड ईस्ट, मुंबई, महाराष्ट्र 400097, भारत",
+        "name": "Krishna Novelty",
+        "locationConfidence": 0.67344904,
+        "calibratedProbability": 0.43252474
+      }, {
+        "latitudeE7": 191782006,
+        "longitudeE7": 728706759,
+        "placeId": "ChIJ1XG0OAq35zsRgQyYhoBaE6g",
+        "locationConfidence": 0.61515266,
+        "calibratedProbability": 0.3950837,
+        "isCurrentLocation": true
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 67,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 191692175,
+        "longitudeE7": 728764708,
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 191785959,
+        "longitudeE7": 728707720,
+        "sourceInfo": {
+          "deviceTag": 2001590068
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-04-22T06:27:45.714Z",
+        "endTimestamp": "2020-04-22T06:33:18.673Z"
+      },
+      "distance": 1202,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 38.739755749702454
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 33.08871388435364
+      }, {
+        "activityType": "WALKING",
+        "probability": 19.99419778585434
+      }, {
+        "activityType": "STILL",
+        "probability": 3.152354806661606
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.7427446097135544
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 1.2771842069923878
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.47899680212140083
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.2463807351887226
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.1240334240719676
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.08590705110691488
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.05874816561117768
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0071625501732341945
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.002566278817539569
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 7.930500032671262E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 4.6471855057461653E-4
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 191693801,
+          "lngE7": 728764114
+        }, {
+          "latE7": 191720733,
+          "lngE7": 728744049
+        }, {
+          "latE7": 191785755,
+          "lngE7": 728708343
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJez7oCKK35zsRmvP9_lwLvd8"
+        }, {
+          "placeId": "ChIJEfes6KG35zsRQKbctFmDomY"
+        }, {
+          "placeId": "ChIJvSd-xKG35zsRUMm99tHBVAI"
+        }, {
+          "placeId": "ChIJK3Fwz6G35zsRVqQWTyKynXU"
+        }, {
+          "placeId": "ChIJybEWzKG35zsRF1tmEv_9-bo"
+        }, {
+          "placeId": "ChIJLx-aOaC35zsRYfOx2p93XIo"
+        }, {
+          "placeId": "ChIJNeuyE6C35zsRBM5y1JAxPf8"
+        }, {
+          "placeId": "ChIJ-STMlAq35zsRKBBPJn2-Too"
+        }, {
+          "placeId": "ChIJAZq0igq35zsRIMik0p1bmps"
+        }, {
+          "placeId": "ChIJ6TlEQgq35zsRP_zlse-dWhI"
+        }, {
+          "placeId": "ChIJj730Swq35zsRPGyIvQm4Vyg"
+        }],
+        "distanceMeters": 1546.0621687192045,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 191785959,
+          "longitudeE7": 728707720,
+          "accuracyMetres": 76
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2020-04-22T06:34:41.694Z"
+      }
+    }
+  }]
+}

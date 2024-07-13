@@ -1,0 +1,4289 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 252339859,
+        "longitudeE7": 736746216,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        },
+        "locationConfidence": 20.94815,
+        "calibratedProbability": 9.60651
+      },
+      "duration": {
+        "startTimestamp": "2021-07-01T02:00:50.336Z",
+        "endTimestamp": "2021-07-01T12:02:22.271Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 252342533,
+      "centerLngE7": 736751733,
+      "visitConfidence": 64,
+      "otherCandidateLocations": [{
+        "latitudeE7": 252338772,
+        "longitudeE7": 736710052,
+        "locationConfidence": 16.925182,
+        "calibratedProbability": 7.7616367
+      }, {
+        "latitudeE7": 252334641,
+        "longitudeE7": 736763894,
+        "placeId": "ChIJMdz870E7aDkR5yWMFlG_2sE",
+        "address": "near toll plaza, 6MMG+9HJ, Garhbor, Rajasthan 313334, India",
+        "name": "Green chilli midway",
+        "locationConfidence": 11.948206,
+        "calibratedProbability": 5.4792695
+      }, {
+        "latitudeE7": 252327256,
+        "longitudeE7": 736746617,
+        "placeId": "ChIJA5V9-tI7aDkRXmHFffSq900",
+        "address": "6MMF+3VV, NH 162 Ext, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Talgarh Restaurant",
+        "locationConfidence": 7.2743764,
+        "calibratedProbability": 3.3359208
+      }, {
+        "latitudeE7": 252370194,
+        "longitudeE7": 736775111,
+        "placeId": "ChIJ5ZsMGk07aDkRXQSVnNxI4i0",
+        "address": "6MPH+R22, Garhbor, Rajasthan 313334, India",
+        "name": "Dalaji ki Bhagal",
+        "locationConfidence": 0.71260023,
+        "calibratedProbability": 0.32678786
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 12,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 252339859,
+        "longitudeE7": 736746216,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        },
+        "locationConfidence": 20.94815,
+        "calibratedProbability": 9.60651
+      },
+      "endLocation": {
+        "latitudeE7": 252339201,
+        "longitudeE7": 736744259,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-01T12:02:22.271Z",
+        "endTimestamp": "2021-07-02T12:32:44.003Z"
+      },
+      "distance": 1006,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 41.49072468280792
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 22.600993514060974
+      }, {
+        "activityType": "STILL",
+        "probability": 20.585021376609802
+      }, {
+        "activityType": "WALKING",
+        "probability": 13.074414432048798
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.1746571399271488
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.442654499784112
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.19790949299931526
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.18290311563760042
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.11884737759828568
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.05915499641560018
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.04428410320542753
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.025735158124007285
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0024002370992093347
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.626381728987326E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 4.376560127639095E-5
+      }]
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 252339859,
+        "longitudeE7": 736746216,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        },
+        "locationConfidence": 25.752752,
+        "calibratedProbability": 10.873856
+      },
+      "duration": {
+        "startTimestamp": "2021-07-02T12:32:44.003Z",
+        "endTimestamp": "2021-07-03T03:23:51Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 252342533,
+      "centerLngE7": 736751733,
+      "visitConfidence": 62,
+      "otherCandidateLocations": [{
+        "latitudeE7": 252334641,
+        "longitudeE7": 736763894,
+        "placeId": "ChIJMdz870E7aDkR5yWMFlG_2sE",
+        "address": "near toll plaza, 6MMG+9HJ, Garhbor, Rajasthan 313334, India",
+        "name": "Green chilli midway",
+        "locationConfidence": 16.993376,
+        "calibratedProbability": 7.175292
+      }, {
+        "latitudeE7": 252327256,
+        "longitudeE7": 736746617,
+        "placeId": "ChIJA5V9-tI7aDkRXmHFffSq900",
+        "address": "6MMF+3VV, NH 162 Ext, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Talgarh Restaurant",
+        "locationConfidence": 6.297624,
+        "calibratedProbability": 2.6591122
+      }, {
+        "latitudeE7": 252338772,
+        "longitudeE7": 736710052,
+        "locationConfidence": 5.5648737,
+        "calibratedProbability": 2.3497152
+      }, {
+        "latitudeE7": 252370194,
+        "longitudeE7": 736775111,
+        "placeId": "ChIJ5ZsMGk07aDkRXQSVnNxI4i0",
+        "address": "6MPH+R22, Garhbor, Rajasthan 313334, India",
+        "name": "Dalaji ki Bhagal",
+        "locationConfidence": 0.95575356,
+        "calibratedProbability": 0.4035579
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 18,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 252349212,
+        "longitudeE7": 736766814,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 252345579,
+        "longitudeE7": 736592203,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-03T03:23:51Z",
+        "endTimestamp": "2021-07-03T08:11:42.442Z"
+      },
+      "distance": 1762,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 44.06478404998779
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 29.448556900024414
+      }, {
+        "activityType": "STILL",
+        "probability": 14.135392010211945
+      }, {
+        "activityType": "WALKING",
+        "probability": 9.660118073225021
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.3899496756494045
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.48205265775322914
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.27157573495060205
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.2537799999117851
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.15877106925472617
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.06205862737260759
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.04230096528772265
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.027118370053358376
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.003212429874110967
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.615568064356921E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 6.499111577795702E-5
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 252332958,
+          "lngE7": 736670494,
+          "accuracyMeters": 300,
+          "timestamp": "2021-07-03T08:09:39.875Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1785.43233976744
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 252364899,
+        "longitudeE7": 736582185,
+        "placeId": "ChIJDeLDCMw7aDkR0AfEp6T9_gE",
+        "address": "6MP5+H7W, Manawation Ka Gurha, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "GSSS MANAWATO KA GUDA",
+        "sourceInfo": {
+          "deviceTag": -355143198
+        },
+        "locationConfidence": 31.538683,
+        "calibratedProbability": 20.323689
+      },
+      "duration": {
+        "startTimestamp": "2021-07-03T08:11:42.442Z",
+        "endTimestamp": "2021-07-03T09:28:10.077Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 252345450,
+      "centerLngE7": 736592100,
+      "visitConfidence": 78,
+      "otherCandidateLocations": [{
+        "latitudeE7": 252329421,
+        "longitudeE7": 736660022,
+        "placeId": "ChIJCQFTnl47aDkRW0ZX4WP2Edo",
+        "address": "Jhilwara, bus stand, Desuri Road, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "श्री देवनारायण होटल",
+        "locationConfidence": 17.164398,
+        "calibratedProbability": 11.060826
+      }, {
+        "latitudeE7": 252328918,
+        "longitudeE7": 736689134,
+        "placeId": "ChIJoc5mjkY7aDkRm-EHnwLyI-g",
+        "address": "6MM9+5H3, RJ SH 16, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Jhilwara RSRDC Toll Plaza",
+        "locationConfidence": 7.3339567,
+        "calibratedProbability": 4.7260394
+      }, {
+        "latitudeE7": 252338772,
+        "longitudeE7": 736710052,
+        "locationConfidence": 5.1333385,
+        "calibratedProbability": 3.3079495
+      }, {
+        "latitudeE7": 252368023,
+        "longitudeE7": 736579140,
+        "placeId": "ChIJDeLDCMw7aDkR0AfEp6T9_gE",
+        "address": "6MP5+H7W, Manawation Ka Gurha, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "GSSS MANAWATO KA GUDA",
+        "locationConfidence": 3.372238,
+        "calibratedProbability": 2.1730874
+      }, {
+        "latitudeE7": 252364881,
+        "longitudeE7": 736533415,
+        "placeId": "ChIJffdUPaIlaDkRCFMa5AzwsVI",
+        "address": "6MP3+H8W, RJ SH 16, Manawation Ka Gurha, Rajasthan 313334, India",
+        "name": "Range Forest Office Jhilwara",
+        "locationConfidence": 1.7034465,
+        "calibratedProbability": 1.0977097
+      }, {
+        "latitudeE7": 252324832,
+        "longitudeE7": 736611437,
+        "placeId": "ChIJYZx5FUk7aDkRTg8ikvsOdzU",
+        "address": "6MM6+2F2, manavto ka guda, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Bhunaji Bavji Bheru Ji Bavji Mandeer manavato ka gudda",
+        "locationConfidence": 1.5894426,
+        "calibratedProbability": 1.0242449
+      }, {
+        "latitudeE7": 252379353,
+        "longitudeE7": 736525627,
+        "placeId": "ChIJLcbZJEUlaDkRR-7ZZ9wOKt8",
+        "locationConfidence": 1.5455368,
+        "calibratedProbability": 0.9959518
+      }, {
+        "latitudeE7": 252328985,
+        "longitudeE7": 736668269,
+        "placeId": "ChIJHbeFWUM7aDkRKXLBvAKTAmk",
+        "address": "6MM8+5P4, RJ SH 16, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "A to Z",
+        "locationConfidence": 1.4431286,
+        "calibratedProbability": 0.9299595
+      }, {
+        "latitudeE7": 252360234,
+        "longitudeE7": 736555547,
+        "placeId": "ChIJm0pXepw7aDkR0a8g8NE_VTM",
+        "address": "Manawation Ka Gurha, Rajasthan 313334, India",
+        "name": "Parmar Digital Studio",
+        "locationConfidence": 1.2770169,
+        "calibratedProbability": 0.8229162
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 24,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 252345453,
+        "longitudeE7": 736592040,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 252340963,
+        "longitudeE7": 736762392,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-03T09:28:10.077Z",
+        "endTimestamp": "2021-07-04T16:00:08.206Z"
+      },
+      "distance": 3872,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 55.62068223953247
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 26.23468041419983
+      }, {
+        "activityType": "WALKING",
+        "probability": 7.610370963811874
+      }, {
+        "activityType": "STILL",
+        "probability": 7.133704423904419
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.3816516622900963
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.42947055771946907
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.20088355522602797
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.19659781828522682
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.08559345151297748
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.051823712419718504
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.038187229074537754
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.013668977771885693
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0023866590709076263
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.8095519155613147E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 3.387216622741107E-5
+      }]
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 252342376,
+        "longitudeE7": 736721998,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 252340963,
+        "longitudeE7": 736762392,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-04T16:00:08.206Z",
+        "endTimestamp": "2021-07-04T16:11:23.345Z"
+      },
+      "distance": 406,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 45.49868404865265
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 20.975449681282043
+      }, {
+        "activityType": "STILL",
+        "probability": 16.579769551753998
+      }, {
+        "activityType": "WALKING",
+        "probability": 14.543569087982178
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.1987589299678802
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.48185945488512516
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.24628653191030025
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.20008296705782413
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.1409571385011077
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.058262975653633475
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.044907626579515636
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.02893955970648676
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0022461676053353585
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.0535178464342607E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 3.436706776938081E-5
+      }],
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 252342025,
+          "longitudeE7": 736718672,
+          "accuracyMetres": 99
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "FROM_RAW_LOCATION",
+        "timestamp": "2021-07-04T16:11:23.365Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 252339592,
+        "longitudeE7": 736745834,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        },
+        "locationConfidence": 28.262568,
+        "calibratedProbability": 5.4549522
+      },
+      "duration": {
+        "startTimestamp": "2021-07-04T16:11:23.345Z",
+        "endTimestamp": "2021-07-05T01:17:22.237Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 252342250,
+      "centerLngE7": 736753200,
+      "visitConfidence": 57,
+      "otherCandidateLocations": [{
+        "latitudeE7": 252334641,
+        "longitudeE7": 736763894,
+        "placeId": "ChIJMdz870E7aDkR5yWMFlG_2sE",
+        "address": "near toll plaza, 6MMG+9HJ, Garhbor, Rajasthan 313334, India",
+        "name": "Green chilli midway",
+        "locationConfidence": 16.104315,
+        "calibratedProbability": 3.1082902
+      }, {
+        "latitudeE7": 252327256,
+        "longitudeE7": 736746617,
+        "placeId": "ChIJA5V9-tI7aDkRXmHFffSq900",
+        "address": "6MMF+3VV, NH 162 Ext, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Talgarh Restaurant",
+        "locationConfidence": 5.428439,
+        "calibratedProbability": 1.0477419
+      }, {
+        "latitudeE7": 252337856,
+        "longitudeE7": 736710358,
+        "locationConfidence": 3.6505818,
+        "calibratedProbability": 0.704598
+      }, {
+        "latitudeE7": 252328918,
+        "longitudeE7": 736689134,
+        "placeId": "ChIJoc5mjkY7aDkRm-EHnwLyI-g",
+        "address": "6MM9+5H3, RJ SH 16, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Jhilwara RSRDC Toll Plaza",
+        "locationConfidence": 1.2461421,
+        "calibratedProbability": 0.24051763
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 21,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 252341960,
+        "longitudeE7": 736718319,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 252337672,
+        "longitudeE7": 736744071,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-05T01:17:22.237Z",
+        "endTimestamp": "2021-07-05T06:25:30.239Z"
+      },
+      "distance": 263,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 45.168301463127136
+      }, {
+        "activityType": "WALKING",
+        "probability": 23.07991236448288
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 16.726721823215485
+      }, {
+        "activityType": "STILL",
+        "probability": 12.045907229185104
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.8839480578899384
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.49377684481441975
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.4282854497432709
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.4000280052423477
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.35863323137164116
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.28861460741609335
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.08579504792578518
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.028560170903801918
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.011278219608357176
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 2.3023703761282377E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.3744697469064704E-5
+      }],
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 252337672,
+          "longitudeE7": 736744071,
+          "accuracyMetres": 160,
+          "sourceInfo": {
+            "deviceTag": -355143198
+          }
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2021-07-05T06:25:30.239Z"
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 252340963,
+        "longitudeE7": 736762392,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 252537177,
+        "longitudeE7": 736975159,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-05T06:25:30.239Z",
+        "endTimestamp": "2021-07-05T11:31:15.844Z"
+      },
+      "distance": 3675,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 34.63797569274902
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 26.605990529060364
+      }, {
+        "activityType": "STILL",
+        "probability": 23.4793484210968
+      }, {
+        "activityType": "WALKING",
+        "probability": 12.446580082178116
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.5833547338843346
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.41819275356829166
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.2570057986304164
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.2548134420067072
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.1453468226827681
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.06947633810341358
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.04881259810645133
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.04662968567572534
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.006070434392313473
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.775547045530402E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 1.2921973393531516E-4
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 252383503,
+          "lngE7": 736948946,
+          "accuracyMeters": 3,
+          "timestamp": "2021-07-05T11:25:06Z"
+        }, {
+          "latE7": 252429903,
+          "lngE7": 736985187,
+          "accuracyMeters": 128,
+          "timestamp": "2021-07-05T11:27:13.357Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 3748.623037981324
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 252537239,
+        "longitudeE7": 736974391,
+        "placeId": "ChIJ20zoNQY7aDkRDKf95E7QYEY",
+        "address": "7M3W+FXP, Garhbor, Garhbor Charbhujaji, Rajasthan 313334, India",
+        "name": "Gujarati Restaurant",
+        "sourceInfo": {
+          "deviceTag": -355143198
+        },
+        "locationConfidence": 69.32012,
+        "calibratedProbability": 50.021492
+      },
+      "duration": {
+        "startTimestamp": "2021-07-05T11:31:15.844Z",
+        "endTimestamp": "2021-07-05T12:40:55.972Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 252536954,
+      "centerLngE7": 736974947,
+      "visitConfidence": 87,
+      "otherCandidateLocations": [{
+        "latitudeE7": 252534379,
+        "longitudeE7": 736953392,
+        "placeId": "ChIJC5_iDAY7aDkRmngqZVf_5ow",
+        "address": "Tehsil, gadbor Mandir Choraha Kumbhalgarh, Garhbor, Garhbor Charbhujaji, Rajasthan 313333, India",
+        "name": "Shree Charbhuja Nath Ji Main Mandir",
+        "locationConfidence": 9.646969,
+        "calibratedProbability": 6.961265
+      }, {
+        "latitudeE7": 252537239,
+        "longitudeE7": 736974393,
+        "placeId": "ChIJT7xMDhE7aDkRUpByrjrClpg",
+        "address": "near bus stop, charbhuja, Garhbor Charbhujaji, Rajasthan 313333, India",
+        "name": "Dr. Sharma Dental Clinic, Charbhuja",
+        "locationConfidence": 5.176649,
+        "calibratedProbability": 3.7354767
+      }, {
+        "latitudeE7": 252526467,
+        "longitudeE7": 736935190,
+        "placeId": "ChIJOeDn1yw7aDkRbHqfl_boV4o",
+        "address": "SANTOSH VATIKA,CHARBHUJA SEVENTRI ROAD CHARBHUJA GARHBOR, Rajsamand, Garhbor, Rajasthan 313333, India",
+        "name": "State Bank of India CHARBHUJA GARHBOR",
+        "locationConfidence": 3.223123,
+        "calibratedProbability": 2.3258097
+      }, {
+        "latitudeE7": 252531313,
+        "longitudeE7": 736973120,
+        "placeId": "ChIJUaDmMAY7aDkR-twvUBCqbcI",
+        "address": "7M3W+7WH, Jodhpur Rd, Garhbor Charbhujaji, Rajasthan 313334, India",
+        "name": "रोकडिया हनुमान पान भण्डार चारभुजा",
+        "locationConfidence": 2.3806324,
+        "calibratedProbability": 1.7178674
+      }, {
+        "latitudeE7": 252541259,
+        "longitudeE7": 736973851,
+        "placeId": "ChIJRxmoSwY7aDkRmIlDt-_8Ij0",
+        "address": "7M3W+JXP, Garhbor Charbhujaji, Rajasthan 313333, India",
+        "name": "HOTEL PURNIMA \u0026 GUEST HOUSE",
+        "locationConfidence": 2.090601,
+        "calibratedProbability": 1.5085803
+      }, {
+        "latitudeE7": 252528701,
+        "longitudeE7": 736934032,
+        "placeId": "ChIJU7ba7AU7aDkRjz8FFrgzncM",
+        "locationConfidence": 1.3295155,
+        "calibratedProbability": 0.9593801
+      }, {
+        "latitudeE7": 252535880,
+        "longitudeE7": 736973982,
+        "placeId": "ChIJMWy6_TU7aDkRwmsIbp2dXcU",
+        "address": "7M3W+FX7, Garhbor Charbhujaji, Rajasthan 313334, India",
+        "name": "Parth bakery charbhuja",
+        "locationConfidence": 1.2602454,
+        "calibratedProbability": 0.90939474
+      }, {
+        "latitudeE7": 252532590,
+        "longitudeE7": 736973717,
+        "placeId": "ChIJue9fjio7aDkRpFMu7KwZYNQ",
+        "address": "7M3W+7XR, Garhbor Charbhujaji, Rajasthan 313334, India",
+        "name": "Bhagyashree Sportes and general Store",
+        "locationConfidence": 0.870623,
+        "calibratedProbability": 0.6282427
+      }, {
+        "latitudeE7": 252536290,
+        "longitudeE7": 736973987,
+        "placeId": "ChIJdcokc3Q7aDkRjY9-pVn8mR8",
+        "address": "charbhuja] bus stand, Gomti Rd, Bhopji Ki Bhagal, Garhbor Charbhujaji, Rajasthan 313333, India",
+        "name": "SHREE RAM FRUIT BHANDAR \u0026 FIOWER DECORATION\u0027S",
+        "locationConfidence": 0.82269096,
+        "calibratedProbability": 0.5936549
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 55,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 252537019,
+        "longitudeE7": 736975124,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 252337672,
+        "longitudeE7": 736744071,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-05T12:40:55.972Z",
+        "endTimestamp": "2021-07-06T02:17:55.481Z"
+      },
+      "distance": 3211,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 49.73292052745819
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 29.99662160873413
+      }, {
+        "activityType": "STILL",
+        "probability": 9.81701985001564
+      }, {
+        "activityType": "WALKING",
+        "probability": 4.878943786025047
+      }, {
+        "activityType": "CYCLING",
+        "probability": 4.31244894862175
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.4468298051506281
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.30988992657512426
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.2524688374251127
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.12294946936890483
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.05252526607364416
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.05177666898816824
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.017469775048084557
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.007500939682358876
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 3.8323832995956764E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 2.572320227045566E-4
+      }]
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 252339592,
+        "longitudeE7": 736745834,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        },
+        "locationConfidence": 20.326836,
+        "calibratedProbability": 17.734901
+      },
+      "duration": {
+        "startTimestamp": "2021-07-06T02:17:55.481Z",
+        "endTimestamp": "2021-07-06T16:38:35.366Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 252339935,
+      "centerLngE7": 736756847,
+      "visitConfidence": 65,
+      "otherCandidateLocations": [{
+        "latitudeE7": 252337856,
+        "longitudeE7": 736710358,
+        "locationConfidence": 7.430364,
+        "calibratedProbability": 6.482897
+      }, {
+        "latitudeE7": 252334641,
+        "longitudeE7": 736763894,
+        "placeId": "ChIJMdz870E7aDkR5yWMFlG_2sE",
+        "address": "near toll plaza, 6MMG+9HJ, Garhbor, Rajasthan 313334, India",
+        "name": "Green chilli midway",
+        "locationConfidence": 6.0227094,
+        "calibratedProbability": 5.254736
+      }, {
+        "latitudeE7": 252327256,
+        "longitudeE7": 736746617,
+        "placeId": "ChIJA5V9-tI7aDkRXmHFffSq900",
+        "address": "6MMF+3VV, NH 162 Ext, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Talgarh Restaurant",
+        "locationConfidence": 3.050405,
+        "calibratedProbability": 2.661439
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 12,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 252334641,
+        "longitudeE7": 736763894,
+        "placeId": "ChIJMdz870E7aDkR5yWMFlG_2sE",
+        "address": "near toll plaza, 6MMG+9HJ, Garhbor, Rajasthan 313334, India",
+        "name": "Green chilli midway",
+        "sourceInfo": {
+          "deviceTag": -355143198
+        },
+        "locationConfidence": 16.973282,
+        "calibratedProbability": 17.126333
+      },
+      "duration": {
+        "startTimestamp": "2021-07-06T16:38:35.366Z",
+        "endTimestamp": "2021-07-07T00:27:54.536Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 252338900,
+      "centerLngE7": 736759845,
+      "visitConfidence": 61,
+      "otherCandidateLocations": [{
+        "latitudeE7": 252327256,
+        "longitudeE7": 736746617,
+        "placeId": "ChIJA5V9-tI7aDkRXmHFffSq900",
+        "address": "6MMF+3VV, NH 162 Ext, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Talgarh Restaurant",
+        "locationConfidence": 8.39645,
+        "calibratedProbability": 8.472163
+      }, {
+        "latitudeE7": 252339592,
+        "longitudeE7": 736745682,
+        "locationConfidence": 0.9431021,
+        "calibratedProbability": 0.95160633
+      }, {
+        "latitudeE7": 252339077,
+        "longitudeE7": 736710358,
+        "locationConfidence": 0.07978033,
+        "calibratedProbability": 0.08049973
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 7,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 252339592,
+        "longitudeE7": 736745682,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        },
+        "locationConfidence": 26.404667,
+        "calibratedProbability": 8.417149
+      },
+      "duration": {
+        "startTimestamp": "2021-07-07T00:27:54.536Z",
+        "endTimestamp": "2021-07-07T13:12:23.715Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 252348367,
+      "centerLngE7": 736757000,
+      "visitConfidence": 61,
+      "otherCandidateLocations": [{
+        "latitudeE7": 252334641,
+        "longitudeE7": 736763894,
+        "placeId": "ChIJMdz870E7aDkR5yWMFlG_2sE",
+        "address": "near toll plaza, 6MMG+9HJ, Garhbor, Rajasthan 313334, India",
+        "name": "Green chilli midway",
+        "locationConfidence": 19.959185,
+        "calibratedProbability": 6.3624897
+      }, {
+        "latitudeE7": 252327256,
+        "longitudeE7": 736746617,
+        "placeId": "ChIJA5V9-tI7aDkRXmHFffSq900",
+        "address": "6MMF+3VV, NH 162 Ext, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Talgarh Restaurant",
+        "locationConfidence": 8.983468,
+        "calibratedProbability": 2.8637052
+      }, {
+        "latitudeE7": 252339077,
+        "longitudeE7": 736710358,
+        "locationConfidence": 8.263435,
+        "calibratedProbability": 2.6341767
+      }, {
+        "latitudeE7": 252328918,
+        "longitudeE7": 736689134,
+        "placeId": "ChIJoc5mjkY7aDkRm-EHnwLyI-g",
+        "address": "6MM9+5H3, RJ SH 16, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Jhilwara RSRDC Toll Plaza",
+        "locationConfidence": 1.9766152,
+        "calibratedProbability": 0.63009554
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 19,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 252342148,
+        "longitudeE7": 736754608,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 252666947,
+        "longitudeE7": 736696246,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-07T13:12:23.715Z",
+        "endTimestamp": "2021-07-08T01:38:56.554Z"
+      },
+      "distance": 4144,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 38.198524713516235
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 33.416175842285156
+      }, {
+        "activityType": "STILL",
+        "probability": 19.147270917892456
+      }, {
+        "activityType": "WALKING",
+        "probability": 7.419726997613907
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.8747384883463383
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.32119990792125463
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.1990652410313487
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.185470434371382
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.13749563368037343
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.04432288696989417
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.03177398757543415
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.02088600303977728
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0030024915758986026
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.8947820283065084E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 5.907811555516673E-5
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 252666947,
+          "lngE7": 736696246,
+          "accuracyMeters": 200,
+          "timestamp": "2021-07-07T19:40:51.197Z"
+        }, {
+          "latE7": 252669713,
+          "lngE7": 736688888,
+          "accuracyMeters": 100,
+          "timestamp": "2021-07-07T23:03:30.475Z"
+        }, {
+          "latE7": 252666947,
+          "lngE7": 736696246,
+          "accuracyMeters": 200,
+          "timestamp": "2021-07-08T00:18:40.729Z"
+        }, {
+          "latE7": 252660998,
+          "lngE7": 736707283,
+          "accuracyMeters": 100,
+          "timestamp": "2021-07-08T01:28:11.019Z"
+        }, {
+          "latE7": 252663207,
+          "lngE7": 736711884,
+          "accuracyMeters": 41,
+          "timestamp": "2021-07-08T01:28:41.256Z"
+        }, {
+          "latE7": 252666947,
+          "lngE7": 736696246,
+          "accuracyMeters": 200,
+          "timestamp": "2021-07-08T01:30:42.243Z"
+        }, {
+          "latE7": 252660998,
+          "lngE7": 736707283,
+          "accuracyMeters": 100,
+          "timestamp": "2021-07-08T01:32:55.226Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 4421.8960931549145
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 252729244,
+        "longitudeE7": 736769822,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 252669713,
+        "longitudeE7": 736688888,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-08T01:38:56.554Z",
+        "endTimestamp": "2021-07-08T05:54:05.246Z"
+      },
+      "distance": 1194,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 38.176319003105164
+      }, {
+        "activityType": "STILL",
+        "probability": 37.757232785224915
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 15.383614599704742
+      }, {
+        "activityType": "WALKING",
+        "probability": 7.146573066711426
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.7117929868400097
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.2713317982852459
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.169347261544317
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.16233953647315502
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.12278120266273618
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.038328394293785095
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.03754043718799949
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.020844915707129985
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0018486894987290725
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 7.731075015726674E-5
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.483336345449061E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 252660980,
+          "lngE7": 736707763
+        }, {
+          "latE7": 252666244,
+          "lngE7": 736707992
+        }, {
+          "latE7": 252674083,
+          "lngE7": 736693496
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJg6nNVtk6aDkRp_IxvXdXZ-Y",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJg6nNVtk6aDkRdmfLD3Lut2M",
+          "duration": "2976s"
+        }, {
+          "placeId": "ChIJyZDUUNk6aDkRlPjeV6BBYWQ",
+          "duration": "1700s"
+        }, {
+          "placeId": "ChIJP8za_Ns6aDkRquwDSFXevSg",
+          "duration": "1700s"
+        }, {
+          "placeId": "ChIJP8za_Ns6aDkRsnWVT2jxFLM",
+          "duration": "1700s"
+        }, {
+          "placeId": "ChIJV-yW5ts6aDkRgIghBAiJDw8",
+          "duration": "1275s"
+        }, {
+          "placeId": "ChIJV-yW5ts6aDkR0u1csYhUX_U",
+          "duration": "2551s"
+        }],
+        "distanceMeters": 245.70242832707402,
+        "travelMode": "DRIVE",
+        "confidence": 1.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 252669713,
+          "longitudeE7": 736688888,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "FROM_RAW_LOCATION",
+        "timestamp": "2021-07-08T05:52:04.018Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 252666110,
+        "longitudeE7": 736706670,
+        "placeId": "ChIJsWPZV9k6aDkRZKPBC1JR38o",
+        "address": "Bagunda, Rajasthan 313334, India",
+        "name": "Sakriya Ki Bhagal",
+        "sourceInfo": {
+          "deviceTag": -355143198
+        },
+        "locationConfidence": 82.07838,
+        "calibratedProbability": 62.737278
+      },
+      "duration": {
+        "startTimestamp": "2021-07-08T05:54:05.246Z",
+        "endTimestamp": "2021-07-08T13:37:32.805Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 252664092,
+      "centerLngE7": 736702083,
+      "visitConfidence": 64,
+      "otherCandidateLocations": [{
+        "latitudeE7": 252696304,
+        "longitudeE7": 736780584,
+        "placeId": "ChIJp-gpcOc6aDkRgKKRVP4H8DA",
+        "address": "7M9H+V76, Unnamed Road, Bagunda, Rajasthan 313334, India",
+        "name": "Rokadiya Hanuman Ji",
+        "locationConfidence": 0.9689356,
+        "calibratedProbability": 0.7406139
+      }, {
+        "latitudeE7": 252696531,
+        "longitudeE7": 736781801,
+        "placeId": "ChIJPZyXwT87aDkRtC1gPbMR_Ow",
+        "address": "7M9H+V77, Bagunda, Rajasthan 313334, India",
+        "name": "Vishwakarma Bhagwan Mandir",
+        "locationConfidence": 0.39506158,
+        "calibratedProbability": 0.30196857
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 67,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 252669713,
+        "longitudeE7": 736688888,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 252337672,
+        "longitudeE7": 736744071,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-08T13:37:32.805Z",
+        "endTimestamp": "2021-07-08T15:04:16.767Z"
+      },
+      "distance": 5161,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 41.585010290145874
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 33.8991641998291
+      }, {
+        "activityType": "STILL",
+        "probability": 15.198805928230286
+      }, {
+        "activityType": "WALKING",
+        "probability": 6.959652155637741
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.2237749993801117
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.3939232788980007
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.2379578771069646
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.20366923417896032
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.17568570328876376
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.05452840123325586
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.048168955254368484
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.016847805818542838
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0026274881747667678
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.0330679742764914E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 8.195760869966762E-5
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 252276692,
+          "lngE7": 736767987,
+          "accuracyMeters": 77,
+          "timestamp": "2021-07-08T15:00:13.819Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 5161.493711047906
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 252277125,
+          "longitudeE7": 736767642,
+          "accuracyMetres": 137
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2021-07-08T15:04:16.774Z"
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 252667363,
+        "longitudeE7": 736699925,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 252339045,
+        "longitudeE7": 736744382,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-08T15:04:16.767Z",
+        "endTimestamp": "2021-07-09T01:47:20.100Z"
+      },
+      "distance": 3912,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 44.27221715450287
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 31.710651516914368
+      }, {
+        "activityType": "STILL",
+        "probability": 16.44805818796158
+      }, {
+        "activityType": "WALKING",
+        "probability": 5.505708605051041
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.0977375321090221
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.2980697900056839
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.23682995233684778
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.1845307182520628
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.1456317026168108
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.04488167760428041
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.03078062436543405
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.021795107750222087
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0028303817089181393
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.0025854610139504E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 8.784415967966197E-5
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 252341061,
+          "lngE7": 736716645,
+          "accuracyMeters": 16,
+          "timestamp": "2021-07-09T01:02:41.052Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 3912.1024444554832
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 252330767,
+        "longitudeE7": 736715664,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 252340735,
+        "longitudeE7": 736718136,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-09T01:47:20.100Z",
+        "endTimestamp": "2021-07-09T05:26:23Z"
+      },
+      "distance": 243,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 31.453874707221985
+      }, {
+        "activityType": "WALKING",
+        "probability": 30.3678959608078
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 18.550823628902435
+      }, {
+        "activityType": "STILL",
+        "probability": 16.759388148784637
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.2819831259548664
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.6457199342548847
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.33135549165308475
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.23621900472790003
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.16406499780714512
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.08776379399932921
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.08292163256555796
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.03428392228670418
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.003505697168293409
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 1.373591317133105E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 6.540422532452794E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 252331619,
+          "lngE7": 736714096
+        }, {
+          "latE7": 252336158,
+          "lngE7": 736715698
+        }, {
+          "latE7": 252339992,
+          "lngE7": 736718978
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJESJLSkE7aDkRfWepuIwU5h8",
+          "duration": "13142s"
+        }],
+        "distanceMeters": 107.59273686300878,
+        "travelMode": "DRIVE",
+        "confidence": 0.8902860076576378
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 252340735,
+          "longitudeE7": 736718136,
+          "accuracyMetres": 70
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "FROM_RAW_LOCATION",
+        "timestamp": "2021-07-09T05:26:23Z"
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 252339045,
+        "longitudeE7": 736744382,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 251225176,
+        "longitudeE7": 735557079,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-09T05:26:23Z",
+        "endTimestamp": "2021-07-09T07:20:52.113Z"
+      },
+      "distance": 17305,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 32.88559317588806
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 28.222545981407166
+      }, {
+        "activityType": "STILL",
+        "probability": 18.97757202386856
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 17.005671560764313
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.374941598623991
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.6109348963946104
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.29721702449023724
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.266495649702847
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.1367775839753449
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.08734732400625944
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.08348400006070733
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.04620059044100344
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.004941453880746849
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 2.1487821868504398E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 6.377300678650499E-5
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 252340735,
+          "lngE7": 736718136,
+          "accuracyMeters": 10,
+          "timestamp": "2021-07-09T05:26:23Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 17305.222777702184
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 252339045,
+        "longitudeE7": 736744382,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 252341686,
+        "longitudeE7": 736747750,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-09T07:20:52.113Z",
+        "endTimestamp": "2021-07-09T15:07:34.709Z"
+      },
+      "distance": 40157,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 30.81173002719879
+      }, {
+        "activityType": "WALKING",
+        "probability": 29.302218556404114
+      }, {
+        "activityType": "STILL",
+        "probability": 20.21825611591339
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 17.29070097208023
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.0127799585461617
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.5406295415014029
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.25120198260992765
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.2474242588505149
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.13859235914424062
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.07295486284419894
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.06812282372266054
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.041264103492721915
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.003919512528227642
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 1.4877799685564241E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 5.753169034505845E-5
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 251225176,
+          "lngE7": 735557079,
+          "accuracyMeters": 116,
+          "timestamp": "2021-07-09T07:20:52.113Z"
+        }, {
+          "latE7": 251408477,
+          "lngE7": 735783682,
+          "accuracyMeters": 400,
+          "timestamp": "2021-07-09T08:05:49.394Z"
+        }, {
+          "latE7": 251347832,
+          "lngE7": 735733008,
+          "accuracyMeters": 36,
+          "timestamp": "2021-07-09T08:07:52.299Z"
+        }, {
+          "latE7": 251225380,
+          "lngE7": 735558294,
+          "accuracyMeters": 110,
+          "timestamp": "2021-07-09T08:13:59.156Z"
+        }, {
+          "latE7": 251285939,
+          "lngE7": 735412138,
+          "accuracyMeters": 6,
+          "timestamp": "2021-07-09T10:34:08.534Z"
+        }, {
+          "latE7": 251276626,
+          "lngE7": 735413476,
+          "accuracyMeters": 3,
+          "timestamp": "2021-07-09T10:34:24Z"
+        }, {
+          "latE7": 251275522,
+          "lngE7": 735426689,
+          "accuracyMeters": 5,
+          "timestamp": "2021-07-09T10:34:39Z"
+        }, {
+          "latE7": 251266675,
+          "lngE7": 735437554,
+          "accuracyMeters": 4,
+          "timestamp": "2021-07-09T10:34:54Z"
+        }, {
+          "latE7": 251255625,
+          "lngE7": 735435726,
+          "accuracyMeters": 4,
+          "timestamp": "2021-07-09T10:35:09Z"
+        }, {
+          "latE7": 251245361,
+          "lngE7": 735449894,
+          "accuracyMeters": 4,
+          "timestamp": "2021-07-09T10:35:40Z"
+        }, {
+          "latE7": 251235989,
+          "lngE7": 735448899,
+          "accuracyMeters": 3,
+          "timestamp": "2021-07-09T10:35:55Z"
+        }, {
+          "latE7": 251346032,
+          "lngE7": 735731926,
+          "accuracyMeters": 28,
+          "timestamp": "2021-07-09T10:44:28.805Z"
+        }, {
+          "latE7": 251332459,
+          "lngE7": 735836470,
+          "accuracyMeters": 3,
+          "timestamp": "2021-07-09T10:47:01Z"
+        }, {
+          "latE7": 251323740,
+          "lngE7": 735836998,
+          "accuracyMeters": 3,
+          "timestamp": "2021-07-09T10:47:16Z"
+        }, {
+          "latE7": 251322012,
+          "lngE7": 735845064,
+          "accuracyMeters": 6,
+          "timestamp": "2021-07-09T10:47:31Z"
+        }, {
+          "latE7": 251227945,
+          "lngE7": 735903146,
+          "accuracyMeters": 104,
+          "timestamp": "2021-07-09T10:52:48.015Z"
+        }, {
+          "latE7": 251266551,
+          "lngE7": 736065730,
+          "accuracyMeters": 122,
+          "timestamp": "2021-07-09T10:59:21.800Z"
+        }, {
+          "latE7": 251275448,
+          "lngE7": 736152128,
+          "accuracyMeters": 11,
+          "timestamp": "2021-07-09T11:00:56Z"
+        }, {
+          "latE7": 251290332,
+          "lngE7": 736208170,
+          "accuracyMeters": 11,
+          "timestamp": "2021-07-09T11:01:58Z"
+        }, {
+          "latE7": 251313814,
+          "lngE7": 736346723,
+          "accuracyMeters": 400,
+          "timestamp": "2021-07-09T11:08:13.854Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 47999.96892772726
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 251225176,
+        "longitudeE7": 735557079,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 252341686,
+        "longitudeE7": 736747750,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-09T15:07:34.709Z",
+        "endTimestamp": "2021-07-09T18:07:18.497Z"
+      },
+      "distance": 17253,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 39.52495455741882
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 37.773266434669495
+      }, {
+        "activityType": "STILL",
+        "probability": 14.644291996955872
+      }, {
+        "activityType": "WALKING",
+        "probability": 6.357507407665253
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.9172758087515831
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.25603834073990583
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.18266976112499833
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.16512786969542503
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.09025749750435352
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.03839783894363791
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.03330601321067661
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.012409227201715112
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.004306102346163243
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.2089798246961436E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 7.7641760753977E-5
+      }],
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 252341686,
+          "longitudeE7": 736747750,
+          "accuracyMetres": 160,
+          "sourceInfo": {
+            "deviceTag": -355143198
+          }
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2021-07-09T18:07:18.497Z"
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 251306750,
+        "longitudeE7": 736284171,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 252343207,
+        "longitudeE7": 736729356,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-09T18:07:18.497Z",
+        "endTimestamp": "2021-07-10T17:20:47.541Z"
+      },
+      "distance": 12863,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 52.91409492492676
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 31.337544322013855
+      }, {
+        "activityType": "WALKING",
+        "probability": 6.668304651975632
+      }, {
+        "activityType": "STILL",
+        "probability": 6.103768944740295
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.3249659687280655
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.23376510944217443
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.22896795999258757
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.0644515675958246
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.06256630877032876
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.022008916130289435
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.020228559151291847
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.014126444875728339
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.005157342820893973
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 4.639092026081926E-5
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 6.752573256108008E-6
+      }]
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 252339401,
+        "longitudeE7": 736745148,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        },
+        "locationConfidence": 17.41755,
+        "calibratedProbability": 6.9055815
+      },
+      "duration": {
+        "startTimestamp": "2021-07-10T17:20:47.541Z",
+        "endTimestamp": "2021-07-11T07:36:26.365Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 252343621,
+      "centerLngE7": 736742462,
+      "visitConfidence": 60,
+      "otherCandidateLocations": [{
+        "latitudeE7": 252334641,
+        "longitudeE7": 736763894,
+        "placeId": "ChIJMdz870E7aDkR5yWMFlG_2sE",
+        "address": "near toll plaza, 6MMG+9HJ, Garhbor, Rajasthan 313334, India",
+        "name": "Green chilli midway",
+        "locationConfidence": 9.217342,
+        "calibratedProbability": 3.6544237
+      }, {
+        "latitudeE7": 252339077,
+        "longitudeE7": 736710358,
+        "locationConfidence": 6.6109343,
+        "calibratedProbability": 2.6210544
+      }, {
+        "latitudeE7": 252370194,
+        "longitudeE7": 736775111,
+        "placeId": "ChIJ5ZsMGk07aDkRXQSVnNxI4i0",
+        "address": "6MPH+R22, Garhbor, Rajasthan 313334, India",
+        "name": "Dalaji ki Bhagal",
+        "locationConfidence": 6.4058146,
+        "calibratedProbability": 2.53973
+      }, {
+        "latitudeE7": 252327256,
+        "longitudeE7": 736746617,
+        "placeId": "ChIJA5V9-tI7aDkRXmHFffSq900",
+        "address": "6MMF+3VV, NH 162 Ext, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Talgarh Restaurant",
+        "locationConfidence": 5.209118,
+        "calibratedProbability": 2.0652726
+      }, {
+        "latitudeE7": 252299459,
+        "longitudeE7": 736812110,
+        "placeId": "ChIJD3rfTk07aDkRfjsw7AIOzVs",
+        "address": "6MHJ+XFX, Jhilwara Rd, Jhilwara, Chadana Ki Bhagal, Rajasthan 313334, India",
+        "name": "Dr Govind Singh Solanki Jhilwara",
+        "locationConfidence": 0.99996465,
+        "calibratedProbability": 0.3964586
+      }, {
+        "latitudeE7": 252301695,
+        "longitudeE7": 736782817,
+        "placeId": "ChIJvQdhy2k7aDkR2m96Osaf7dQ",
+        "address": "6MJH+387, Chadana Ki Bhagal, Rajasthan 313334, India",
+        "name": "Saraswati Math",
+        "locationConfidence": 0.9349447,
+        "calibratedProbability": 0.37067994
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 8,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 252340854,
+        "longitudeE7": 736747285,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 252340854,
+        "longitudeE7": 736747285,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-11T07:36:26.365Z",
+        "endTimestamp": "2021-07-12T01:38:59.885Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 44.650158286094666
+      }, {
+        "activityType": "STILL",
+        "probability": 21.41193449497223
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 21.365585923194885
+      }, {
+        "activityType": "WALKING",
+        "probability": 10.460672527551651
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.0699238628149033
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.38289427757263184
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.23246975615620613
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.16785188345238566
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.13888056855648756
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.05180809530429542
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.03731825272552669
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.02807897690217942
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.002152685192413628
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.3679406240262324E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 3.2957427720248234E-5
+      }]
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 252339058,
+        "longitudeE7": 736743774,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        },
+        "locationConfidence": 18.097645,
+        "calibratedProbability": 6.2760224
+      },
+      "duration": {
+        "startTimestamp": "2021-07-12T01:38:59.885Z",
+        "endTimestamp": "2021-07-12T07:28:36.340Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 252339900,
+      "centerLngE7": 736745850,
+      "visitConfidence": 59,
+      "otherCandidateLocations": [{
+        "latitudeE7": 252334641,
+        "longitudeE7": 736763894,
+        "placeId": "ChIJMdz870E7aDkR5yWMFlG_2sE",
+        "address": "near toll plaza, 6MMG+9HJ, Garhbor, Rajasthan 313334, India",
+        "name": "Green chilli midway",
+        "locationConfidence": 14.574883,
+        "calibratedProbability": 5.0543756
+      }, {
+        "latitudeE7": 252338810,
+        "longitudeE7": 736709366,
+        "locationConfidence": 6.4141483,
+        "calibratedProbability": 2.2243412
+      }, {
+        "latitudeE7": 252327256,
+        "longitudeE7": 736746617,
+        "placeId": "ChIJA5V9-tI7aDkRXmHFffSq900",
+        "address": "6MMF+3VV, NH 162 Ext, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Talgarh Restaurant",
+        "locationConfidence": 3.681647,
+        "calibratedProbability": 1.2767462
+      }, {
+        "latitudeE7": 252370194,
+        "longitudeE7": 736775111,
+        "placeId": "ChIJ5ZsMGk07aDkRXQSVnNxI4i0",
+        "address": "6MPH+R22, Garhbor, Rajasthan 313334, India",
+        "name": "Dalaji ki Bhagal",
+        "locationConfidence": 2.2684042,
+        "calibratedProbability": 0.7866524
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 9,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 252358602,
+        "longitudeE7": 736756415,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 252352183,
+        "longitudeE7": 736585877,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-12T07:28:36.340Z",
+        "endTimestamp": "2021-07-14T07:28:33.159Z"
+      },
+      "distance": 3157,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 35.568782687187195
+      }, {
+        "activityType": "STILL",
+        "probability": 25.273814797401428
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 24.826407432556152
+      }, {
+        "activityType": "WALKING",
+        "probability": 12.185286730527878
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.1106474325060844
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.39411592297255993
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.19598717335611582
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.1848161919042468
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.11725513031706214
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.06652675801888108
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.042635275167413056
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.030236330348998308
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.003166735405102372
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.588900088085211E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 6.069539608688501E-5
+      }]
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 252364899,
+        "longitudeE7": 736582185,
+        "placeId": "ChIJDeLDCMw7aDkR0AfEp6T9_gE",
+        "address": "6MP5+H7W, Manawation Ka Gurha, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "GSSS MANAWATO KA GUDA",
+        "sourceInfo": {
+          "deviceTag": -355143198
+        },
+        "locationConfidence": 48.55764,
+        "calibratedProbability": 32.626675
+      },
+      "duration": {
+        "startTimestamp": "2021-07-14T07:28:33.159Z",
+        "endTimestamp": "2021-07-14T07:47:36.135Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 252348043,
+      "centerLngE7": 736591971,
+      "visitConfidence": 77,
+      "otherCandidateLocations": [{
+        "latitudeE7": 252324832,
+        "longitudeE7": 736611437,
+        "placeId": "ChIJYZx5FUk7aDkRTg8ikvsOdzU",
+        "address": "6MM6+2F2, manavto ka guda, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Bhunaji Bavji Bheru Ji Bavji Mandeer manavato ka gudda",
+        "locationConfidence": 7.9025664,
+        "calibratedProbability": 5.309864
+      }, {
+        "latitudeE7": 252368023,
+        "longitudeE7": 736579140,
+        "placeId": "ChIJDeLDCMw7aDkR0AfEp6T9_gE",
+        "address": "6MP5+H7W, Manawation Ka Gurha, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "GSSS MANAWATO KA GUDA",
+        "locationConfidence": 7.5381713,
+        "calibratedProbability": 5.065021
+      }, {
+        "latitudeE7": 252334028,
+        "longitudeE7": 736610794,
+        "placeId": "ChIJnSY8pd87aDkRiMBbfL7FbCg",
+        "address": "6MM6+9C8, Manawation Ka Gurha, Hataji Ka Gurha, Rajasthan 31333, India",
+        "name": "BALAJI EMITRA LAXMI KIRANA",
+        "locationConfidence": 2.950055,
+        "calibratedProbability": 1.9821904
+      }, {
+        "latitudeE7": 252331765,
+        "longitudeE7": 736620779,
+        "placeId": "ChIJVw7wGP47aDkR78Lq5x-WA7M",
+        "address": "6MM6+7R8, Manawation Ka Gurha, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Aai Mata kirana and janral Store",
+        "locationConfidence": 2.8260133,
+        "calibratedProbability": 1.8988447
+      }, {
+        "latitudeE7": 252342817,
+        "longitudeE7": 736597316,
+        "placeId": "ChIJ5e8YGck7aDkRVr8W5s2fO5M",
+        "address": "6MM5+PV5, RJ SH 16, Manawation Ka Gurha, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "भवानी म्यूजिक साउंड चारभुजा",
+        "locationConfidence": 2.3990083,
+        "calibratedProbability": 1.6119331
+      }, {
+        "latitudeE7": 252350918,
+        "longitudeE7": 736564898,
+        "placeId": "ChIJvxgUiko7aDkR1-pC55S3a7k",
+        "address": "SH16, District Pali, Manawation Ka Gurha, Rajasthan 313334, India",
+        "name": "Shree Bheruji Bavji Sanjiya Mata Mandir",
+        "locationConfidence": 2.245935,
+        "calibratedProbability": 1.5090805
+      }, {
+        "latitudeE7": 252361337,
+        "longitudeE7": 736565992,
+        "placeId": "ChIJm0pXepw7aDkR0a8g8NE_VTM",
+        "address": "Manawation Ka Gurha, Rajasthan 313334, India",
+        "name": "Parmar Digital Studio",
+        "locationConfidence": 1.320096,
+        "calibratedProbability": 0.8869942
+      }, {
+        "latitudeE7": 252331156,
+        "longitudeE7": 736566420,
+        "placeId": "ChIJf-HKy9Y7aDkRtjDSkYPiAhE",
+        "address": "SH16, मनावातिओं का गूढ़ा, राजस्थान 313334, भारत",
+        "name": "हनुमान जी मंदिर",
+        "locationConfidence": 1.1971695,
+        "calibratedProbability": 0.8043979
+      }, {
+        "latitudeE7": 252330621,
+        "longitudeE7": 736619677,
+        "placeId": "ChIJ6Rg5Ufw7aDkRBH7LwE2j_2Y",
+        "address": "6MM6+6RJ, RJ SH 16, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Aai mata kirana",
+        "locationConfidence": 1.1868691,
+        "calibratedProbability": 0.7974769
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 39,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 252352183,
+        "longitudeE7": 736585877,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 252410204,
+        "longitudeE7": 736972143,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-14T07:47:36.135Z",
+        "endTimestamp": "2021-07-15T05:36:12.541Z"
+      },
+      "distance": 6049,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 49.018558859825134
+      }, {
+        "activityType": "STILL",
+        "probability": 24.02932494878769
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 18.841439485549927
+      }, {
+        "activityType": "WALKING",
+        "probability": 5.588655173778534
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.5976421535015106
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.28477313462644815
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.2078488003462553
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.1916445093229413
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.11491156183183193
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.060924311401322484
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.039192085387185216
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.022587107378058136
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.002148257954104338
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 3.1013375973998336E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 3.675661730540014E-5
+      }]
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 252377554,
+        "longitudeE7": 736954482,
+        "placeId": "ChIJh2J0h3Q7aDkR78REWCsugKI",
+        "address": "Garhbor, Rajasthan 313334, India",
+        "name": "Himachalsuri Dham - Charbhuja Choraya Jain Mandir",
+        "sourceInfo": {
+          "deviceTag": -355143198
+        },
+        "locationConfidence": 42.41967,
+        "calibratedProbability": 14.818673
+      },
+      "duration": {
+        "startTimestamp": "2021-07-15T05:36:12.541Z",
+        "endTimestamp": "2021-07-15T17:00:10.246Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 252378058,
+          "longitudeE7": 736953020,
+          "placeId": "ChIJh2J0h3Q7aDkR78REWCsugKI",
+          "address": "Garhbor, Rajasthan 313334, India",
+          "name": "Himachal Nagar Charbhuja",
+          "sourceInfo": {
+            "deviceTag": -355143198
+          },
+          "locationConfidence": 50.228813,
+          "calibratedProbability": 15.392966
+        },
+        "duration": {
+          "startTimestamp": "2021-07-15T05:36:12.541Z",
+          "endTimestamp": "2021-07-15T07:46:47.067Z"
+        },
+        "placeConfidence": "LOW_CONFIDENCE",
+        "centerLatE7": 252400442,
+        "centerLngE7": 736972408,
+        "visitConfidence": 61,
+        "otherCandidateLocations": [{
+          "latitudeE7": 252388048,
+          "longitudeE7": 736949907,
+          "placeId": "ChIJaa9pwJs7aDkRwEOR6UpfDrU",
+          "address": "Near Tehsil Garhbor, HimachalSuriNagar Chouraha, opposite Goushala, JainMandir, Charbhuja, Garhbor, Rajasthan 313333, India",
+          "name": "PERFECT E-SERVICES PAN Center Emitra CSC FastTag",
+          "locationConfidence": 13.018398,
+          "calibratedProbability": 3.9895782
+        }, {
+          "latitudeE7": 252419229,
+          "longitudeE7": 736972801,
+          "placeId": "ChIJjxLX6rs7aDkRjHFyFmi3jo0",
+          "address": "RJ SH 16, Garhbor, Rajasthan 313334, India",
+          "name": "Akhil Bhartiya Maheshwari Seva Sadan, Gadhbor CharbhujaJi",
+          "locationConfidence": 12.232211,
+          "calibratedProbability": 3.7486455
+        }, {
+          "latitudeE7": 252385690,
+          "longitudeE7": 736946355,
+          "placeId": "ChIJQQkAY3M7aDkRKGG1kvMby8I",
+          "address": "6MQV+9PF, Garhbor, Rajasthan 313334, India",
+          "name": "Office of Tehsildar-Garhbor-Rajsamand",
+          "locationConfidence": 7.3756127,
+          "calibratedProbability": 2.2603076
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 41,
+        "placeVisitType": "SINGLE_PLACE",
+        "placeVisitLevel": 1
+      }],
+      "centerLatE7": 252397233,
+      "centerLngE7": 736974567,
+      "visitConfidence": 61,
+      "otherCandidateLocations": [{
+        "latitudeE7": 252419229,
+        "longitudeE7": 736972801,
+        "placeId": "ChIJjxLX6rs7aDkRjHFyFmi3jo0",
+        "address": "RJ SH 16, Garhbor, Rajasthan 313334, India",
+        "name": "Akhil Bhartiya Maheshwari Seva Sadan, Gadhbor CharbhujaJi",
+        "locationConfidence": 6.2972727,
+        "calibratedProbability": 2.1998572
+      }, {
+        "latitudeE7": 252339020,
+        "longitudeE7": 736744385,
+        "locationConfidence": 5.934673,
+        "calibratedProbability": 2.0731885
+      }, {
+        "latitudeE7": 252388048,
+        "longitudeE7": 736949907,
+        "placeId": "ChIJaa9pwJs7aDkRwEOR6UpfDrU",
+        "address": "Near Tehsil Garhbor, HimachalSuriNagar Chouraha, opposite Goushala, JainMandir, Charbhuja, Garhbor, Rajasthan 313333, India",
+        "name": "PERFECT E-SERVICES PAN Center Emitra CSC FastTag",
+        "locationConfidence": 3.8617816,
+        "calibratedProbability": 1.3490552
+      }, {
+        "latitudeE7": 252334641,
+        "longitudeE7": 736763894,
+        "placeId": "ChIJMdz870E7aDkR5yWMFlG_2sE",
+        "address": "near toll plaza, 6MMG+9HJ, Garhbor, Rajasthan 313334, India",
+        "name": "Green chilli midway",
+        "locationConfidence": 3.3587801,
+        "calibratedProbability": 1.1733392
+      }, {
+        "latitudeE7": 252379860,
+        "longitudeE7": 736945080,
+        "placeId": "ChIJNbylfnM7aDkRSynvEPE7OK8",
+        "address": "Garhbor, Rajasthan 313334, India",
+        "name": "Charbhuja",
+        "locationConfidence": 3.1025803,
+        "calibratedProbability": 1.0838397
+      }, {
+        "latitudeE7": 252338810,
+        "longitudeE7": 736709366,
+        "locationConfidence": 2.2966661,
+        "calibratedProbability": 0.8023057
+      }, {
+        "latitudeE7": 252327256,
+        "longitudeE7": 736746617,
+        "placeId": "ChIJA5V9-tI7aDkRXmHFffSq900",
+        "address": "6MMF+3VV, NH 162 Ext, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Talgarh Restaurant",
+        "locationConfidence": 1.9476318,
+        "calibratedProbability": 0.6803758
+      }, {
+        "latitudeE7": 252429391,
+        "longitudeE7": 736981747,
+        "placeId": "ChIJQy7TOBY7aDkReA3WRW0cNsM",
+        "address": "India, Charbhuja, Garhbor, Rajasthan 313333, India",
+        "name": "Charbhuja IceCream Corner",
+        "locationConfidence": 1.7350879,
+        "calibratedProbability": 0.6061268
+      }, {
+        "latitudeE7": 252385690,
+        "longitudeE7": 736946355,
+        "placeId": "ChIJQQkAY3M7aDkRKGG1kvMby8I",
+        "address": "6MQV+9PF, Garhbor, Rajasthan 313334, India",
+        "name": "Office of Tehsildar-Garhbor-Rajsamand",
+        "locationConfidence": 1.7311087,
+        "calibratedProbability": 0.60473675
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 34,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 252339020,
+        "longitudeE7": 736744385,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        },
+        "locationConfidence": 15.000829,
+        "calibratedProbability": 7.4823284
+      },
+      "duration": {
+        "startTimestamp": "2021-07-15T17:00:10.246Z",
+        "endTimestamp": "2021-07-16T16:01:30.960Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 252340875,
+      "centerLngE7": 736753500,
+      "visitConfidence": 60,
+      "otherCandidateLocations": [{
+        "latitudeE7": 252334641,
+        "longitudeE7": 736763894,
+        "placeId": "ChIJMdz870E7aDkR5yWMFlG_2sE",
+        "address": "near toll plaza, 6MMG+9HJ, Garhbor, Rajasthan 313334, India",
+        "name": "Green chilli midway",
+        "locationConfidence": 10.7251425,
+        "calibratedProbability": 5.3496404
+      }, {
+        "latitudeE7": 252338810,
+        "longitudeE7": 736709366,
+        "locationConfidence": 8.035791,
+        "calibratedProbability": 4.0082073
+      }, {
+        "latitudeE7": 252327256,
+        "longitudeE7": 736746617,
+        "placeId": "ChIJA5V9-tI7aDkRXmHFffSq900",
+        "address": "6MMF+3VV, NH 162 Ext, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Talgarh Restaurant",
+        "locationConfidence": 4.967478,
+        "calibratedProbability": 2.4777498
+      }, {
+        "latitudeE7": 252299459,
+        "longitudeE7": 736812110,
+        "placeId": "ChIJD3rfTk07aDkRfjsw7AIOzVs",
+        "address": "6MHJ+XFX, Jhilwara Rd, Jhilwara, Chadana Ki Bhagal, Rajasthan 313334, India",
+        "name": "Dr Govind Singh Solanki Jhilwara",
+        "locationConfidence": 0.32565376,
+        "calibratedProbability": 0.16243425
+      }, {
+        "latitudeE7": 252406286,
+        "longitudeE7": 736698358,
+        "placeId": "ChIJsVgHIDk7aDkRKFTZxIjc1w0",
+        "address": "6MR9+7W4, Hataji Ka Gurha, Garhbor, Rajasthan 313333, India",
+        "name": "Ram Dev Mandir",
+        "locationConfidence": 0.3256591,
+        "calibratedProbability": 0.05136696
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 4,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 252343664,
+        "longitudeE7": 736752625,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 252343664,
+        "longitudeE7": 736752625,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-16T16:01:30.960Z",
+        "endTimestamp": "2021-07-17T08:33:17.871Z"
+      },
+      "distance": 675,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 35.56772172451019
+      }, {
+        "activityType": "STILL",
+        "probability": 26.25223398208618
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 24.031570553779602
+      }, {
+        "activityType": "WALKING",
+        "probability": 11.685192584991455
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.3882353901863098
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.4111829213798046
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.20866186823695898
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.17990416381508112
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.12830556370317936
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.07062269141897559
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.04043366061523557
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.0321942032314837
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.003387786273378879
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.943408162536798E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 6.720542842231225E-5
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 252341841,
+          "lngE7": 736719545,
+          "accuracyMeters": 8,
+          "timestamp": "2021-07-17T02:20:31Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 654.0540513108022
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 252342102,
+        "longitudeE7": 736751428,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 252326840,
+        "longitudeE7": 736677889,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-17T08:33:17.871Z",
+        "endTimestamp": "2021-07-17T12:16:36.601Z"
+      },
+      "distance": 758,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 37.69250512123108
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 34.679171442985535
+      }, {
+        "activityType": "STILL",
+        "probability": 13.723216950893402
+      }, {
+        "activityType": "WALKING",
+        "probability": 11.191800981760025
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.4233991503715515
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.48589957877993584
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.2559233922511339
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.25178538635373116
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.17178411362692714
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.05330379353836179
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.03926966746803373
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.02865600399672985
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0029705675842706114
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.3319532829191303E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 7.330116886805627E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 252340679,
+          "lngE7": 736752853
+        }, {
+          "latE7": 252328033,
+          "lngE7": 736739883
+        }, {
+          "latE7": 252330589,
+          "lngE7": 736678619
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJ9WiOzkE7aDkR-65W_jQ3f0A",
+          "duration": "1327s"
+        }, {
+          "placeId": "ChIJ-UIyhUE7aDkR_nUB2vCLXvA",
+          "duration": "362s"
+        }, {
+          "placeId": "ChIJ0VMCkkE7aDkR9HkePxAReFg",
+          "duration": "120s"
+        }, {
+          "placeId": "ChIJkU__XEE7aDkRqE0xzcYVS-I",
+          "duration": "844s"
+        }, {
+          "placeId": "ChIJkU__XEE7aDkRY4g-g3igHhI",
+          "duration": "2293s"
+        }],
+        "distanceMeters": 825.7707613711624,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 252327335,
+          "longitudeE7": 736677563,
+          "accuracyMetres": 152
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2021-07-17T12:20:40.755Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 252328918,
+        "longitudeE7": 736689134,
+        "placeId": "ChIJoc5mjkY7aDkRm-EHnwLyI-g",
+        "address": "6MM9+5H3, RJ SH 16, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Jhilwara RSRDC Toll Plaza",
+        "sourceInfo": {
+          "deviceTag": -355143198
+        },
+        "locationConfidence": 69.51658,
+        "calibratedProbability": 57.636276
+      },
+      "duration": {
+        "startTimestamp": "2021-07-17T12:16:36.601Z",
+        "endTimestamp": "2021-07-17T12:45:03.029Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 252327046,
+      "centerLngE7": 736677646,
+      "visitConfidence": 84,
+      "otherCandidateLocations": [{
+        "latitudeE7": 252339325,
+        "longitudeE7": 736710968,
+        "locationConfidence": 6.6873493,
+        "calibratedProbability": 5.544489
+      }, {
+        "latitudeE7": 252329421,
+        "longitudeE7": 736660022,
+        "placeId": "ChIJCQFTnl47aDkRW0ZX4WP2Edo",
+        "address": "Jhilwara, bus stand, Desuri Road, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "श्री देवनारायण होटल",
+        "locationConfidence": 3.533661,
+        "calibratedProbability": 2.9297624
+      }, {
+        "latitudeE7": 252328985,
+        "longitudeE7": 736668269,
+        "placeId": "ChIJHbeFWUM7aDkRKXLBvAKTAmk",
+        "address": "6MM8+5P4, RJ SH 16, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "A to Z",
+        "locationConfidence": 2.3644826,
+        "calibratedProbability": 1.9603953
+      }, {
+        "latitudeE7": 252331571,
+        "longitudeE7": 736663734,
+        "placeId": "ChIJ57xPVJs7aDkRaH-ulGsCI_E",
+        "address": "6MM8+6GQ, NH 162 Ext, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Fountain fast food",
+        "locationConfidence": 1.157275,
+        "calibratedProbability": 0.959498
+      }, {
+        "latitudeE7": 252309686,
+        "longitudeE7": 736655392,
+        "placeId": "ChIJ11j0Eac7aDkRW3KfNZbFhaE",
+        "locationConfidence": 1.0864466,
+        "calibratedProbability": 0.9007742
+      }, {
+        "latitudeE7": 252333588,
+        "longitudeE7": 736664777,
+        "placeId": "ChIJPR_SAXw7aDkR5dnbmexno-w",
+        "address": "6MM8+8HX, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Laxman",
+        "locationConfidence": 0.6363621,
+        "calibratedProbability": 0.5276085
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 55,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 252327248,
+        "longitudeE7": 736677672,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 252341686,
+        "longitudeE7": 736747750,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-17T12:45:03.029Z",
+        "endTimestamp": "2021-07-18T01:30:16.471Z"
+      },
+      "distance": 738,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 38.684532046318054
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 33.001115918159485
+      }, {
+        "activityType": "STILL",
+        "probability": 18.67593675851822
+      }, {
+        "activityType": "WALKING",
+        "probability": 6.926281750202179
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.7000412568449974
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.35529572051018476
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.22369094658643007
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.21522024180740118
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.10563093237578869
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.050606695003807545
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.040877051651477814
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.01754278055159375
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.002864374800992664
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.8859078611276345E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 7.081854960233613E-5
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 252342301,
+          "lngE7": 736718068,
+          "accuracyMeters": 11,
+          "timestamp": "2021-07-18T00:54:27Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 738.079419629939
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 252339077,
+        "longitudeE7": 736744843,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        },
+        "locationConfidence": 19.89531,
+        "calibratedProbability": 6.833656
+      },
+      "duration": {
+        "startTimestamp": "2021-07-18T01:30:16.471Z",
+        "endTimestamp": "2021-07-19T02:00:00.119Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 252339771,
+      "centerLngE7": 736750386,
+      "visitConfidence": 59,
+      "otherCandidateLocations": [{
+        "latitudeE7": 252339325,
+        "longitudeE7": 736710968,
+        "locationConfidence": 13.042196,
+        "calibratedProbability": 4.4797435
+      }, {
+        "latitudeE7": 252334641,
+        "longitudeE7": 736763894,
+        "placeId": "ChIJMdz870E7aDkR5yWMFlG_2sE",
+        "address": "near toll plaza, 6MMG+9HJ, Garhbor, Rajasthan 313334, India",
+        "name": "Green chilli midway",
+        "locationConfidence": 6.905623,
+        "calibratedProbability": 2.3719485
+      }, {
+        "latitudeE7": 252327256,
+        "longitudeE7": 736746617,
+        "placeId": "ChIJA5V9-tI7aDkRXmHFffSq900",
+        "address": "6MMF+3VV, NH 162 Ext, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Talgarh Restaurant",
+        "locationConfidence": 6.4089084,
+        "calibratedProbability": 2.2013366
+      }, {
+        "latitudeE7": 252299459,
+        "longitudeE7": 736812110,
+        "placeId": "ChIJD3rfTk07aDkRfjsw7AIOzVs",
+        "address": "6MHJ+XFX, Jhilwara Rd, Jhilwara, Chadana Ki Bhagal, Rajasthan 313334, India",
+        "name": "Dr Govind Singh Solanki Jhilwara",
+        "locationConfidence": 0.021449152,
+        "calibratedProbability": 0.007367371
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 11,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 252340783,
+        "longitudeE7": 736746910,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 252338087,
+        "longitudeE7": 736747750,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-19T02:00:00.119Z",
+        "endTimestamp": "2021-07-20T02:34:38.762Z"
+      },
+      "distance": 1765,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 43.00395846366882
+      }, {
+        "activityType": "STILL",
+        "probability": 21.9288632273674
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 20.46312987804413
+      }, {
+        "activityType": "WALKING",
+        "probability": 12.361311167478561
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.1584197171032429
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.4337823484092951
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.21132300607860088
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.18688341369852424
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.11975975940003991
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0589030678384006
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.04721067671198398
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.024052956723608077
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0021371375623857602
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.3551222056994447E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 3.363152529800573E-5
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 252346086,
+          "lngE7": 736719707,
+          "accuracyMeters": 11,
+          "timestamp": "2021-07-19T04:09:22Z"
+        }, {
+          "latE7": 252341702,
+          "lngE7": 736718444,
+          "accuracyMeters": 6,
+          "timestamp": "2021-07-19T05:08:15Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 616.7813619806251
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 252339230,
+        "longitudeE7": 736745148,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        },
+        "locationConfidence": 31.132639,
+        "calibratedProbability": 10.526767
+      },
+      "duration": {
+        "startTimestamp": "2021-07-20T02:34:38.762Z",
+        "endTimestamp": "2021-07-21T10:08:43.581Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 252336267,
+      "centerLngE7": 736742800,
+      "visitConfidence": 63,
+      "otherCandidateLocations": [{
+        "latitudeE7": 252339935,
+        "longitudeE7": 736712265,
+        "locationConfidence": 17.437849,
+        "calibratedProbability": 5.8961973
+      }, {
+        "latitudeE7": 252334641,
+        "longitudeE7": 736763894,
+        "placeId": "ChIJMdz870E7aDkR5yWMFlG_2sE",
+        "address": "near toll plaza, 6MMG+9HJ, Garhbor, Rajasthan 313334, India",
+        "name": "Green chilli midway",
+        "locationConfidence": 14.750409,
+        "calibratedProbability": 4.987503
+      }, {
+        "latitudeE7": 252327256,
+        "longitudeE7": 736746617,
+        "placeId": "ChIJA5V9-tI7aDkRXmHFffSq900",
+        "address": "6MMF+3VV, NH 162 Ext, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Talgarh Restaurant",
+        "locationConfidence": 6.992565,
+        "calibratedProbability": 2.3643708
+      }, {
+        "latitudeE7": 252301695,
+        "longitudeE7": 736782817,
+        "placeId": "ChIJvQdhy2k7aDkR2m96Osaf7dQ",
+        "address": "6MJH+387, Chadana Ki Bhagal, Rajasthan 313334, India",
+        "name": "Saraswati Math",
+        "locationConfidence": 1.4900417,
+        "calibratedProbability": 0.50382245
+      }, {
+        "latitudeE7": 252299459,
+        "longitudeE7": 736812110,
+        "placeId": "ChIJD3rfTk07aDkRfjsw7AIOzVs",
+        "address": "6MHJ+XFX, Jhilwara Rd, Jhilwara, Chadana Ki Bhagal, Rajasthan 313334, India",
+        "name": "Dr Govind Singh Solanki Jhilwara",
+        "locationConfidence": 1.3547783,
+        "calibratedProbability": 0.4580863
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 24,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 252340783,
+        "longitudeE7": 736746910,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 252342933,
+        "longitudeE7": 736758786,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-21T10:08:43.581Z",
+        "endTimestamp": "2021-07-21T16:40:05.669Z"
+      },
+      "distance": 121,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 39.09500539302826
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 25.70158839225769
+      }, {
+        "activityType": "STILL",
+        "probability": 23.759770393371582
+      }, {
+        "activityType": "WALKING",
+        "probability": 9.046011418104172
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.3691585510969162
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.3726757597178221
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.20076618529856205
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.19202623516321182
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.13673576759174466
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.05928215105086565
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.03912475076504052
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.02496472734492272
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0026014758987003006
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.4493183445883915E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 4.9136599500343436E-5
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 252354117,
+          "lngE7": 736571161,
+          "accuracyMeters": 400,
+          "timestamp": "2021-07-21T10:19:03.154Z"
+        }, {
+          "latE7": 252329501,
+          "lngE7": 736703604,
+          "accuracyMeters": 300,
+          "timestamp": "2021-07-21T10:48:45.587Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 3709.0682017786066
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 252336520,
+        "longitudeE7": 736757182,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 252342933,
+        "longitudeE7": 736758786,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-21T16:40:05.669Z",
+        "endTimestamp": "2021-07-21T17:04:55.974Z"
+      },
+      "distance": 73,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 39.47313129901886
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 24.96081441640854
+      }, {
+        "activityType": "STILL",
+        "probability": 24.67895597219467
+      }, {
+        "activityType": "WALKING",
+        "probability": 8.30371156334877
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.5541783533990383
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.37230036687105894
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.20852175075560808
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.190687773283571
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.1303236116655171
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.05899567622691393
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.040434280526824296
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.02481544215697795
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0028208361982251517
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.578240810180432E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 5.357885584089672E-5
+      }],
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 252342933,
+          "longitudeE7": 736758786,
+          "accuracyMetres": 160,
+          "sourceInfo": {
+            "deviceTag": -355143198
+          }
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2021-07-21T17:04:55.974Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 252334641,
+        "longitudeE7": 736763894,
+        "placeId": "ChIJMdz870E7aDkR5yWMFlG_2sE",
+        "address": "near toll plaza, 6MMG+9HJ, Garhbor, Rajasthan 313334, India",
+        "name": "Green chilli midway",
+        "sourceInfo": {
+          "deviceTag": -355143198
+        },
+        "locationConfidence": 26.50846,
+        "calibratedProbability": 10.444116
+      },
+      "duration": {
+        "startTimestamp": "2021-07-21T17:04:55.974Z",
+        "endTimestamp": "2021-07-22T04:20:56.804Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 252370520,
+      "centerLngE7": 736755460,
+      "visitConfidence": 64,
+      "otherCandidateLocations": [{
+        "latitudeE7": 252339458,
+        "longitudeE7": 736745529,
+        "locationConfidence": 19.205507,
+        "calibratedProbability": 7.5668125
+      }, {
+        "latitudeE7": 252339935,
+        "longitudeE7": 736712265,
+        "locationConfidence": 9.800379,
+        "calibratedProbability": 3.861269
+      }, {
+        "latitudeE7": 252370194,
+        "longitudeE7": 736775111,
+        "placeId": "ChIJ5ZsMGk07aDkRXQSVnNxI4i0",
+        "address": "6MPH+R22, Garhbor, Rajasthan 313334, India",
+        "name": "Dalaji ki Bhagal",
+        "locationConfidence": 7.5156784,
+        "calibratedProbability": 2.9611156
+      }, {
+        "latitudeE7": 252327256,
+        "longitudeE7": 736746617,
+        "placeId": "ChIJA5V9-tI7aDkRXmHFffSq900",
+        "address": "6MMF+3VV, NH 162 Ext, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Talgarh Restaurant",
+        "locationConfidence": 4.1072183,
+        "calibratedProbability": 1.6182103
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 19,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 252340783,
+        "longitudeE7": 736746910,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 252338828,
+        "longitudeE7": 736749097,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-22T04:20:56.804Z",
+        "endTimestamp": "2021-07-23T01:32:06.258Z"
+      },
+      "distance": 605,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 40.228164196014404
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 24.288877844810486
+      }, {
+        "activityType": "STILL",
+        "probability": 17.55579710006714
+      }, {
+        "activityType": "WALKING",
+        "probability": 15.183927118778229
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.3796521350741386
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.4940154030919075
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.27611618861556053
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.2573968144133687
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.1612527878023684
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.07571206660941243
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.05776186008006334
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.0368463370250538
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0041570532630430534
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.527904143789783E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 7.134398174457601E-5
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 252342195,
+          "lngE7": 736719671,
+          "accuracyMeters": 11,
+          "timestamp": "2021-07-22T04:34:08Z"
+        }, {
+          "latE7": 252343418,
+          "lngE7": 736718446,
+          "accuracyMeters": 19,
+          "timestamp": "2021-07-22T04:37:14Z"
+        }, {
+          "latE7": 252341898,
+          "lngE7": 736719890,
+          "accuracyMeters": 171,
+          "timestamp": "2021-07-22T04:58:03.078Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 609.9196970474189
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 252338828,
+        "longitudeE7": 736749097,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 250583152,
+        "longitudeE7": 738736214,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-23T01:32:06.258Z",
+        "endTimestamp": "2021-07-23T04:07:35.766Z"
+      },
+      "distance": 33313,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 42.29591488838196
+      }, {
+        "activityType": "STILL",
+        "probability": 28.70648205280304
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 16.115669906139374
+      }, {
+        "activityType": "CYCLING",
+        "probability": 6.819075345993042
+      }, {
+        "activityType": "WALKING",
+        "probability": 5.21329864859581
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.3374110674485564
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.2640024060383439
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.07804841734468937
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.0747724378015846
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.041192295611836016
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0271964177954942
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.014841406664345413
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.011829171853605658
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 1.9822341528197285E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 6.978945066293818E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 252337818,
+          "lngE7": 736751174
+        }, {
+          "latE7": 252380161,
+          "lngE7": 736946411
+        }, {
+          "latE7": 250584239,
+          "lngE7": 738737487
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 37129.07102291943,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 0.33034899381045246
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 250598430,
+          "longitudeE7": 738712565,
+          "accuracyMetres": 36
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2021-07-23T04:07:59.309Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 250582994,
+        "longitudeE7": 738735485,
+        "placeId": "ChIJGSAngWNraDkRR-fb_Esv4i8",
+        "address": "100 Feet Rd, Shri Ram Nagar-A Colony, Mahaveer Nagar, kishor Nagar, Rajsamand, Rajasthan 313333, India",
+        "name": "Kavdia Hospital",
+        "sourceInfo": {
+          "deviceTag": -355143198
+        },
+        "locationConfidence": 94.228745,
+        "calibratedProbability": 84.935326
+      },
+      "duration": {
+        "startTimestamp": "2021-07-23T04:07:35.766Z",
+        "endTimestamp": "2021-07-23T04:57:38.597Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 250582430,
+      "centerLngE7": 738735470,
+      "visitConfidence": 92,
+      "otherCandidateLocations": [{
+        "latitudeE7": 250594600,
+        "longitudeE7": 738731847,
+        "placeId": "ChIJ5ZpMFbdraDkRvFEW32fGNQs",
+        "address": "Ganesh Plaza, 100 Feet Rd, Shri Ram Nagar, Mahaveer Nagar, kishor Nagar, Rajsamand, Rajasthan 313324, India",
+        "name": "HDFC Bank",
+        "locationConfidence": 0.4826882,
+        "calibratedProbability": 0.43508253
+      }, {
+        "latitudeE7": 250588709,
+        "longitudeE7": 738749133,
+        "placeId": "ChIJ14vi1ClraDkRcrGuWc-zMRY",
+        "address": "Shri Ram Nagar, Mahaveer Nagar, kishor Nagar, Rajsamand, Rajasthan 313333, India",
+        "name": "Amar Jawan Shahid",
+        "locationConfidence": 0.4239252,
+        "calibratedProbability": 0.3821151
+      }, {
+        "latitudeE7": 250600297,
+        "longitudeE7": 738752561,
+        "placeId": "ChIJuxYYkWRraDkRPy_XRWTfaZA",
+        "address": "3V5G+V3P, kishor Nagar, Rajsamand, Rajasthan 313333, India",
+        "name": "District Collectorate",
+        "locationConfidence": 0.42043716,
+        "calibratedProbability": 0.37897107
+      }, {
+        "latitudeE7": 250559422,
+        "longitudeE7": 738722792,
+        "placeId": "ChIJC_CSzGNraDkRWMpGEqYXoJE",
+        "address": "veer sarwarkar marg, 3V4C+8RP, 100 Feet Rd, Shri Ram Nagar, Mahaveer Nagar, kishor Nagar, Rajsamand, Rajasthan 313324, India",
+        "name": "dev heritage",
+        "locationConfidence": 0.27975976,
+        "calibratedProbability": 0.25216815
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 80,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 250583038,
+        "longitudeE7": 738735459,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 250675093,
+        "longitudeE7": 738692092,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-23T04:57:38.597Z",
+        "endTimestamp": "2021-07-23T05:11:38.733Z"
+      },
+      "distance": 1113,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 63.101303577423096
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 30.066433548927307
+      }, {
+        "activityType": "CYCLING",
+        "probability": 3.677915409207344
+      }, {
+        "activityType": "WALKING",
+        "probability": 2.506646327674389
+      }, {
+        "activityType": "STILL",
+        "probability": 0.3405748400837183
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.13164232950657606
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.0984376179985702
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.03322316915728152
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.010735551040852442
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.010510862193768844
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.010135467164218426
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.006988734821788967
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.005392745151766576
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 4.05317933882543E-5
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.1907792440979392E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 250584640,
+          "lngE7": 738733749
+        }, {
+          "latE7": 250637264,
+          "lngE7": 738752136
+        }, {
+          "latE7": 250675182,
+          "lngE7": 738692169
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1434.974887614217,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 1.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 250675095,
+          "longitudeE7": 738692093,
+          "accuracyMetres": 102
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2021-07-23T05:11:43.488Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 250701008,
+        "longitudeE7": 738679796,
+        "placeId": "ChIJc6heKWpraDkRPWQSYp6ZVJE",
+        "address": "3VC9+25X, Raj Nagar, Rajsamand, Rajasthan 313333, India",
+        "name": "government girls senior secondary school, dhobi gali, rajnagar, rajsmand",
+        "sourceInfo": {
+          "deviceTag": -355143198
+        },
+        "locationConfidence": 21.802738,
+        "calibratedProbability": 9.946794
+      },
+      "duration": {
+        "startTimestamp": "2021-07-23T05:11:38.733Z",
+        "endTimestamp": "2021-07-23T06:02:58.781Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 250686200,
+      "centerLngE7": 738678857,
+      "visitConfidence": 78,
+      "otherCandidateLocations": [{
+        "latitudeE7": 250680429,
+        "longitudeE7": 738686478,
+        "placeId": "ChIJ61xdCWlraDkRA7rB_u7Vdv8",
+        "address": "3V99+6CP, Raj Nagar, Rajsamand, Rajasthan 313333, India",
+        "name": "State Bank Of India ATM",
+        "locationConfidence": 15.09431,
+        "calibratedProbability": 6.88629
+      }, {
+        "latitudeE7": 250688666,
+        "longitudeE7": 738675826,
+        "placeId": "ChIJC59ikGlraDkR9XLl5s6GE2Q",
+        "address": "Rajsamand Main Rd, Raj Nagar, Rajsamand, Rajasthan 313324, India",
+        "name": "State Bank ATM",
+        "locationConfidence": 12.979817,
+        "calibratedProbability": 5.9216213
+      }, {
+        "latitudeE7": 250688083,
+        "longitudeE7": 738677845,
+        "placeId": "ChIJ____v2traDkRk1p7bLeDME4",
+        "address": "3V99+H44, Raj Nagar, Rajsamand, Rajasthan 313333, India",
+        "name": "Ramdev Textile",
+        "locationConfidence": 8.090484,
+        "calibratedProbability": 3.6910212
+      }, {
+        "latitudeE7": 250686000,
+        "longitudeE7": 738679880,
+        "placeId": "ChIJG2YymWlraDkRFDr0KF8SxbM",
+        "address": "Sadar Bazaar, Raj Nagar Kankroli Road, 3V99+F54, near Nirmal Fancy Store, Raj Nagar, Rajsamand, Rajasthan 313326, India",
+        "name": "Hari Om Dariy",
+        "locationConfidence": 6.3533726,
+        "calibratedProbability": 2.8985205
+      }, {
+        "latitudeE7": 250688308,
+        "longitudeE7": 738677264,
+        "placeId": "ChIJcyBommlraDkRTFQSyC64nTU",
+        "address": "3V99+F3V, Rajnagar - Kankroli Rd, Raj Nagar, Rajsamand, Rajasthan 313333, India",
+        "name": "Nirma Fancy Store",
+        "locationConfidence": 5.0631022,
+        "calibratedProbability": 2.3098764
+      }, {
+        "latitudeE7": 250699917,
+        "longitudeE7": 738671753,
+        "placeId": "ChIJFf7HIGpraDkRn99y7AAFOLc",
+        "address": "3V98+XVV, RJ SH 12, Raj Nagar, Rajsamand, Rajasthan 313333, India",
+        "name": "Mahatma Gandhi Govt. High Secondary School, Rajnagar, Rajsamand",
+        "locationConfidence": 4.2028704,
+        "calibratedProbability": 1.9174235
+      }, {
+        "latitudeE7": 250685359,
+        "longitudeE7": 738680595,
+        "placeId": "ChIJVcA1ewVraDkRp92RJd_TZXU",
+        "address": "3V99+C67, Main Rd, Raj Nagar, Rajsamand, Rajasthan 313333, India",
+        "name": "GANGA COMPUTERS",
+        "locationConfidence": 3.3008366,
+        "calibratedProbability": 1.5058998
+      }, {
+        "latitudeE7": 250682280,
+        "longitudeE7": 738685550,
+        "placeId": "ChIJeVT_KGVraDkRtuItvsSs_WM",
+        "address": "3V8C+HGJ, RJ SH 12, kishor Nagar, Rajsamand, Rajasthan 313333, India",
+        "name": "Rajsamand Police Station",
+        "locationConfidence": 3.2117202,
+        "calibratedProbability": 1.4652433
+      }, {
+        "latitudeE7": 250677669,
+        "longitudeE7": 738688158,
+        "placeId": "ChIJs7YaPiZraDkR7NsEjPi05HU",
+        "address": "3V99+4HR, Kothari, Rajsamand, Rajasthan 313333, India",
+        "name": "Rajsamand bakers",
+        "locationConfidence": 3.122971,
+        "calibratedProbability": 1.4247544
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 13,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 250686258,
+        "longitudeE7": 738678911,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 250690187,
+        "longitudeE7": 738751523,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-23T06:02:58.781Z",
+        "endTimestamp": "2021-07-23T06:26:06.302Z"
+      },
+      "distance": 2947,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 61.64604425430298
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 22.8025883436203
+      }, {
+        "activityType": "WALKING",
+        "probability": 8.12668427824974
+      }, {
+        "activityType": "CYCLING",
+        "probability": 5.389423668384552
+      }, {
+        "activityType": "STILL",
+        "probability": 1.5625003725290298
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.21102551836520433
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.17108505126088858
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.029291518148966134
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.0165252189617604
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.01572085893712938
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.013417434820439667
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.010562434181338176
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.005063281423645094
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 4.3695914087038545E-5
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.4714844926165824E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 250686244,
+          "lngE7": 738678894
+        }, {
+          "latE7": 250750312,
+          "lngE7": 738670578
+        }, {
+          "latE7": 250693702,
+          "lngE7": 738744735
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 2055.4561463278887,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 250690230,
+          "longitudeE7": 738751579,
+          "accuracyMetres": 132
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2021-07-23T06:28:07.520Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 250683942,
+        "longitudeE7": 738758646,
+        "placeId": "ChIJq-NhOW5raDkRBZb5toGl5aU",
+        "address": "Nau Choki Pal, Kelwara, Rajsamand, Rajasthan 313324, India",
+        "name": "Nau Chauki, Rajsamand Lake View Point",
+        "sourceInfo": {
+          "deviceTag": -355143198
+        },
+        "locationConfidence": 86.6512,
+        "calibratedProbability": 74.45156
+      },
+      "duration": {
+        "startTimestamp": "2021-07-23T06:26:06.302Z",
+        "endTimestamp": "2021-07-23T07:13:06.883Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 250690160,
+      "centerLngE7": 738751460,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 250693318,
+        "longitudeE7": 738747150,
+        "placeId": "ChIJcTnFKuJraDkRM5mb4PtiDk8",
+        "address": "nau chokki pal, Kelwara, Rajsamand, Rajasthan 313324, India",
+        "name": "Maharana Raj Singh Panorama",
+        "locationConfidence": 5.550615,
+        "calibratedProbability": 4.7691426
+      }, {
+        "latitudeE7": 250679060,
+        "longitudeE7": 738765047,
+        "placeId": "ChIJAzFOLW5raDkRsEBZnz2A-nA",
+        "address": "Kelwara, Rajsamand, Rajasthan 313324, India",
+        "name": "Nau Chowki Guest House",
+        "locationConfidence": 3.5898223,
+        "calibratedProbability": 3.0844107
+      }, {
+        "latitudeE7": 250692926,
+        "longitudeE7": 738752498,
+        "placeId": "ChIJ-cy9aW5raDkR75R7Urib-A4",
+        "address": "3V9G+P39, Rajsamand, Rajasthan 313324, India",
+        "name": "Beauty of Nau Chauki",
+        "locationConfidence": 1.5330511,
+        "calibratedProbability": 1.3172126
+      }, {
+        "latitudeE7": 250582994,
+        "longitudeE7": 738735485,
+        "placeId": "ChIJGSAngWNraDkRR-fb_Esv4i8",
+        "address": "100 Feet Rd, Shri Ram Nagar-A Colony, Mahaveer Nagar, kishor Nagar, Rajsamand, Rajasthan 313333, India",
+        "name": "Kavdia Hospital",
+        "locationConfidence": 0.97162706,
+        "calibratedProbability": 0.8348315
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 71,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 250690447,
+        "longitudeE7": 738751827,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 252341648,
+        "longitudeE7": 736754813,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-23T07:13:06.883Z",
+        "endTimestamp": "2021-07-24T12:33:07.203Z"
+      },
+      "distance": 34293,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 45.23679316043854
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 40.68799018859863
+      }, {
+        "activityType": "WALKING",
+        "probability": 5.876025930047035
+      }, {
+        "activityType": "CYCLING",
+        "probability": 3.6493927240371704
+      }, {
+        "activityType": "STILL",
+        "probability": 3.298826515674591
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.488265510648489
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.3581451252102852
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.20635579712688923
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.09747430449351668
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.04119949880987406
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.03283966216258705
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.02095878153340891
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.005471476470120251
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.630417841624876E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 9.9418900845194E-5
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 252162916,
+          "lngE7": 737973263,
+          "accuracyMeters": 56,
+          "timestamp": "2021-07-23T07:43:35.207Z"
+        }, {
+          "latE7": 252162783,
+          "lngE7": 737973842,
+          "accuracyMeters": 77,
+          "timestamp": "2021-07-23T07:45:35.270Z"
+        }, {
+          "latE7": 252163897,
+          "lngE7": 737972322,
+          "accuracyMeters": 82,
+          "timestamp": "2021-07-23T07:49:36.806Z"
+        }, {
+          "latE7": 252161940,
+          "lngE7": 737974334,
+          "accuracyMeters": 56,
+          "timestamp": "2021-07-23T07:51:36.834Z"
+        }, {
+          "latE7": 252163383,
+          "lngE7": 737973035,
+          "accuracyMeters": 24,
+          "timestamp": "2021-07-23T07:53:38.791Z"
+        }, {
+          "latE7": 252435865,
+          "lngE7": 737101986,
+          "accuracyMeters": 128,
+          "timestamp": "2021-07-23T08:12:11.063Z"
+        }, {
+          "latE7": 252385100,
+          "lngE7": 736947015,
+          "accuracyMeters": 60,
+          "timestamp": "2021-07-23T08:16:14.116Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 31436.368297460205
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 252334641,
+        "longitudeE7": 736763894,
+        "placeId": "ChIJMdz870E7aDkR5yWMFlG_2sE",
+        "address": "near toll plaza, 6MMG+9HJ, Garhbor, Rajasthan 313334, India",
+        "name": "Green chilli midway",
+        "sourceInfo": {
+          "deviceTag": -355143198
+        },
+        "locationConfidence": 42.627262,
+        "calibratedProbability": 7.5449805
+      },
+      "duration": {
+        "startTimestamp": "2021-07-24T12:33:07.203Z",
+        "endTimestamp": "2021-07-25T01:47:22.959Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 252340850,
+      "centerLngE7": 736750425,
+      "visitConfidence": 57,
+      "otherCandidateLocations": [{
+        "latitudeE7": 252339573,
+        "longitudeE7": 736745682,
+        "locationConfidence": 16.44835,
+        "calibratedProbability": 2.9113407
+      }, {
+        "latitudeE7": 252340508,
+        "longitudeE7": 736712112,
+        "locationConfidence": 8.454461,
+        "calibratedProbability": 1.4964306
+      }, {
+        "latitudeE7": 252327256,
+        "longitudeE7": 736746617,
+        "placeId": "ChIJA5V9-tI7aDkRXmHFffSq900",
+        "address": "6MMF+3VV, NH 162 Ext, Hataji Ka Gurha, Rajasthan 313334, India",
+        "name": "Talgarh Restaurant",
+        "locationConfidence": 2.919075,
+        "calibratedProbability": 0.5166732
+      }, {
+        "latitudeE7": 252370194,
+        "longitudeE7": 736775111,
+        "placeId": "ChIJ5ZsMGk07aDkRXQSVnNxI4i0",
+        "address": "6MPH+R22, Garhbor, Rajasthan 313334, India",
+        "name": "Dalaji ki Bhagal",
+        "locationConfidence": 1.6211156,
+        "calibratedProbability": 0.28693575
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 35,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 252459625,
+        "longitudeE7": 736836039,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 252343574,
+        "longitudeE7": 736752479,
+        "sourceInfo": {
+          "deviceTag": -355143198
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-25T01:47:22.959Z",
+        "endTimestamp": "2021-07-25T15:37:44.335Z"
+      },
+      "distance": 1923,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 29.728299379348755
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 27.482417225837708
+      }, {
+        "activityType": "STILL",
+        "probability": 26.78218185901642
+      }, {
+        "activityType": "WALKING",
+        "probability": 12.785051763057709
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.0876863971352577
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.4192670341581106
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.25040553882718086
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.18504572799429297
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.09603676153346896
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.08682706975378096
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.05837516509927809
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.03212130395695567
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.005978837361908518
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.7206277789227897E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 1.2821617474401137E-4
+      }]
+    }
+  }]
+}
