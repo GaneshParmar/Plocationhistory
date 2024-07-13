@@ -79,7 +79,7 @@ const ShowTimeLineMap=forwardRef((props: ShowTimeLineMapProps, ref: Ref<any>) =>
           `;
 
           return (
-            <Marker key={index} position={position}>
+            <Marker  key={index} position={position}>
               <Tooltip permanent>
                 <div dangerouslySetInnerHTML={{ __html: tooltipContent }} />
               </Tooltip>

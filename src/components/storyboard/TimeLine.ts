@@ -1,4 +1,4 @@
-
+const baseUrl = import.meta.env.BASE_URL;
 // // // mapDate.ts
 // // // type placeLocation = {
 // // //     latitudeE7 : number,
@@ -149,8 +149,8 @@ const getTimeLineObjects = async (user_selected_date: Date): Promise<TimelineObj
     const year = user_selected_date.getFullYear();
     const month = user_selected_date.toLocaleString('default', { month: 'long' }).toUpperCase();
 
-    const fileUrl = `/data/${year}/${year}_${month}.json`;
-
+    const fileUrl = `${baseUrl}data/${year}/${year}_${month}.json`;
+    
     let timelineObjects: TimelineObjects[] = [];
 
     try {

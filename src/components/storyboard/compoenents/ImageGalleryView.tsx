@@ -78,6 +78,7 @@ import { useEffect, useState } from 'react';
 import ImageGallery from 'react-image-gallery';
 import 'react-image-gallery/styles/css/image-gallery.css';
 import { RoundedButton } from '../../utils/common/RoundedButton';
+const baseUrl = import.meta.env.BASE_URL;
 
 const AnimationControl = ({ goToPreviousComponent, goToNextComponent } : any) => {
     return (
@@ -107,16 +108,17 @@ const Slideshow = ({ images, goToPreviousComponent, goToLocationView }) => {
    
   }, []);
 
+
   const transformImages = (images) => {
     return images.map((image) => {
       if (typeof image === 'string') {
         return {
-          original: image
+          original: baseUrl + image
         };
       } else if (typeof image === 'object' && image.url) {
         return {
-          original: image.url,
-          thumbnail: image.url,
+          original: baseUrl+image.url,
+          thumbnail: baseUrl+image.url,
           description: image.caption || '',
         };
       }
