@@ -177,6 +177,10 @@ const getTimeLineObjects = async (user_selected_date: Date): Promise<TimelineObj
                 left_pointer = mid + 1;
             }
         }
+        if(left_pointer != 0){
+            timelineObjects.push(timelineobjects[left_pointer-1]);
+        }
+        
         for (let i = left_pointer; i < timeline_length; i++) {
             const dateToCheck = timelineobjects[i].activitySegment 
                 ? getFormatedDate(new Date(timelineobjects[i].activitySegment.duration.startTimestamp)) 
@@ -188,6 +192,7 @@ const getTimeLineObjects = async (user_selected_date: Date): Promise<TimelineObj
                 break;
             }
         }
+
 
     } catch (error) {
         console.error(`Error loading timeline data for ${user_selected_date}:`, error);

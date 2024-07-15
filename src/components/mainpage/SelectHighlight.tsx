@@ -18,7 +18,7 @@ export interface highlightType {
 function Highlight({ highlight, handleSelectDate, isActive, setActiveHighlight }: HighlightProps) {
   const handleClick = () => {
     setActiveHighlight(highlight.name);
-    handleSelectDate(new Date(highlight.date));
+    handleSelectDate(new Date(highlight.date), true);
   };
 
   return (

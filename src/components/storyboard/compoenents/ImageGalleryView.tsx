@@ -140,7 +140,7 @@ const Slideshow = ({ images, goToPreviousComponent, goToLocationView }) => {
 
   return (
     <div className="slide-container text-red-500 w-screen h-screen">
-      <ImageGallery autoPlay={true} infinite={false} items={sliderImages} />
+      <ImageGallery autoPlay={false} infinite={false} items={sliderImages} />
       {showControls && <AnimationControl goToPreviousComponent={goToPreviousComponent} goToNextComponent={goToLocationView}/>}
     </div>
   );

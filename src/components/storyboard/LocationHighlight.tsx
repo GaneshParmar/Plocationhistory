@@ -93,6 +93,10 @@ export default function LocationHighlight({ userDate = new Date("2024-06-05") }:
                 </div>
             )
             }
+            <button onClick={()=>{location.reload()}} className="absolute top-2 right-2 z-50">
+                <i className="fas fa-home text-blue-600" />
+            </button>
+            
         </div >
     );
 }

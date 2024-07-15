@@ -6,10 +6,6 @@ function DateSelector({handleSelectDate,userSelectedDate}:{handleSelectDate:(dat
   
   return (
     <div className=" h-fit m-auto">
-
-        <span className="font-extrabold text-3xl text-center block my-2 visible md:hidden">
-          Pooja Location History 
-        </span>
         <span className="font-extrabold text-3xl text-center my-2 hidden md:block">
           Select Date  
         </span>

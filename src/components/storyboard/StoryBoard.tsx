@@ -21,7 +21,7 @@ const StoryBoard = () => {
     ];
 
   return (
-    <div className="h-screen h-dvh flex items-center justify-center bg-gray-200">
+    <div className="h-screen h-dvh flex items-center justify-center">
       <AnimatedSequence components={components} />
     </div>
   );

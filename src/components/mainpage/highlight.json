@@ -4,13 +4,31 @@
             "name" : "19 June 2024, Barista , Hotel",
             "date" : "06-19-2024",
             "description" : "Google location hotel ka location dhikha rha h aur do din pahale hotel se related google search kiya..",
-            "images" : []
+            "images" : ["/images/19June24/19Jun_0.png","/images/19June24/19Jun_1.jpg","/images/19June24/19Jun_3.jpg","/images/19June24/19Jun_4.jpg","/images/19June24/19Jun_5.jpg","/images/19June24/19Jun_6.jpg","/images/19June24/19Jun_7.jpg","/images/19June24/19Jun_8.jpg"]
         },
         {
             "name" : "05 June 2024, Jhut bolti (Office nahi Versova gyi)",
             "date" : "06-05-2024",
             "description" : "Ghar se office ke liye nikli phir versova kyu... Aur message kiya ki late hoga meeting h office mai...office versova mai Barista coffee mai h??",
             "images" : ["/images/JUNE_2024/JUNE_05_1.png","/images/JUNE_2024/JUNE_05_2.png","/images/JUNE_2024/JUNE_05_3.png"]
+        },
+        {
+            "name" : "20 March 2024, Ghar se office ke liye par gyi Churchgate bina bataye",
+            "date" : "03-20-2024",
+            "description" : "Ghar se nikli office ke liye aur colaba movies, restaurant, marine drive, gyi. Birthday mera tha aur enjoy kisi aur ke sath.",
+            "images" : []
+        },
+        {
+            "name" : "05 Jan 2023 Manori beach par friend ke sath",
+            "date" : "01-05-2023",
+            "description" : "Rishabh ke sath photos aur rishita ke sath Ganesh ki burai ki..",
+            "images" : ["/images/05Jan23/1.jpg","/images/05Jan23/2.jpg","/images/05Jan23/3.jpg","/images/05Jan23/4.jpg"]
+        },
+        {
+            "name" : "29 Aug 2022",
+            "date" : "08-20-2022",
+            "description" : "Cute photo with friend. Maine agar galti se bhi touch kiya toh janmo purane traumas yaad aate.",
+            "images" : ["/images/29Aug2022/1.jpg","/images/29Aug2022/2.jpg"]
         }
     ]
 }
